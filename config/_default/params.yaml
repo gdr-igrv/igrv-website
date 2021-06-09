@@ -8,14 +8,14 @@
 theme: minimal
 day_night: false
 font: native
-font_size: L
+font_size: M
 
 # SEO
 
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: My research group description.
+description: Groupe de travail Informatique Géométrique et Graphique, Réalité Virtuelle et Visualisation 
 twitter: ''
 
 # Contact (edit or remove options as required)
