@@ -29,6 +29,6 @@ jobs:
         with:
            # This is the branch you wish to deploy to, for example gh-pages or docs.
           branch: deploy
-          folder: Public
+          folder: public
           single-commit: true
           clean: true
