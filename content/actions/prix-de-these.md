@@ -1,5 +1,7 @@
 ---
 title: Prix de thèse du GdR
+subtitle: 'GdR IG-RV organise un prix de thèse IGRV avec le soutien des associations AFIG, AFRV et EGFR. L’objectif de ce prix de thèse est de récompenser chaque année une excellente thèse issue de la communauté du GdR IG-RV.'
+
 date: 2021-06-21
 ---
 
@@ -11,8 +13,10 @@ Pour le prix 2022, nous invitons tous les docteurs ayant soutenu leur thèse ent
 
 La date limite de soumission était le 1er mars 2022 pour une décision avant l’été. Pour compléter votre soumission, voir les modalités ci-dessous en bas de page.
 
-# Appel 2021
-Jury en cours. Résultats en Juillet sur : [https://prixigrv2021.sciencescall.org/](https://prixigrv2021.sciencescall.org/)
+# Appel 2021
+
+Jury en cours.
+Résultats en Juillet sur : [https://prixigrv2021.sciencescall.org/](https://prixigrv2021.sciencescall.org/)
 
 La date limite de soumission était le 1er mars 2021.
 
@@ -21,28 +25,28 @@ La date limite de soumission était le 1er mars 2021.
 
 Le jury 2020 a été animé par Loïc Barthe et David Coeurjolly. Il était composé de Georges-Pierre Bonneau, George Drettakis, Samuel Hornus, Maud Marchal, Alexis Paljic et Julien Tierny.
 
-Pour plus d'informations, voir prix de thèse IGRV2020.
+Pour plus d'informations, voir [prix de thèse IGRV2020](https://prixigrv2020.sciencesconf.org/).
 
 # Résultats du prix 2019
-**Lauréat : Guillaume Cordonnier** (Université Grenoble Alpes) pour sa thèse intitulée “Modèles à couches pour simuler l'évolution de paysages à grande échelle”, effectuée sous la co-direction de Marie-Paule Cani et Eric Galin. Thèse Vidéo.
+**Lauréat : Guillaume Cordonnier** (Université Grenoble Alpes) pour sa thèse intitulée “Modèles à couches pour simuler l'évolution de paysages à grande échelle”, effectuée sous la co-direction de Marie-Paule Cani et Eric Galin. [Thèse](http://www.theses.fr/2018GREAM072) [Vidéo](https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2019_Cordonnier.mp4).
 
-**Accessit : Jean-Dominique Favreau** (Inria Sophia) pour sa thèse intitulée “Vectorisation compacte d’images par approches stochastiques”, effectuée sous la co-direction de Adrien Bousseau et Florent Lafarge. Thèse Vidéo.
+**Accessit : Jean-Dominique Favreau** (Inria Sophia) pour sa thèse intitulée “Vectorisation compacte d’images par approches stochastiques”, effectuée sous la co-direction de Adrien Bousseau et Florent Lafarge. [Thèse](http://www.theses.fr/2018AZUR4004) [Vidéo](https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2019_Accessit_Favreau.mp4).
 
 Le jury 2019 a été animé par Loïc Barthe et David Coeurjolly. Il était composé de Raphaëlle Chaine, George Drettakis, Jacques-Olivier Lachaud, Maud Marchal, Alexis Paljic, Julien Tierny.
 
-Pour plus d'informations, voir prix de thèse IGRV2019.
+Pour plus d'informations, voir [prix de thèse IGRV2019](https://prixigrv2019.sciencesconf.org/).
 
 # Résultats 2018
 
-**Lauréat : Jérémie Dumas** (Université de Lorraine) pour sa thèse intitulée “Synthèse de formes contrôlable pour la fabrication digitale”, effectuée sous la direction de Sylvain Lefebvre (LORIA et Inria Grand Est), Thèse Vidéo.
+**Lauréat : Jérémie Dumas** (Université de Lorraine) pour sa thèse intitulée “Synthèse de formes contrôlable pour la fabrication digitale”, effectuée sous la direction de Sylvain Lefebvre (LORIA et Inria Grand Est), [Thèse](https://www.jdumas.org/phd/) [Vidéo](https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2018_Dumas.mp4).
 
 **Accessits :**
-* **Lonni Besançon** (Université Paris-Saclay) pour sa thèse intitulée “An interaction Continuum for 3D Data Visualization”, effectuée sous la co-direction de Tobias Isenberg et Mehdi Ammi (LIMSI, Orsay), Thèse Vidéo.
-* **Tibor Stanko** (Université Grenoble Alpes) pour sa thèse intitulée “Shape reconstruction of meshed smooth surfaces equipped with inertial sensors”, effectuée sous la co-direction de Stefanie Hahmann (LJK, Grenoble), Georges-Pierre Bonneau (LJK, Grenoble) et Nathalie Saguin-Sprynski, Thèse Vidéo.
+* **Lonni Besançon** (Université Paris-Saclay) pour sa thèse intitulée “An interaction Continuum for 3D Data Visualization”, effectuée sous la co-direction de Tobias Isenberg et Mehdi Ammi (LIMSI, Orsay), [Thèse](https://tel.archives-ouvertes.fr/tel-01684210/) [Vidéo](https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2018_Accessit-1_Besancon.mp4).
+* **Tibor Stanko** (Université Grenoble Alpes) pour sa thèse intitulée “Shape reconstruction of meshed smooth surfaces equipped with inertial sensors”, effectuée sous la co-direction de Stefanie Hahmann (LJK, Grenoble), Georges-Pierre Bonneau (LJK, Grenoble) et Nathalie Saguin-Sprynski, [Thèse](https://hal.inria.fr/tel-01673779) [Vidéo](https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2018_Accessit-2_Stanko.mp4).
 
 Le jury 2018 a été animé par Loïc Barthe et David Coeurjolly. Il était composé de Raphaëlle Chaine, Pierre De Loor, Julien Tierny, Jacques-Olivier Lachaud, Maud Marchal et Mathias Paulin.
 
-Pour plus d'informations, voir prix de thèse IGRV2018.
+Pour plus d'informations, voir [prix de thèse IGRV2018](https://prixigrv2018.sciencesconf.org/).
 
 # Résultats 2017
 
