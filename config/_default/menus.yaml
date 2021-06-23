@@ -19,3 +19,6 @@ main:
   - name: Actions
     url: actions
     weight: 70
+  - name: Club  industriel
+    url: club-industriel
+    weight: 70
