@@ -1,12 +1,13 @@
 ---
 title: Prix de thèse du GdR
-subtitle: 'GdR IG-RV organise un prix de thèse IGRV avec le soutien des associations AFIG, AFRV et EGFR. L’objectif de ce prix de thèse est de récompenser chaque année une excellente thèse issue de la communauté du GdR IG-RV.'
+#subtitle: 'GdR IG-RV organise un prix de thèse IGRV avec le soutien des associations AFIG, AFRV et EGFR. L’objectif de ce prix de thèse est de récompenser chaque année une excellente thèse issue de la communauté du GdR IG-RV.'
 
+author: ["David Coeurjolly"]
 date: 2021-06-21
 ---
 
 
-A partir de 2017, le GdR IG-RV a décidé de mettre en place un prix de thèse IGRV avec le soutien des associations AFIG, AFRV et EGFR. L’objectif de ce prix de thèse est de récompenser chaque année une excellente thèse issue de la communauté du GdR IG-RV. L’intérêt est double. Pour le ou la jeune docteur(e) concerné(e), ce prix apportera une grande visibilité à ses travaux et une reconnaissance de la communauté du GdR sur l’excellence des résultats obtenus. Pour la communauté du GdR, ce prix permettra de rendre visible très largement des travaux de premier ordre issus de nos thématiques de recherche. Le contour disciplinaire du prix est celui du GdR Informatique Géométrique et Graphique, Réalité Virtuelle et Visualisation et de ses groupes de travail. Chaque année le jury du prix de thèse du GdR propose un(e) lauréat(e) et d'éventuels accessits au comité de pilotage du GdR pour validation. Le jury constitué de membres représentatifs des thèmes du GdR IG-RV est présidé par Loïc BARTHE (IRIT, Toulouse) et David COEURJOLLY (LIRIS, Lyon).
+Depuis de 2017, le GdR IG-RV organise un prix de thèse IGRV avec le soutien des associations AFIG, AFRV et EGFR. L’objectif de ce prix de thèse est de récompenser chaque année une excellente thèse issue de la communauté du GdR IG-RV. L’intérêt est double. Pour le ou la jeune docteur(e) concerné(e), ce prix apportera une grande visibilité à ses travaux et une reconnaissance de la communauté du GdR sur l’excellence des résultats obtenus. Pour la communauté du GdR, ce prix permettra de rendre visible très largement des travaux de premier ordre issus de nos thématiques de recherche. Le contour disciplinaire du prix est celui du GdR Informatique Géométrique et Graphique, Réalité Virtuelle et Visualisation et de ses groupes de travail. Chaque année le jury du prix de thèse du GdR propose un(e) lauréat(e) et d'éventuels accessits au comité de pilotage du GdR pour validation. Le jury constitué de membres représentatifs des thèmes du GdR IG-RV est présidé par Loïc BARTHE (IRIT, Toulouse) et David COEURJOLLY (LIRIS, Lyon).
 
 # Appel 2022
 Pour le prix 2022, nous invitons tous les docteurs ayant soutenu leur thèse entre le 01/01/2021 et le 31/12/2021 à poser une candidature sur le site de soumission mis à votre disposition à l’URL suivant : [https://prixigrv2022.sciencesconf.org/](https://prixigrv2022.sciencesconf.org/)
@@ -16,6 +17,7 @@ La date limite de soumission était le 1er mars 2022 pour une décision avant l�
 # Appel 2021
 
 Jury en cours.
+
 Résultats en Juillet sur : [https://prixigrv2021.sciencescall.org/](https://prixigrv2021.sciencescall.org/)
 
 La date limite de soumission était le 1er mars 2021.
