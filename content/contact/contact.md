@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: Contacts
 subtitle:
 
-content:
+#content:
   # Automatically link email and phone or display as text?
-  autolink: true
+#  autolink: true
 
   # Email form provider
 #  form:
