@@ -24,9 +24,12 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/deploy'
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@3.4.6
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: 
+           # This is the branch you wish to deploy to, for example gh-pages or docs.
+          ACCESS_TOKEN: ${{ secrets.deploytoken }}
+          BRANCH: deploy
+          FOLDER: Public
+          SINGLE_COMMIT: true
+          CLEAN: true
