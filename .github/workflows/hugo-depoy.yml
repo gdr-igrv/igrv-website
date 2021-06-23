@@ -28,7 +28,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
            # This is the branch you wish to deploy to, for example gh-pages or docs.
-          BRANCH: deploy
-          FOLDER: Public
-          SINGLE_COMMIT: true
-          CLEAN: true
+          branch: deploy
+          folder: Public
+          single-commit: true
+          clean: true
