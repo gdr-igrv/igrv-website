@@ -25,10 +25,9 @@ jobs:
         run: hugo --minify
 
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@3.4.6
+        uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
            # This is the branch you wish to deploy to, for example gh-pages or docs.
-          ACCESS_TOKEN: ${{ secrets.deploytoken }}
           BRANCH: deploy
           FOLDER: Public
           SINGLE_COMMIT: true
