@@ -16,6 +16,13 @@ main:
   - name: Organisation
     url: organisation
     weight: 70
+  - identifier: journees
+    name: Journées
+    weight: 71
+  - parent: journees
+    name: Plénières
+    url: plenieres
+    weight: 71
   - name: Actions
     url: actions
     weight: 70
