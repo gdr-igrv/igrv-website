@@ -7,7 +7,7 @@ main:
   - name: Brèves
     url: post
     weight: 20
-  - name: Évènements
+  - name: Événements
     url: event
     weight: 40
   - name: Contact
@@ -15,7 +15,18 @@ main:
     weight: 999
   - name: Organisation
     url: organisation
-    weight: 70
+    weight: 50
+  - identifier: gts
+    name: Les groupes de travail
+    weight: 50
+  - parent: gts
+    name: GT-AS
+    url: gts/gt-as
+    weight: 50
+  - parent: gts
+    name: GT-GDMM
+    url: gts/gt-gdmm
+    weight: 51
   - identifier: journees
     name: Journées
     weight: 71
