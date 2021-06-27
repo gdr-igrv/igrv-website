@@ -6,7 +6,7 @@ event: GTAS 2021 Reims
 event_url: https://centreimage.univ-reims.fr/index.php/2021/06/09/journees-2021-du-gtas-animation-et-simulation-du-gdr-ig-rv/
 
 location: IUT de Reims
-untry: United States
+country: France
 
 summary: Journées GTAS 2021 Reims
 abstract: "Nous sommes ravis de vous accueillir en présentiel à Reims pour les prochaines journées du GT animation et simulation du GDR IGRV. Nous espérons redonner à tous le goût du partage de la science en présentiel.

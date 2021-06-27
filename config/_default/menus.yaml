@@ -15,7 +15,8 @@ main:
     weight: 999
   - name: Organisation
     url: organisation
-    weight: 50
+    weight: 45
+
   - identifier: gts
     name: Les groupes de travail
     weight: 50
@@ -27,6 +28,24 @@ main:
     name: GT-GDMM
     url: gts/gt-gdmm
     weight: 51
+  - parent: gts
+    name: GT-MG
+    url: gts/gt-mg
+    weight: 52
+  - parent: gts
+    name: GT-Rendu
+    url: gts/gt-rendu
+    weight: 53
+  - parent: gts
+    name: GT-RV
+    url: gts/gt-rv
+    weight: 54
+  - parent: gts
+    name: GT-Visu
+    url: gts/gt-visu
+    weight: 55
+
+
   - identifier: journees
     name: Journées
     weight: 71
@@ -34,6 +53,7 @@ main:
     name: Plénières
     url: plenieres
     weight: 71
+
   - name: Actions
     url: actions
     weight: 70
