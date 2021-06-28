@@ -46,15 +46,7 @@ main:
     weight: 55
 
 
-  - identifier: journees
-    name: Journées
-    weight: 71
-  - parent: journees
-    name: Plénières
-    url: plenieres
-    weight: 71
-
-  - name: Actions
+  - name: Actions et journées
     url: actions
     weight: 70
   - name: Club  industriel
