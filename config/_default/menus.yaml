@@ -13,8 +13,8 @@ main:
   - name: Contact
     url: contact
     weight: 999
-  - name: Organisation
-    url: organisation
+  - name: Présentation
+    url: presentation
     weight: 45
 
   - identifier: gts

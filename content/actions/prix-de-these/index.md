@@ -53,16 +53,15 @@ Pour plus d'informations, voir [prix de thèse IGRV2018](https://prixigrv2018.sc
 
 # Résultats 2017
 
-**Lauréat : Gilles Daviet** (Université de Grenoble) pour sa thèse intitulée "Modèles et algorithmes pour la simulation du contact frottant dans les matériaux complexes - Application aux milieux fibreux et granulaires", effectuée sous la direction de Florence Bertails-Descourbes (LJK, Grenoble et Inria Rhône-Alpes). Thèse Vidéo.
+**Lauréat : Gilles Daviet** (Université de Grenoble) pour sa thèse intitulée "Modèles et algorithmes pour la simulation du contact frottant dans les matériaux complexes - Application aux milieux fibreux et granulaires", effectuée sous la direction de Florence Bertails-Descourbes (LJK, Grenoble et Inria Rhône-Alpes). [Thèse](https://tel.archives-ouvertes.fr/tel-01519203/) [Vidéo](https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2017_Daviet.mp4).
 
 **Accessits:**
-* **Merwan Achibet** (INSA Rennes) pour sa thèse intitulée "Contributions to the Design of Novel Hand-based Interaction Techniques for Virtual Environments", effectuée sous la direction de Maud Marchal (IRISA et INSA Rennes) et Anatole Lécuyer (IRISA et Inria Rennes) . Thèse Vidéo
-Aldo Gonzalez Lorenzo (Aix-Marseille Université, Universidad de Sevilla) pour sa thèse intitulée "Computational Homology Applied to Discrete Objects", effectuée sous la direction de
-* **Jean-Luc Mari** (Aix-Marseille Université), Alexandra Bac (Aix-Marseille Université) et Pedro Real (Universidad de Sevilla). Thèse Vidéo.
+* **Merwan Achibet** (INSA Rennes) pour sa thèse intitulée "Contributions to the Design of Novel Hand-based Interaction Techniques for Virtual Environments", effectuée sous la direction de Maud Marchal (IRISA et INSA Rennes) et Anatole Lécuyer (IRISA et Inria Rennes) . [Thèse](http://www.theses.fr/2015ISAR0031) [Vidéo](https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2017_Accessit-2_Achibet.mp4)
+* **Aldo Gonzalez Lorenzo** (Aix-Marseille Université, Universidad de Sevilla) pour sa thèse intitulée "Computational Homology Applied to Discrete Objects", effectuée sous la direction de Jean-Luc Mari (Aix-Marseille Université), Alexandra Bac (Aix-Marseille Université) et Pedro Real (Universidad de Sevilla). [Thèse](http://www.theses.fr/2016AIXM4073) [Vidéo](https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2017_Accessit-1_Gonzalez-Lorenzo.ogv).
 
 Le jury constitué de membres représentatifs des thèmes du GdR IG-RV était présidé par Loïc Barthe et David Coeurjolly.
 
-Pour plus d'informations, voir prix de thèse IGRV2017.
+Pour plus d'informations, voir [prix de thèse IGRV2017](https://prixigrv2017.sciencesconf.org/).
 
 # Modalités
 
