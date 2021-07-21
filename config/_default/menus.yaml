@@ -16,6 +16,9 @@ main:
   - name: Présentation
     url: presentation
     weight: 45
+  - name: Les laboratoires
+    url: laboratoires
+    weight: 46
 
   - identifier: gts
     name: Les groupes de travail
