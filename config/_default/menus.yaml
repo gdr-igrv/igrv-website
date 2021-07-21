@@ -19,6 +19,9 @@ main:
   - name: Les laboratoires
     url: laboratoires
     weight: 46
+  - name: Listes de diffusion
+    url: listes
+    weight: 47
 
   - identifier: gts
     name: Les groupes de travail
