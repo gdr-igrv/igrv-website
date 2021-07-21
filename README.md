@@ -16,6 +16,11 @@
 
 * Modifier la frontpage: cf `home/`
 
+* Tester des modifcations en local : à la racine du projet `hugo serve` (et ensuite cela précise une URL du type "https://localhost..."). Hugo va relancer le build à chaque fois qu'un fichier est modifié en local
+
+* Publier une modification : ajouter les fichiers (`git add ...`), faites un commit et un push sur le projet github. Si vous n'avez pas les droits de push sur le compte gdr-igrv, passez par un pull-request.
+
+
 ## Documentation
 
 * [Doc wowchemy](https://wowchemy.com/docs/)
