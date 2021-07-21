@@ -5,3 +5,7 @@ title: Groupe de travail "Géométrie discrète & morphologie mathématique" (GT
 
 date: 2021-06-21
 ---
+
+* **Site** : http://gt-gdmm.u-bordeaux.fr
+* **Responsables** : Isabelle Sivignon (GIPSA-Lab, Grenoble) et Nicolas Passat (CReSTIC, Reims)
+* **Mots-clés** : Géométrie discrète, morphologie mathématique, topologies discrète et digitale, imagerie discrète, graphes.

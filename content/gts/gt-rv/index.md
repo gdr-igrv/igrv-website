@@ -5,3 +5,6 @@ title: Groupe de travail "Réalités virtuelles" (GT-RV)
 
 date: 2021-06-21
 ---
+
+* **Responsables** : Pierre Chevaillier (Lab-STICC/CERV, ENIB, Brest), Laure Leroy (Paris 8)
+* **Mots-clés** : réalité virtuelle, réalité augmentée, interaction 3D, métaphores, interfaces, multimodalité, perception, cognition, motricité, comportement, immersion, présence, usages, acceptabilité
