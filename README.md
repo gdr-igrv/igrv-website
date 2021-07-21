@@ -2,7 +2,7 @@
 
 [https://gdr-igrv.github.io/igrv-website/](https://gdr-igrv.github.io/igrv-website/)
 
-## HowTo
+## HowTo
 
 * Ajouter un évènement : dupliquer repertoire `event/example`, editer/completer `index.md` (+ image `featured.png`)
 
