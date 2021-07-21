@@ -6,7 +6,7 @@
 
 * Ajouter un évènement : dupliquer repertoire `event/example`, editer/completer `index.md` (+ image `featured.png`)
 
-* Ajouter une brève : dupliquer repertoire `event/21-07-20-gtmg-gazette` par exemple, editer/completer `index.md` (+ image `featured.png`)
+* Ajouter une brève : dupliquer repertoire `post/21-07-20-gtmg-gazette` par exemple, editer/completer `index.md` (+ image `featured.png`)
 
 * Modifier une page : editer le `index.md` dans le bon repertoire
 
