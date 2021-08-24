@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Prochains événements
+title: Événements
 subtitle:
 
 content:

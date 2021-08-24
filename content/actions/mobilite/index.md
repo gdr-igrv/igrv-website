@@ -13,16 +13,16 @@ collaborations, ou se former auprès d'autres équipes, ces mobilités
 sont d'une grande utilité en tant que levier, avec un format court et
 léger de candidature et de financement.
 
-# Demander le soutien du GdR pour une mobilité
+## Demander le soutien du GdR pour une mobilité
 
 Les modalités seront précisées très prochainement.
 
-# Mobilités passées
+## Mobilités passées
 
-## En 2020 :
+### En 2020 :
   * Nouvelle collaboration entre IRIT, ICube (IGG) et XLIM (IG), faisant suite à la journée thématique inter-GT GTAS/GTMG 2019 du GDR IG-RV Gestion de la Topologie en Animation, Simulation et Réalité Virtuelle et le GTMG2020, et concernant la mise en œuvre d'un algorithme de génération de maillage volumique à partir de squelette et en particulier un maillage quad autour d’une sphère pour les embranchements.
 
-## En 2017 :
+### En 2017 :
   *Nouvelle collaboration et co-encadrement en le CReSTIC et CAOR (Mines Paris Tech) sur la simulation basée image: Des moyens de calculs aux moyens de restitution,
   *Collaboration et co-encadrement entre XLIM (axe ASALI) et ICube (IGG) sur la synthèse de texture procédurale multi-résolution,
   * Nouvelle collaboration entre le LORIA (Adagio) et LIGIM (A3SI) sur l'invariance géométrique par transformations rigides digitales,
@@ -35,7 +35,7 @@ Les modalités seront précisées très prochainement.
  * Collaboration entre LE2i (MSGI) et ICube (IGG) pour l'écriture d'un ouvrage sur sur la modélisation géométrique par contraintes,
  * Collaboration entre ICube (IGG) et LIP6 (Pequan) sur la génération de maillaqe pour l'animation multi-résolution d'objets déformables en temps-réel.
 
-## En 2015
+### En 2015
 
 * Collaboration associant l'expertise en modélisation géométrique et algèbre géométrique du laboratoire XLIM-SIC (IG) avec l'expérience en vision par ordinateur et géométrie discrète (GdR ISIS) du laboratoire LIGM,
 * Collaboration internationale visant à intégrer une architecture cognitive basée sur le principe de simulation mentale à un agent conversationnel animé dans le contexte d'une application médicale entre Lab-STICC (IHSEV) et Florida International University (soutien partiel du GdR IG-RV),
@@ -46,6 +46,6 @@ Les modalités seront précisées très prochainement.
 * Collaboration entre le LSIS (G-Mod) et le LIRIS (M2DISCO) sur la génération de maillages 3D avec les hiérarchies de diamants,
 * Collaboration entre ICube (IGG) et LJK (Imagine) sur la génération de textures dynamiques sur des surfaces animées,
 
-## En 2014
+### En 2014
 * Collaboration entre le Lab-STICC (IHSEV) et l'Institut du Mouvement sur l’interaction utilisateur - humain virtuel en environnement immersif,
 * Collaboration entre l'IRIT (Vortex) et le Le2i (MSGI) sur la représentation multi-résolution de modèles 3D à partir de squelettes en vue d'application à la reconstruction, l'édition et la compression.
