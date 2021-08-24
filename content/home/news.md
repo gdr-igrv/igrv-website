@@ -24,6 +24,6 @@ design:
 #   2 = Compact  
 #   3 = Card
 #   5 = Showcase
-  view: 2
+  view: 3
   columns: "2"
 ---

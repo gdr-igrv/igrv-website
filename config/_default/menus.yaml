@@ -13,9 +13,20 @@ main:
   - name: Contact
     url: contact
     weight: 999
+
   - name: Présentation
-    url: presentation
+    identifier: presentation
     weight: 45
+  - parent: presentation
+    name: Positionnement général
+    url: positionnement
+  - parent: presentation
+    name: Organisation
+    url: organisation
+  - parent: presentation
+    name: Direction
+    url: direction 
+
   - name: Les laboratoires
     url: laboratoires
     weight: 46
