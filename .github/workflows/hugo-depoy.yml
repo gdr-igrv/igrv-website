@@ -24,7 +24,8 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages (when PR is merged)
+        if: github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
            # This is the branch you wish to deploy to, for example gh-pages or docs.
