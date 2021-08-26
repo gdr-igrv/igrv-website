@@ -26,3 +26,5 @@
 * [Doc wowchemy](https://wowchemy.com/docs/)
 
 * [Syntaxe markdown et elements de la page](https://wowchemy.com/docs/content/writing-markdown-latex)
+
+* [Comment installer Hugo](https://gohugo.io/getting-started/installing/)
