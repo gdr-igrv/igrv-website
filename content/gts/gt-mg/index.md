@@ -9,5 +9,5 @@ date: 2021-06-21
 ![](logo-gt-mg.png)
 
 * **Site** : http://gtmg.u-bourgogne.fr/
-* **Responsables** : Géraldine Morin (IRIT, Toulouse) et Romain Raffin (LIS, Marseille)
+* **Responsables** : Géraldine Morin (IRIT, Toulouse) et Romain Raffin (LIB, Dijon)
 * **Mots-clés** : Courbes, surfaces, maillages, formes 3D, nuage de points, reconstruction, contraintes, déformation, multirésolution, paramétrisation, apprentissage artificiel, géométrie différentielle, algorithmes de subdivision, topologie. axe médian, squelette.
