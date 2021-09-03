@@ -2,7 +2,7 @@
 title: Groupe de travail "Géométrie discrète & morphologie mathématique" (GT-GDMM)
 #subtitle: 'GdR IG-RV organise un prix de thèse IGRV avec le soutien des associations AFIG, AFRV et EGFR. L’objectif de ce prix de thèse est de récompenser chaque année une excellente thèse issue de la communauté du GdR IG-RV.'
 
-
+authors: ["Isabelle Sivignon", "Nicolas Passat"]
 date: 2021-06-21
 ---
 
@@ -21,11 +21,11 @@ date: 2021-06-21
     d’investigation du GT GDMM se sont largement ouverts au cours des
     dernières années, et la géométrie discrète comme la morphologie
     mathématique se développent désormais fortement à leurs interfaces,
-    et notamment en lien avec les domaines suivants : 
+    et notamment en lien avec les domaines suivants :
 
   * Traitement de la géométrie ou Geometry processing, géométrie algorithmique, analyse numérique pour la géométrie digitale ;
   *  Optimisation discrète, théorie des graphes, traitement du signal, machine learning pour la morphologie mathématique.
-  
+
     Ainsi, en sus des travaux intrinsèquement liés au GT GDMM, ces
     développements permettent d’établir des ponts avec plusieurs autres
     grands domaines relevant du GdR IGRV. On peut souligner par exemple des
@@ -35,5 +35,4 @@ date: 2021-06-21
     sation par croquis via une forme digitale, modélisation de formes
     digitales par union de convexes) ; ou encore de la visualisation
     (e.g. visualisation de données de grandes dimensions par l’utilisation
-    de modèles hiérarchiques de structures combinatoires). 
-
+    de modèles hiérarchiques de structures combinatoires).
