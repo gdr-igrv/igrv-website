@@ -1,7 +1,7 @@
-name: hugo to github pages
+name: hugo to github pages (preDeploy)
 
 on:
-  push:
+  pull_request:
     branches:
       - main  # Set a branch to deploy
 
@@ -22,12 +22,3 @@ jobs:
 
       - name: Build
         run: hugo --minify
-
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@4.1.4
-        with:
-           # This is the branch you wish to deploy to, for example gh-pages or docs.
-          branch: deploy
-          folder: public
-          single-commit: true
-          clean: true
