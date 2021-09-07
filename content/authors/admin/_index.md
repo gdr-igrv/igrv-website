@@ -6,12 +6,12 @@ title: David Coeurjolly
 superuser: true
 
 # Role/position
-role: 
+role:
 
 # Organizations/Affiliations
 organizations:
 - name: CNRS, LIRIS
-  url: ""
+  url: "https://perso.liris.cnrs.fr/david.coeurjolly"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -19,5 +19,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Admin
 ---

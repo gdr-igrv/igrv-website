@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -20,12 +20,12 @@ design:
   background:
     image: logo_fond_bleu.png
     image_darken: 0
-    image_parallax: false
+    #image_parallax: false
     image_position: center
-    image_size: cover
+    #image_size: cover
     text_color_light: true
   spacing:
     padding: ["0", "0", "0", "0"]
-advanced:
-  css_class: fullscreen
+#advanced:
+#  css_class: fullscreen
 ---

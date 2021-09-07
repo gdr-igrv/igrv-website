@@ -6,7 +6,7 @@ title: Romain Vuillemot
 superuser: false
 
 # Role/position
-role:
+role: "Co-responsable GT-Visu"
 
 # Organizations/Affiliations
 organizations:

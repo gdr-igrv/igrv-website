@@ -6,7 +6,7 @@ title: Isabelle Sivignon
 superuser: false
 
 # Role/position
-role:
+role: "Co-responsable GT-GDMM"
 
 # Organizations/Affiliations
 organizations:

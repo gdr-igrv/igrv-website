@@ -2,6 +2,8 @@
 widget: pages
 headless: true  # This file represents a page section.
 title: Actions
+weight: 100
+
 # ... Put Your Section Options Here (title etc.) ...
 
 content:
