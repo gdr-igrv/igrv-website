@@ -1,6 +1,6 @@
 ---
 # Display name
-title: David Coeurjolly
+title: Maud Marchal
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,8 +10,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: CNRS, LIRIS
-  url: ""
+ - name: Univ. Rennes, INSA
+ - name: "IRISA"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
