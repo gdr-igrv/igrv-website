@@ -33,7 +33,7 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 | CRIStAL UMR 9189                         |                          | Université de Lille, Centrale Lille Institut, CNRS                                                         |      |      |      |         |        |      |
 |                                          | PIRVI                    |                                                                                                            |      |      |      |         |        | X    |
 |                                          | MINT                     |                                                                                                            |      |      |      |         |        | X    |
-| HEUDIASYC UMR 7253                       |                          | Université Technilogique de Compiègne, CNRS                                                                |      |      | X    |         |        | X    |
+| HEUDIASYC UMR 7253                       |                          | Université Technologique de Compiègne, CNRS                                                                |      |      | X    |         |        | X    |
 |                                          | SyRI                     |                                                                                                            |      |      |      |         |        | X    |
 |                                          | CID                      |                                                                                                            |      |      |      |         |        | X    |
 
