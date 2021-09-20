@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: GdR IG-RV # Website name
-baseurl: 'https://gdr-igrv.github.io/igrv-website/'
+baseurl: 'https://gdr-igrv.fr'
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
