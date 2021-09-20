@@ -5,6 +5,7 @@ title: Prix de thèse du GdR
 featured: featured.png
 author: ["David Coeurjolly"]
 date: 2021-06-21
+weigth: 5
 ---
 
 

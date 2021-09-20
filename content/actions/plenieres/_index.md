@@ -1,6 +1,7 @@
 ---
 title: Journées plénières
 date: 2021-06-21
+weight: 2
 ---
 
 L'appel à volontaires est d'ores et déjà lancé pour l'organisation sur place des journées plénières biannuelles du GdR IG-RV de 2023 concomitantes à plusieurs journées de GT.
