@@ -6,11 +6,11 @@ title: Pierre Chevalier
 superuser: false
 
 # Role/position
-role:
+role: "Co-responsable GT-RV"
 
 # Organizations/Affiliations
 organizations:
-- name:  
+- name:  ENIB, Lab-STICC, UMR CNRS 6285, équipe COMMEDIA
   url: ""
 - name:  
   url: ""
