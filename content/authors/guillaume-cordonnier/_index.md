@@ -10,10 +10,10 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name:  
-  url: ""
-- name:  
-  url: ""
+- name: Inria Sophia Antipolis - Méditerranée
+  url: "https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee"
+- name:  Université côte d'Azur
+  url: "https://univ-cotedazur.fr/"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
