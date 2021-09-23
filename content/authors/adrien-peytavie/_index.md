@@ -10,10 +10,10 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name:  
-  url: ""
-- name:  
-  url: ""
+- name:  Université Claude Bernard Lyon 1
+  url: "https://www.univ-lyon1.fr/"
+- name: LIRIS
+  url: "https://liris.cnrs.fr/"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
