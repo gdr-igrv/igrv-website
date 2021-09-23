@@ -10,9 +10,9 @@ role: "Co-responsable GT-RV"
 
 # Organizations/Affiliations
 organizations:
-- name: université Paris 8, laboratoire Paragraphe
+- name: Université Paris 8, laboratoire Paragraphe
   url: "https://www.univ-paris8.fr"
-- name: institut de recherches biomédicales des armées, Nsco, unité perception
+- name: Institut de recherches biomédicales des armées, Nsco, unité perception
   url: "https://www.defense.gouv.fr/sante/notre-expertise/recherche-biomedicale/recherche-biomedicale"
 
 # Highlight the author in author lists? (true/false)
