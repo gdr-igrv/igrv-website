@@ -10,7 +10,7 @@ role: "Co-responsable GT-Rendu"
 
 # Organizations/Affiliations
 organizations:
-- name:  INRIA, Université Côte d'Azur 
+- name:  INRIA, UniversitÃ© CÃ´te d'Azur 
   url: "http://www.inria.fr"
 - name:  
   url: ""
