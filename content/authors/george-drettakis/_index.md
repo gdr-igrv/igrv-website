@@ -6,12 +6,12 @@ title: George Drettakis
 superuser: false
 
 # Role/position
-role:
+role: "Co-responsable GT-Rendu"
 
 # Organizations/Affiliations
 organizations:
-- name:  
-  url: ""
+- name:  INRIA, Université Côte d'Azur 
+  url: "http://www.inria.fr"
 - name:  
   url: ""
 
