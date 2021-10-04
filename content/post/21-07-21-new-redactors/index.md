@@ -1,8 +1,8 @@
 ---
 title: De nouveaux rédacteurs scientifiques rejoignent l'équipe de rédaction du site
 date: 2021-09-30
-draft: false
-authors: 
+draft: true
+authors:
     - Etienne Peillard
 ---
 
