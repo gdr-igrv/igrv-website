@@ -9,11 +9,11 @@ superuser: false
 role: Groupe des rédacteurs scientifiques
 
 # Organizations/Affiliations
+# Organizations/Affiliations
 organizations:
-- name:  
-  url: ""
-- name:  
-  url: ""
+- name: Insa Lyon, LIRIS
+  url: "https://perso.liris.cnrs.fr/johanna.delanoy/"
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
