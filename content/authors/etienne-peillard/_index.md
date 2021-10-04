@@ -10,10 +10,10 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Lab-Sticc
-  url: ""
 - name: IMT Atlantique
-  url: ""
+  url: "https://www.imt-atlantique.fr/fr"
+- name: Lab-STICC - UMR 6285 - équipe INUIT
+  url: "https://labsticc.fr/fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
