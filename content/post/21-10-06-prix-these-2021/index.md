@@ -16,11 +16,11 @@ Cette année, le jury de sélection a été animé par David Coeurjolly et Loïc
 
 Le prix de thèse du GDR IG-RV 2021 est décerné à :
 
-* **Rebecca Fribourg** pour sa thèse intitulée « Contribution to the study of factors influencing the sense of embodiment towards avatars in virtual reality », effectuée sous la direction d’Anatole Lécuyer, Ferran Argelaguet et Ludovic Hoyet à l’Université de Rennes 1.
+* **Rebecca Fribourg** pour sa thèse intitulée *« Contribution to the study of factors influencing the sense of embodiment towards avatars in virtual reality »*, effectuée sous la direction d’Anatole Lécuyer, Ferran Argelaguet et Ludovic Hoyet à l’Université de Rennes 1.
 
 Un accessit a aussi été décerné à :
 
-* **Pierre Ecormier-Nocca** pour sa thèse intitulée « Authoring consistent, animated ecosystems: Efficient learning from partial data  », effectuée sous la direction de Marie-Paule Cani et Pooran Memari à l’Ecole Polytechnique.
+* **Pierre Ecormier-Nocca** pour sa thèse intitulée *« Authoring consistent, animated ecosystems: Efficient learning from partial data  »*, effectuée sous la direction de Marie-Paule Cani et Pooran Memari à l’Ecole Polytechnique.
 
 
 Nous tenons à remercier l’ensemble des candidats pour leur participation,
