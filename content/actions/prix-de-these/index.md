@@ -18,11 +18,11 @@ La date limite de soumission était le 1er mars 2022 pour une décision avant l�
 
 # Appel 2021
 
-Jury en cours.
+**Lauréate : Rebecca Fribourg** pour sa thèse intitulée « Contribution to the study of factors influencing the sense of embodiment towards avatars in virtual reality », effectuée sous la direction d’Anatole Lécuyer, Ferran Argelaguet et Ludovic Hoyet à l’Université de Rennes 1.
 
-Résultats en Juillet sur : [https://prixigrv2021.sciencescall.org/](https://prixigrv2021.sciencescall.org/)
+**Accessit : Pierre Ecormier-Nocca** pour sa thèse intitulée « Authoring consistent, animated ecosystems: Efficient learning from partial data  », effectuée sous la direction de Marie-Paule Cani et Pooran Memari à l’Ecole Polytechnique.
 
-La date limite de soumission était le 1er mars 2021.
+ Le jury de sélection a été animé par David Coeurjolly et Loïc Barthe et il était composé de Florence Bertails-Descoubes, Georges-Pierre Bonneau, George Drettakis, Samuel Hornus, Daniel Mestre, Alexis Paljic et Julien Tierny.
 
 # Résultats du prix 2020
 **Lauréat : Valentin Deschaintre** (Inria Sophia) pour sa thèse intitulée “Acquisition légère de matériaux par apprentissage profond", effectuée sous la co-direction de Adrien Bousseau et George Drettakis.
