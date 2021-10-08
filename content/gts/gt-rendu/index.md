@@ -1,6 +1,5 @@
 ---
 title: Groupe de travail "Rendu" (GT-rendu)
-#subtitle: 'GdR IG-RV organise un prix de thÃ¨se IGRV avec le soutien des associations AFIG, AFRV et EGFR. Lâ€™objectif de ce prix de thÃ¨se est de rÃ©compenser chaque annÃ©e une excellente thÃ¨se issue de la communautÃ© du GdR IG-RV.'
 
 authors: ["Romain Vergne","George Drettakis"]
 
@@ -11,18 +10,18 @@ date: 2021-06-21
 
 * **Site** : http://gtrendu.blogspot.fr/
 * **Responsable** : Romain Vergne (LJK, Grenoble), George Drettakis (INRIA, Sophia-Antipolis)
-* **Mots-clÃ©s** : rendu photo rÃ©aliste, simulation de lâ€™Ã©clairage et dâ€™effets lumineux, rendu inverse, rendu expressif, rendu artistique, rÃ©alitÃ© augmentÃ©e, rendu temps rÃ©el, rendu basÃ© image.
+* **Mots-clÃ©s** : rendu photo rÃ©aliste, simulation de l'Ã©clairage et d'effets lumineux, rendu inverse, rendu expressif, rendu artistique, rÃ©alitÃ© augmentÃ©e, rendu temps rÃ©el, rendu basÃ© image.
 
 <br>
 
-* **Description** : Les objectifs du GT Rendu peuvent se résumer comme suit :
-	* Comprendre et prendre en compte la plupart des phénomènes lumineux pour créer des images réalistes, en maîtrisant les erreurs engendrées entre les modèles utilisés et la réalité.
-	* Comprendre, modéliser et mettre en évidence les informations pertinentes pour obtenir des images adaptées à la communication et à l’expression visuelle.
+* **Description** : Les objectifs du GT Rendu peuvent se rÃ©sumer comme suit :
+	* Comprendre et prendre en compte la plupart des phÃ©nomÃ¨nes lumineux pour crÃ©er des images rÃ©alistes, en maÃ®trisant les erreurs engendrÃ©es entre les modÃ¨les utilisÃ©s et la rÃ©alitÃ©.
+	* Comprendre, modÃ©liser et mettre en Ã©vidence les informations pertinentes pour obtenir des images adaptÃ©es Ã  la communication et Ã  l'expression visuelle.
 
-	Les modèles de rendu, réaliste ou non, deviennent de plus en plus complexes et conduisent donc à des temps de calcul de plus en plus grands. L'un des enjeux de la synthèse d'images reste le développement d'algorithmes plus performants en terme de vitesse de calcul. Un problème scientifique fondamental concerne la manipulation temps réel de grands volumes de données. Des problèmes algorithmiques difficiles restent à explorer et rejoignent les problèmes algorithmiques précédemment cités si l'on veut bénéficier de techniques de visualisation temps réel et dynamique des données.
-	Les travaux récents des équipes françaises d'informatique graphique ont permis des avancées significatives dans la plupart des thématiques liées au rendu :
-	* L'acquisition et la représentation de matériaux qui constituent des problèmes complexes pour obtenir des images réalistes de manière efficace.
-	* L’intelligence artificielle, et notamment sur l’apprentissage profond, qui nécessite un grand nombre d’images et de données en entrée qui sont souvent impossible à obtenir. La synthèse est une des clés permettant de générer ces données.
-	* L'échantillonnage des données sur chaque pixel qui constitue un aspect primordial pour générer des images de qualité rapidement lors de la résolution de l'équation du rendu. Même si le problème n'est pas récent, il est toujours traité activement par la communauté.
-	* Le rendu expressif, dont l'objectif est de produire des images stylisées ou plausibles en s’appuyant sur des schémas d’approximation du transport de la lumière ainsi que sur des analyses et expériences perceptuelles.
-	* La génération de textures (par l'exemple ou procéduralement) qui constitue également un domaine de recherche actif pour obtenir des solutions en temps réel en contrôlant précisément les aspects de l’apparence finale des surfaces.
+	Les modÃ¨les de rendu, rÃ©aliste ou non, deviennent de plus en plus complexes et conduisent donc Ã  des temps de calcul de plus en plus grands. L'un des enjeux de la synthÃ¨se d'images reste le dÃ©veloppement d'algorithmes plus performants en terme de vitesse de calcul. Un problÃ¨me scientifique fondamental concerne la manipulation temps rÃ©el de grands volumes de donnÃ©es. Des problÃ¨mes algorithmiques difficiles restent Ã  explorer et rejoignent les problÃ¨mes algorithmiques prÃ©cÃ©demment citÃ©s si l'on veut bÃ©nÃ©ficier de techniques de visualisation temps rÃ©el et dynamique des donnÃ©es.
+	Les travaux rÃ©cents des Ã©quipes franÃ§aises d'informatique graphique ont permis des avancÃ©es significatives dans la plupart des thÃ©matiques liÃ©es au rendu :
+	* L'acquisition et la reprÃ©sentation de matÃ©riaux qui constituent des problÃ¨mes complexes pour obtenir des images rÃ©alistes de maniÃ¨re efficace.
+	* L'intelligence artificielle, et notamment sur l'apprentissage profond, qui nÃ©cessite un grand nombre d'images et de donnÃ©es en entrÃ©e qui sont souvent impossible Ã  obtenir. La synthÃ¨se est une des clÃ©s permettant de gÃ©nÃ©rer ces donnÃ©es.
+	* L'Ã©chantillonnage des donnÃ©es sur chaque pixel qui constitue un aspect primordial pour gÃ©nÃ©rer des images de qualitÃ© rapidement lors de la rÃ©solution de l'Ã©quation du rendu. MÃªme si le problÃ¨me n'est pas rÃ©cent, il est toujours traitÃ© activement par la communautÃ©.
+	* Le rendu expressif, dont l'objectif est de produire des images stylisÃ©es ou plausibles en s'appuyant sur des schÃ©mas d'approximation du transport de la lumiÃ¨re ainsi que sur des analyses et expÃ©riences perceptuelles.
+	* La gÃ©nÃ©ration de textures (par l'exemple ou procÃ©duralement) qui constitue Ã©galement un domaine de recherche actif pour obtenir des solutions en temps rÃ©el en contrÃ´lant prÃ©cisÃ©ment les aspects de l'apparence finale des surfaces.
