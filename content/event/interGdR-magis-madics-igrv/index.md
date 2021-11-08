@@ -1,8 +1,7 @@
 ---
 title: Journées inter-GdR CNRS MAGIS-MADICS-IGRV
 
-event: GT GDMM 2021 Nancy
-event_url: https://gdmm2021.sciencesconf.org/
+event: Observation 3D : outils et verrous
 
 location: Géoroom IGN, 8 avenue Pasteur 94160, Saint-Mandé
 country: France
