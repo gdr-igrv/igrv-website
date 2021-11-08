@@ -1,7 +1,7 @@
 ---
 title: Journées inter-GdR CNRS MAGIS-MADICS-IGRV
 
-event: Observation 3D : outils et verrous
+event: "Observation 3D : outils et verrous"
 
 location: Géoroom IGN, 8 avenue Pasteur 94160, Saint-Mandé
 country: France
