@@ -6,14 +6,14 @@ title: Romain Raffin
 superuser: false
 
 # Role/position
-role:
+role: "Co-responsable GT MG"
 
 # Organizations/Affiliations
 organizations:
-- name:  
-  url: ""
-- name:  
-  url: ""
+- name: Université de Bourgogne
+  url: "https://www.u-bourgogne.fr/"
+- name: LIB - Laboratoire d'Informatique de Bourgogne
+  url: "https://lib.u-bourgogne.fr/"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

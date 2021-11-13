@@ -6,14 +6,14 @@ title: Géraldine Morin
 superuser: false
 
 # Role/position
-role:
+role: "Co-responsable GT MG"
 
 # Organizations/Affiliations
 organizations:
-- name:  
-  url: ""
-- name:  
-  url: ""
+- name: Université de Toulouse, Toulouse INP - Institut National Polytechnique
+  url: "https://www.univ-toulouse.fr/"
+- name: IRIT - Institut de Recherche en Informatique de Toulouse
+  url: "https://www.irit.fr/la-recherche/departements-et-equipes/"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
