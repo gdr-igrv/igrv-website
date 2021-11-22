@@ -41,10 +41,9 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
-| CReSTIC EA 3804                          |                          | Université de Reims Champagne-Ardenne                                                                      |      |      |      |         |        |      |
-|                                          | MIPA                     |                                                                                                            | X    |      |      |         |        |      |
-|                                          | RVM                      |                                                                                                            |      |      |      |         | X      | X    |
-| ICube UMR 7357                           |                          | Université de Strasbourg, CNRS                                                                             |      |      |      |         |        |      |
+| CReSTIC EA 3804                          |  MIPA                    | Université de Reims Champagne-Ardenne                                                                      | X    |      |      |         |        |      |
+| LICIIS-LRC DIGIT                         |                          | Université de Reims Champagne-Ardenne, CEA                                                                 |      |      |      |         |        |      |
+| ICube UMR 7357                           |                          | Université de Strasbourg, CNRS                                                                             |      |      | X    | X       | X      | X    |
 |                                          | IGG                      |                                                                                                            |      | X    | X    | X       | X      | X    |
 |                                          | Images                   |                                                                                                            | X    |      |      |         |        |      |
 |                                          | MLMS                     |                                                                                                            |      |      | X    |         |        |      |
@@ -53,6 +52,14 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 |                                          | MFX                      |                                                                                                            |      |      |      | X       |        |      |
 |                                          | PIXEL                    |                                                                                                            |      | X    |      |         |        |      |
 | MEDyC UMR 73694                          | MIME                     | Université de Reims Champagne-Ardenne, CNRS                                                                |      |      |      |         | X      | X    |
+
+
+## Bourgogne Franche Comté
+
+| Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
+| ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
+|  LIB EA 7534                             |                          | Université de Bourgogne                                                                                    |      |      |      |         |        |      |
+|                                          | MG                       |                                                                                                            |      | X    |      |         |        |      |             
 
 ## Auvergne Rhône Alpes
 
