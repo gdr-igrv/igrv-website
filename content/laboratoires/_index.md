@@ -58,8 +58,7 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
-|  LIB EA 7534                             |                          | Université de Bourgogne                                                                                    |      |      |      |         |        |      |
-|                                          | MG                       |                                                                                                            |      | X    |      |         |        |      |             
+|  LIB EA 7534                             | MG                       | Université de Bourgogne                                                                                    |      | X    |      |         |        |      |
 
 ## Auvergne Rhône Alpes
 
