@@ -119,7 +119,6 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
-| AAU UMR 1563                             | CRENAU                   | Ecole Centrale de Nantes, ENSA Nantes, ENSA Grenoble, CNRS                                                 |      |      |      |         | X      | X    |
 | LABRI UMR 5800                           |                          | Université de Bordeaux, CNRS                                                                               |      |      |      |         |        |      |
 |                                          | Potioc                   |                                                                                                            |      |      |      |         |        | X    |
 |                                          | BKB                      |                                                                                                            |      |      |      |         | X      |      |
@@ -134,6 +133,7 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
+| AAU UMR 1563                             | CRENAU                   | Ecole Centrale de Nantes, ENSA Nantes, ENSA Grenoble, CNRS                                                 |      |      |      |         | X      | X    |
 | LS2N UMR 6004                            |                          | Université de Nantes, École Centrale de Nantes,  Institut Mines-Télécom Atlantique, INRIA, CNRS            |      |      |      |         |        |      |
 |                                          | DUKe                     |                                                                                                            |      |      |      |         | X      | X    |
 |                                          | IPI                      |                                                                                                            | X    | X    |      |         |        | X    |
