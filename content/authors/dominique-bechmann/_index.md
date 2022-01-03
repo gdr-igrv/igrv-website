@@ -6,7 +6,7 @@ title: Dominque Bechmann
 superuser: false
 
 # Role/position
-role: Directrice
+role: Directrice (2014-2021)
 
 # Organizations/Affiliations
 organizations:

@@ -3,15 +3,27 @@ title: Direction
 date: 2021-06-21
 ---
 
-**DIRECTION DU GDR** Dominique BECHMANN (ICube, Université de Strasbourg), Directrice du GdR,
+**Direction du GdR**
+* {{% mention "david-coeurjolly" %}} (CNRS, LIRIS), directeur
+* {{% mention "maud-marchal" %}} (IRISA, INSA Rennes), directrice adjointe
 
 
-**COMITE DE PROJET DU GDR**
-Mis en place fin 2019, pour construire le projet de renouvellement du GdR, il a pris le relais du comité de direction au cours de l'année 2020. Il est constitué de 15 personnes avec la directrice actuelle :
-*  8 responsables de thème :
-   * Thème Géométrie : Isabelle SIVIGNON (CNRS, GIPSA-Lab, Université de Grenoble) et Géraldine MORIN (IRIT, Université de Toulouse),
-   * Thème Graphique : Guillaume GILET, (SIR XLim, Université de Limoges), et Caroline LARBOULETTE (IRISA, Vannes),
-   * Thème Visualisation : Julien TIERNY (CNRS, LIP6, Université de Paris VI) et Romain VUILLEMOT (LIRIS, Université de Lyon)
-   * Thème RV : Pierre CHEVAILLIER (IHSEV Lab-STICC, Ecole Nationale d'Ingénieurs de Brest) et Laure LEROY (Paragraph, Paris 8).
-* 3 membres du comité de direction : Loïc BARTHE (IRIT, Université Paul Sabatier, Toulouse), David COEURJOLLY (CNRS, LIRIS, Université de Lyon), et Daniel MESTRE (CNRS, Institut du Mouvement, Université de Marseille),
-* 3 personnes supplémentaires : [Guillaume DAMIAND (LIRIS, CNRS) de décembre 2019 à novembre 2020], Maud MARCHAL (IRISA, INSA Rennes) à partir de décembre 2020, Basile SAUVAGE (ICube, Université de Strasbourg), Dmitry SOKOLOV (LORIA, Université de Lorraine).
+
+**Comité de direction et conseil scientifique**
+
+Mis en place en janvier 2022, le comité de direction s'organise autour de référents sur certaines missions :
+   * {{% mention "guillaume-cordonnier" %}} (INRIA CRISAM) et {{% mention "loic-barthe" %}} (Univ Toulouse) : suivi, actions à destination des jeunes chercheuses/chercheurs, prix de thèse…
+   * {{% mention "dmitry-sokolov" %}} (Univ Lorraine) : Club des partenaires, relations industrielles
+   * {{% mention "basile-sauvage"%}}  (Univ Strasbourg): relations avec les associations et sociétés savantes
+   * {{% mention "adrien-peytavie" %}} (Univ Lyon1) : écoles de recherche du GdR
+   * {{% mention "etienne-peillard" %}} (IMT Atlantique) : communication, site web
+   * Groupe de rédacteurs scientifiques pour la mise en place de brèves scientifiques GdR : {{% mention "rebecca-fribourg" %}} (École Centrale de Nantes), {{% mention "johanna-delanoy"%}} (INSA Lyon) et {{% mention "etienne-corman" %}} (CNRS, LORIA)
+
+
+Le conseil scientifique se compose du comité de direction ainsi que des responsables de groupe de travail :
+  - GT Animation et Simulation  ({{% mention "caroline-larboulette" %}} —Univ Bretagne sud—, {{% mention "nicolas-castagne" %}} —Grenoble INP— )
+  - GT Géométrie discrète & morphologie mathématique ({{% mention "isabelle-sivignon" %}}—CNRS, Gipsa Lab— , {{% mention "nicolas-passat" %}} —Univ Reims—)
+  - GT Modélisation Géométrique ({{% mention "Géraldine Morin" %}} —Univ Toulouse, INP—,  {{% mention "Romain Raffin" %}} —Univ Bourgogne—)
+  - GT Rendu ({{% mention "george-drettakis" %}} —INRIA CRISAM—, {{% mention "romain-vergne" %}} — Univ Grenoble Alpes—)
+  - GT Réalités virtuelles ({{% mention "laure-leroy" %}} —Univ Paris 8— , {{% mention "pierre-chevalier" %}} —ENIB — )
+  - GT Visualisation ({{% mention "julien-tierny" %}} —CNRS, LIP6— , {{% mention "romain-vuillemot" %}} —École Centrale de Lyon—)

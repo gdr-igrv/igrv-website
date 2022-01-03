@@ -6,7 +6,7 @@ title: David Coeurjolly
 superuser: true
 
 # Role/position
-role:
+role: Directeur
 
 # Organizations/Affiliations
 organizations:
