@@ -18,14 +18,21 @@ main:
     identifier: presentation
     weight: 45
   - parent: presentation
+    name: Logos/modèles
+    url: logos
+    weight: 99
+  - parent: presentation
     name: Positionnement général
     url: positionnement
+    weight: 10
   - parent: presentation
     name: Organisation
     url: organisation
+    weight: 11
   - parent: presentation
     name: Direction
-    url: direction 
+    url: direction
+    weight: 12
 
   - name: Les laboratoires
     url: laboratoires
