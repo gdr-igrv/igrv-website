@@ -6,7 +6,7 @@ title: Maud Marchal
 superuser: true
 
 # Role/position
-role:
+role: Directrice adjointe
 
 # Organizations/Affiliations
 organizations:
