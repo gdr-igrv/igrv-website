@@ -22,7 +22,9 @@ L’inscription est gratuite mais obligatoire, et d’ores et déjà possible vi
   
 Les propositions d’exposés sont aussi les bienvenues dès maintenant. Pour cela, il suffit de nous envoyer par mail à jig2022@sciencesconf.org le titre et résumé de votre exposé. Nous encourageons tout particulièrement les doctorants et jeunes docteurs à venir présenter leurs travaux devant une communauté un peu plus large que celle de leur GT. D’autre part, il est tout à fait possible de présenter des travaux déjà publiés dans un journal ou présentés dans une conférence internationale.  \n
 
-Date limite pour l’inscription et la proposition d’exposé : 1er mars 2022."
+Date limite pour l’inscription et la proposition d’exposé : 1er mars 2022.
+
+Note : Les JIG (Journées Informatique et Géométries) des GT GDMM et MG auront lieu juste avant les journées du GT MG, les 15 et 16 mars, avec le mercredi 16 commun avec les journées du GT. Pour l'inscription (gratuite) et le programme : https://gtmg2022.sciencesconf.org/"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
