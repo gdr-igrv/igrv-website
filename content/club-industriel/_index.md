@@ -1,6 +1,8 @@
 ---
 title: Club  industriel
 date: 2021-06-21
+authors: ["Guillaume Moreau", "Dmitry Sokolov"]
+
 ---
 
 
