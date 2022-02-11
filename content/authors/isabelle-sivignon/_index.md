@@ -6,12 +6,12 @@ title: Isabelle Sivignon
 superuser: false
 
 # Role/position
-role: "Co-responsable GT-GDMM"
+role: "Co-responsable GT GDMM"
 
 # Organizations/Affiliations
 organizations:
 - name: CNRS, GIPSA-Lab
-  url: ""
+  url: "http://www.gipsa-lab.grenoble-inp.fr/"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
