@@ -6,14 +6,12 @@ title: Nicolas Passat
 superuser: false
 
 # Role/position
-role:
+role: "Co-responsable GT GDMM"
 
 # Organizations/Affiliations
 organizations:
-- name:  
-  url: ""
-- name:  
-  url: ""
+- name: CReSTIC, Université de Reims 
+  url: "https://crestic.univ-reims.fr/"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
