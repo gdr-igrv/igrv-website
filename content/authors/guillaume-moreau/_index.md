@@ -1,21 +1,16 @@
 ---
 # Display name
-title: Pierre Chevalier
+title: Guillaume Moreau
 
 # Is this the primary user of the site?
 superuser: false
 
-draft: true
-
 # Role/position
-role: "Co-responsable GT-RV"
+role:
 
 # Organizations/Affiliations
 organizations:
-- name:  ENIB, Lab-STICC, UMR CNRS 6285, équipe COMMEDIA
-  url: ""
-- name:  
-  url: ""
+- name: IMT Atlantique
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
