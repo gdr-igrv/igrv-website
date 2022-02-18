@@ -152,7 +152,7 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 |                                          | HYBRID                   |                                                                                                            |      |      |      |         |        | X    |
 | lab-STICC UMR 6285                       |                          | IMT Atlantique, Université de Bretagne Occidentale, Université de Bretagne Sud, ENSTA Bretagne, ENIB, CNRS |      |      |      |         |        |      |
 |                                          | COMMEDIA                 |                                                                                                            |      |      | X    |         |        | X    |
-|                                          | INUIT                    |                                                                                                            |      |      |      |         | X      |      |
+|                                          | INUIT                    |                                                                                                            |      |      |      |         |        |  X    |
 
 
 ## Normandie
