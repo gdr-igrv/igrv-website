@@ -101,7 +101,7 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 | LIS UMR 7296                             |                          | Université de Marseille, CNRS                                                                              |      |      |      |         |        |      |
 |                                          | G-Mod                    |                                                                                                            | X    | X    |      |         |        | X    |
 |                                          | ACRO                     |                                                                                                            | X    |      |      |         |        |      |
-| LISPEN EA 7515                           |                          | Ecole Nationale Supérieure d'Arts et Métiers                                                               |      | X    |      |         |        |      |
+| LISPEN EA 7515                           |                          | Ecole Nationale Supérieure d'Arts et Métiers                                                               |      | X    |      |         |        |   X   |
 
 ## Occitanie
 
