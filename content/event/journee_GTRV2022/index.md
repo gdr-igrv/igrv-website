@@ -39,6 +39,8 @@ tags: []
 featured: false
 ---
 
+![](https://journee-rvia.hds.utc.fr/_detail/pma_equipe_copyright.jpg?id=fr%3Astart)
+
 # Responsables
 
 - Domitile Lourdeaux (Heudiasyc – Université de technologie de Compiègne)
