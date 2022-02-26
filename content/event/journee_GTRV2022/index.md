@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Journée  « Environnements virtuels : adaptation du système à l'humain ou de l'humain au système ? » "
 
 event: JGTRV2022
