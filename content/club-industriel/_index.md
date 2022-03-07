@@ -1,10 +1,14 @@
 ---
 title: Club  industriel
 date: 2021-06-21
+authors: ["Guillaume Moreau", "Dmitry Sokolov"]
 ---
 
 
+
 Un club des partenaires industriels selon un modèle ouvert complète l’ensemble des laboratoires participant au GdR IG-RV. Les partenaires naturels du GdR IG-RV sont les industriels du Paris ACM SIGGRAPH pour l’informatique graphique, les nombreux industriels participant aux journées rendu et visualisation de ce GdR, et ceux issus du collège 3 de feu-l’AFRV pour la réalité virtuelle, mais tout autre partenaire est le bienvenu dans ce club.
+
+**Contacts**:  {{% mention "guillaume-moreau" %}} (IMT Atlantique), {{% mention "dmitry-sokolov" %}} (Univ Lorraine) 
 
 # Membres du Club industriel
 {{< figure src="img/Logo-hapticmedia.png" width="50%">}}{{< figure src="img/Logo-berger-levrault.png" width="50%">}}

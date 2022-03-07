@@ -69,7 +69,7 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 |                                          | GAIA                     |                                                                                                            | X    | X    |      |         |        |      |
 |                                          | Sigmaphy                 |                                                                                                            | X    |      |      |         |        |      |
 | ICA                                      |                          | Grenoble INP                                                                                               |      |      | X    |         |        |      |
-| LAMA UMR 5127                            | LIMD                     | Université Savoir Mont Blanc, CNRS                                                                         | X    |      |      |         |        |      |
+| LAMA UMR 5127                            | LIMD                     | Université Savoie Mont Blanc, CNRS                                                                         | X    |      |      |         |        |      |
 | LIG UMR 5217                             |                          | Université  Grenoble Alpes, CNRS                                                                           |      |      |      |         |        |      |
 |                                          | AMA                      |                                                                                                            |      |      |      |         | X      |      |
 |                                          | IIHM                     |                                                                                                            |      |      |      |         | X      | X    |
@@ -101,7 +101,7 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 | LIS UMR 7296                             |                          | Université de Marseille, CNRS                                                                              |      |      |      |         |        |      |
 |                                          | G-Mod                    |                                                                                                            | X    | X    |      |         |        | X    |
 |                                          | ACRO                     |                                                                                                            | X    |      |      |         |        |      |
-| LISPEN EA 7515                           |                          | Ecole Nationale Supérieure d'Arts et Métiers                                                               |      | X    |      |         |        |      |
+| LISPEN EA 7515                           |                          | Ecole Nationale Supérieure d'Arts et Métiers                                                               |      | X    |      |         |        |   X   |
 
 ## Occitanie
 
@@ -152,7 +152,7 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 |                                          | HYBRID                   |                                                                                                            |      |      |      |         |        | X    |
 | lab-STICC UMR 6285                       |                          | IMT Atlantique, Université de Bretagne Occidentale, Université de Bretagne Sud, ENSTA Bretagne, ENIB, CNRS |      |      |      |         |        |      |
 |                                          | COMMEDIA                 |                                                                                                            |      |      | X    |         |        | X    |
-|                                          | INUIT                    |                                                                                                            |      |      |      |         | X      |      |
+|                                          | INUIT                    |                                                                                                            |      |      |      |         |  X     |  X    |
 
 
 ## Normandie

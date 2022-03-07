@@ -1,20 +1,16 @@
 ---
 # Display name
-title: Pierre Chevalier
+title: Jean-Marie Normand
 
 # Is this the primary user of the site?
 superuser: false
-
-draft: true
 
 # Role/position
 role: "Co-responsable GT-RV"
 
 # Organizations/Affiliations
 organizations:
-- name:  ENIB, Lab-STICC, UMR CNRS 6285, équipe COMMEDIA
-  url: ""
-- name:  
+- name: Ecole Centrale de Nantes, AAU
   url: ""
 
 # Highlight the author in author lists? (true/false)
