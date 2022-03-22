@@ -2,6 +2,7 @@
 title: Zoom sur... L'équipe PIROS du laboratoire ISIR, avec Catherine Pelachaud
 date: 2022-02-11
 draft: false
+categories: Zoom sur
 authors: 
     - Johanna Delanoy
 ---
