@@ -3,6 +3,7 @@ title: Zoom sur... Aldo Napoli du Centre de recherche sur les Risques et les Cri
 
 date: 2022-05-05
 draft: false
+categories:  Zoom sur
 authors: 
     - Johanna Delanoy
 ---
