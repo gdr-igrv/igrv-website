@@ -8,7 +8,7 @@ authors:
 
 ### Peux-tu nous dire quelle est ta situation actuelle en matière de recherche ? 
 
-Je suis en 3ème année de thèse au [LIRIS](https://projet.liris.cnrs.fr) à Lyon, encadré par Eric Galin et Eric Guérin de l’équipe [Origami](https://projet.liris.cnrs.fr/origami/). J’ai réalisé une césure de thèse de 6 mois pour faire un stage de recherche dans une entreprise, chez Adobe Research, et je débute pour cela ma troisième année en décalé en Mars. 
+Je suis en 3ème année de thèse au [LIRIS](https://liris.cnrs.fr) à Lyon, encadré par Eric Galin et Eric Guérin de l’équipe [Origami](https://projet.liris.cnrs.fr/origami/). J’ai réalisé une césure de thèse de 6 mois pour faire un stage de recherche dans une entreprise, chez Adobe Research, et je débute pour cela ma troisième année en décalé en Mars. 
 
 ### Peux-tu nous décrire en quelques mots, et de manière accessible aux membres du GDR-IGRV, en quoi tes travaux de recherche consistent exactement? 
 
