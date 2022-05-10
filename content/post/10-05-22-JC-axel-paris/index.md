@@ -18,8 +18,7 @@ Plus spécifiquement, je m’intéresse aux phénomènes naturels qu’on nomme 
 
 Ça a deux applications principalement : une application plutôt dans l’industrie du loisir, notamment le cinéma et le jeu vidéo, où souvent on veut créer des scènes naturelles par ordinateur (e.g. le dernier Avengers). Dans ces scènes naturelles, il y a souvent un terrain et se sont des artistes qui vont le créer et le texturer. C’est un processus de moins en moins manuel : il est semi-manuel, et beaucoup d’algorithmes sont déjà utilisés par des artistes pour commencer à faire le sketching, placer les formes, etc. Dans ce contexte, on va donc chercher à faire des applications qui donnent plutôt du contrôle aux artistes. La deuxième application est à l’interface entre la géologie et l’informatique. Imaginons qu’on regarde une chaîne de montagnes et qu’on veuille savoir comment elle a été formée. On va essayer de rétro-ingéniérer les processus par des algorithmes pour comprendre comment la montagne s’est formée, et ça peut nous aider à prédire l’évolution de la montagne avec des « méthodes inverses ». 
 
-{{< figure src="SeaErosion03.jpg" >}}
-Simulation de terrains volumiques par invasion-percolation
+{{< figure src="SeaErosion03.jpg" caption="Simulation de terrains volumiques par invasion-percolation">}}
 
 #### Est-ce que côté technologie tu arriverais à décrire un peu les outils que tu utilises ?
 
@@ -29,8 +28,7 @@ Dans ma thèse, je me suis focalisé principalement sur les modèles à base de 
 
 J’ai eu l’occasion de travailler dans ma thèse sur des sujets assez différents qui m’ont tous beaucoup plu. Si je devais revenir sur juste un, je dirais le dernier qui concernait la génération de réseaux de grottes. Je l’ai trouvé particulièrement intéressant car on a pu collaborer avec quelqu’un de l’extérieur, une géologue, qui avait des connaissances que nous n’avions pas du tout (Pauline Colon, de l’université de Lorraine). Elle nous a apporté beaucoup de connaissances en géologie et en géomorphologie. On a rédigé un article ensemble où le côté pluridisciplinaire ressort beaucoup, et chacun a apporté des connaissances à l’autre. La collaboration continue d’ailleurs avec des stages en suite de ce papier. 
 
-{{< figure src="nabkha_1.png" >}}
-Simulation de paysages désertiques: Dunes Nabkha
+{{< figure src="nabkha_1.png" caption="Simulation de paysages désertiques: Dunes Nabkha">}}
 
 
 ### Quelles sont tes perspectives à long terme ? (Après la thèse ou le post-doc, EC, CR..)
