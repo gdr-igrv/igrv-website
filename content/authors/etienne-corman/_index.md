@@ -10,10 +10,10 @@ role: Groupe des rédacteurs scientifiques
 
 # Organizations/Affiliations
 organizations:
-- name:  
-  url: ""
-- name:  
-  url: ""
+- name:  CNRS
+  url: "www.cnrs.fr"
+- name:  LORIA
+  url: "https://www.loria.fr/"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

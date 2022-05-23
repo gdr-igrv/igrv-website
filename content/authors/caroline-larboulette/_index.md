@@ -10,10 +10,10 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name:  
-  url: ""
-- name:  
-  url: ""
+- name: Université de Bretagne Sud
+  url: "https://www.univ-ubs.fr/fr/index.html"
+- name: IRISA
+  url: "https://www.irisa.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

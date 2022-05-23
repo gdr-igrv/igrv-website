@@ -10,10 +10,10 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name:  
+- name:  Université de Lorraine
   url: ""
-- name:  
-  url: ""
+- name: LORIA  
+  url: "https://www.loria.fr/"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
