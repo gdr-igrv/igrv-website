@@ -10,8 +10,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name:  
-  url: ""
+- name:  INP Grenoble
+  url: "https://www.grenoble-inp.fr"
 - name:  
   url: ""
 

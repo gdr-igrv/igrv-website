@@ -10,10 +10,10 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name:  
-  url: ""
-- name:  
-  url: ""
+- name:   Université Paul Sabatier  
+  url: "https://www.univ-tlse3.fr"
+- name: Laboratoire IRIT  
+  url: "www.irit.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

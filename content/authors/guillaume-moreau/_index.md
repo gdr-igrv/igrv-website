@@ -11,6 +11,9 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: IMT Atlantique
+  url: "https://www.imt-atlantique.fr/fr"
+- name: Lab-STICC lab and INRIA Hybrid team
+  url: "https://labsticc.fr/"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

@@ -10,10 +10,10 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name:  
-  url: ""
-- name:  
-  url: ""
+- name:  Université Grenoble Alpes
+  url: "https://www.univ-grenoble-alpes.fr"
+- name: Laboratoire Jean  Kuntzmann, INRIA
+  url: "https://www-ljk.imag.fr/#header"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

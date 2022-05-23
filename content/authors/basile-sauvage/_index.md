@@ -10,10 +10,10 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name:  
-  url: ""
-- name:  
-  url: ""
+- name:  Université de Strasbourg
+  url: "https://www.unistra.fr"
+- name:  ICube
+  url: "https://igg.icube.unistra.fr/index.php/Accueil"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

@@ -10,7 +10,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name:  
+- name:  Université Aix Marseille
   url: ""
 - name:  
   url: ""
