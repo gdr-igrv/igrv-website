@@ -24,7 +24,7 @@ Le conseil scientifique se compose du comité de direction ainsi que des respons
   - GT Géométrie discrète & morphologie mathématique ({{% mention "isabelle-sivignon" %}}—CNRS, Gipsa Lab— , {{% mention "nicolas-passat" %}} —Univ Reims—)
   - GT Modélisation Géométrique ({{% mention "Géraldine Morin" %}} —Univ Toulouse, INP—,  {{% mention "Romain Raffin" %}} —Univ Bourgogne—)
   - GT Rendu ({{% mention "george-drettakis" %}} —INRIA CRISAM—, {{% mention "romain-vergne" %}} — Univ Grenoble Alpes—)
-  - GT Réalités virtuelles ({{% mention "laure-leroy" %}} —Univ Paris 8— , {{% mention "pierre-chevalier" %}} —ENIB — )
+  - GT Réalités virtuelles ({{% mention "laure-leroy" %}} —Univ Paris 8— , {{% mention "jean-marie-normand" %}} —École Centrale de Nantes— )
   - GT Visualisation ({{% mention "julien-tierny" %}} —CNRS, LIP6— , {{% mention "romain-vuillemot" %}} —École Centrale de Lyon—)
 
 Un groupe de rédacteurs scientifiques a été mis en place pour la diffusion de brèves scientifiques au sein des communautés du GdR et pour le grand public :  {{% mention "johanna-delanoy"%}} (INSA Lyon), {{% mention "rebecca-fribourg" %}} (École Centrale de Nantes) et {{% mention "etienne-corman" %}} (CNRS, LORIA)
