@@ -18,7 +18,7 @@ Le dossier pour postuler doit comprendre :
   - une lettre de justification de l''équipe / personne qui accueille
   - un budget prévisionnel
 
-La date limite pour l'envoi du dossier est le 1er septembre 2022 (par mail à David et Maud), une décision très rapide devrait arriver dans la foulée pour la mise en place de la mission.
+La date limite pour l'envoi du dossier est le **1er septembre 2022** (par mail à David et Maud), une décision très rapide devrait arriver dans la foulée pour la mise en place de la mission.
 
 Merci à tous de relayer l'information,
 Très cordialement,
