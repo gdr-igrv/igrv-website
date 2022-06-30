@@ -14,9 +14,13 @@ collaborations, ou se former auprès d'autres équipes, ces mobilités
 sont d'une grande utilité en tant que levier, avec un format court et
 léger de candidature et de financement.
 
+
 ## Demander le soutien du GdR pour une mobilité
 
-Les modalités seront précisées très prochainement.
+[Les modalités de l'appel 2022.](http://gdr-igrv.fr/post/30-06-22-mobilite/)
+
+
+
 
 ## Mobilités passées
 
