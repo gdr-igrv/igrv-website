@@ -83,17 +83,26 @@ L’inscription aux Journées est gratuite mais obligatoire – merci de prendre
 
 ### Mardi 5 juillet 2022
 
-9h - 12h : Atelier Mocap, animé par l'équipe Expression
+9h : Accueil, hall du batiment ENSIBS
 
-12h - 14h : Repas
+9h15 - 12h15 : Atelier Mocap, animé par l'équipe Expression
+
+12h30 - 13h45 : Repas offert par l'Université Bretagne Sud, batiment DSEG
 
 14h - 15h30 : Présentations - session 1
+- *CVM-Net: Monocular Video-Based Motion Capture with Deep Learning Techniques*, **Mansour Tchenegnon**, Thibaut le Naour et Sylvie Gibet, équipe Expression IRISA et Motion Up.
+- *Présentation de la nouvelle équipe VirtUS*, **Ludovic Hoyet** et al., équipe Virtus IRISA.
+- *Detailed Eye Region Capture and Animation*, **Glenn Kerbiriou**, Maud Marchal et Quentin Avril, équipe Rainbow IRISA et InterDigital.
+- *Water and Generalized Kelvinlets*, **Mathieu Desbrun** et al., INRIA.
 
-15h30 - 15h45 : Pause café
+15h30 - 15h45 : Pause café hall ENSIBS
 
 15h45 - 17h : Présentations - session 2
+- *Multiresolution Framework for the Animation and Cutting of Complex or Highly Detailed Objects*, **Quentin Wendling** et David Cazier, équipe IGG ICUBE.
+- *A Low-Cost Motion Capture Corpus in French Sign Language for Interpreting Iconicity and Spatial Referencing Mechanisms*, **Clémence Mertz**, Vincent Barreaud, Damien Lolive et Sylvie Gibet, équipe Expression IRISA.
+- *Présentation de l’équipe SAARA, avec focus sur les expressions dans les mouvements et gestes, reconnaissance et synthèse*, **Alexandre Meyer** et al., équipe Saara LIRIS.
 
-17h : Moment artistique et social event
+17h : Moment artistique et social event offert par le GDR / CNRS
 
 ### Mercredi 6 juillet 2022
 
@@ -107,16 +116,22 @@ Abstract: In this presentation, I will talk about some of the recent work we did
 10h30 - 10h45 : Pause café hall ENSIBS
 
 10h45 - 12h : Présentations - session 3 - focus IA
+- *Interactive loop modeling for nonverbal behavior animation*, **Jieyeon Woo**, Catherine Pelachaud et Catherine Achard, Sorbonne Université / ISIR.
+- *UnderPressure: Deep Learning for Foot Contact Detection, Ground Reaction Force Prediction and Footskate Cleanup*, **Lucas Mourot**, Ludovic Hoyet, François Le Clerc et Pierre Hellier, équipe Virtus IRISA et InterDigital.
+- *Zero-Shot Multimodal Style Transfer for Text and Speech Driven Gesture Animation*, **Mireille Fares**, **Michele Grimaldi**, Catherine Pelachaud et Nicolas Obin, Sorbonne Université / ISIR.
 
 12h - 12h30 : Discussions "IA et Animation"
 
-12h30 - 13h30 : Repas
+12h30 - 13h45 : Repas offert par l'Université Bretagne Sud, batiment DSEG
 
 14h - 15h : Discussions "Enseignement de l'AS et avec l'AS"
 
-15h - 15h15 Pause cafe
+15h - 15h15 Pause café hall ENSIBS
 
 15h15 - 16h : Présentations - session 4
+- *Motion In Style : Analysis of Mocap Data*, Victor Haguet et Caroline Larboulette, équipe Expression IRISA, Université Bretagne Sud.
+- *3D Human Shape Style Transfer*, **Joao Regateiro** et al., équipe MiMetic IRISA.
+- *Title in progress*, **Nicolas Castagné**.
 
 16h - 17h : Discussions "Prospectives"
 
