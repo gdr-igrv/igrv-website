@@ -122,16 +122,18 @@ Abstract: In this presentation, I will talk about some of the recent work we did
 
 12h - 12h30 : Discussions "IA et Animation"
 
-12h30 - 13h45 : Repas offert par l'Université Bretagne Sud, batiment DSEG
+12h30 - 13h40 : Repas offert par l'Université Bretagne Sud, batiment DSEG
+
+13h40 - 14h : Retour d'expérience Projets Européens, **Maud Marchal**, équipe Rainbow IRISA.
 
 14h - 15h : Discussions "Enseignement de l'AS et avec l'AS"
 
 15h - 15h15 Pause café hall ENSIBS
 
 15h15 - 16h : Présentations - session 4
-- *Motion In Style : Analysis of Mocap Data*, Victor Haguet et Caroline Larboulette, équipe Expression IRISA, Université Bretagne Sud.
+- *Motion In Style : Analysis of Mocap Data*, **Victor Haguet**, **Caroline Larboulette** et Laura Pouppeville, équipe Expression IRISA, Université Bretagne Sud et artiste indépendante.
 - *3D Human Shape Style Transfer*, **Joao Regateiro** et al., équipe MiMetic IRISA.
-- *Title in progress*, **Nicolas Castagné**.
+- *Vers un outil topo-géométrique modulaire pour la mise en forme visuelle de simulations physiques masses-interactions et l’animation de transformations topologiques*, Jérémy Riffet, Annie Luciani, **Nicolas Castagné**,  Université Grenoble Alpes|Grenoble INP et ACROE.
 
 16h - 17h : Discussions "Prospectives"
 
