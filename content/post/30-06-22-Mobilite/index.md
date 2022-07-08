@@ -1,5 +1,5 @@
 ---
-title: "Mobilités inter-labortoires 2022"
+title: "Mobilités inter-laboratoires 2022"
 date: 2022-06-30
 categories:
 authors:
