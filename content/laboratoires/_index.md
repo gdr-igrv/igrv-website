@@ -5,6 +5,9 @@ date: 2021-06-21
 
 Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contacter pour toute demande d'ajout ou de modification.
 
+<iframe width="100%" height="800px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-labos-gdr-igrv_789189?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=expanded&onLoadPanel=undefined&captionBar=true"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/carte-labos-gdr-igrv_789189">Voir en plein écran</a></p>
+
+
 ## Ile de France
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
