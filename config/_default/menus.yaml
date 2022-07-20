@@ -33,13 +33,22 @@ main:
     name: Direction
     url: direction
     weight: 12
-
-  - name: Les laboratoires
+  - parent: presentation
+    name: Les laboratoires
     url: laboratoires
-    weight: 46
-  - name: Listes de diffusion
-    url: listes
+    weight: 13
+
+  - name: Communication
+    identifier: communication
     weight: 47
+  - parent: communication
+    name: Listes de diffusion
+    url: listes
+    weight: 10
+  - parent: communication
+    name: Newsletters
+    url: newsletters
+    weight: 11
 
   - identifier: gts
     name: Les groupes de travail
