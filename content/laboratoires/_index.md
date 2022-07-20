@@ -8,6 +8,8 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 <iframe width="100%" height="800px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-labos-gdr-igrv_789189?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=expanded&onLoadPanel=undefined&captionBar=true"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/carte-labos-gdr-igrv_789189">Voir en plein écran</a></p>
 
 ## Ile de France
+
+{{<tables "table table-striped table-bordered">}}
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
 | CMM                                      |                          | Mines ParisTech, PSL                                                                                       | X    |      |      |         |        |      |
@@ -26,10 +28,11 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 | LRDE                                     | Image                    | EPITA                                                                                                      | X    |      |      |         |        |      |
 | Maison de la Simulation USR 3441         | Visualisation            | Université Paris Saclay, UVSQ, CEA, CNRS                                                                   |      |      |      |         | X      |      |
 | Laboratoire Biochimie Théorique UPR 9080 |                          | CNRS                                                                                                       |      |      |      |         | X      | X    |
-
+{{</tables>}}
 
 ## Hauts de France
 
+{{<tables "table table-striped table-bordered">}}
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
 | CRIStAL UMR 9189                         |                          | Université de Lille, Centrale Lille Institut, CNRS                                                         |      |      |      |         |        |      |
@@ -38,9 +41,11 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 | HEUDIASYC UMR 7253                       |                          | Université Technologique de Compiègne, CNRS                                                                |      |      | X    |         |        | X    |
 |                                          | SyRI                     |                                                                                                            |      |      |      |         |        | X    |
 |                                          | CID                      |                                                                                                            |      |      |      |         |        | X    |
+{{</tables>}}
 
 ## Grand Est
 
+{{<tables "table table-striped table-bordered">}}
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
 | CReSTIC EA 3804                          |  MIPA                    | Université de Reims Champagne-Ardenne                                                                      | X    |      |      |         |        |      |
@@ -54,16 +59,19 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 |                                          | MFX                      |                                                                                                            |      |      |      | X       |        |      |
 |                                          | PIXEL                    |                                                                                                            |      | X    |      |         |        |      |
 | MEDyC UMR 73694                          | MIME                     | Université de Reims Champagne-Ardenne, CNRS                                                                |      |      |      |         | X      | X    |
-
+{{</tables>}}
 
 ## Bourgogne Franche Comté
 
+{{<tables "table table-striped table-bordered">}}
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
 |  LIB EA 7534                             | MG                       | Université de Bourgogne                                                                                    |      | X    |      |         |        |      |
+{{</tables>}}
 
 ## Auvergne Rhône Alpes
 
+{{<tables "table table-striped table-bordered">}}
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
 | G-SCOP UMR 5272                          | Conception collaborative | Grenoble-INP, Université Grenoble Alpes,  CNRS                                                             |      |      |      |         | X      | X    |
@@ -87,9 +95,10 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 |                                          | Maverick                 |                                                                                                            |      |      |      | X       | X      |      |
 |                                          | ELAN                     |                                                                                                            |      |      | X    |         |        |      |
 | OPGC UMS 833                             | SBC                      | Université Clermont Auvergne, CNRS                                                                         |      |      |      |         | X      |      |
-
+{{</tables>}}
 ## Provence
 
+{{<tables "table table-striped table-bordered">}}
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
 | I3S UMR 7271                             | Mediacoding / SIS        | Université Côte d'Azur, CNRS                                                                               |      |      |      |         | X      | X    |
@@ -104,9 +113,11 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 |                                          | G-Mod                    |                                                                                                            | X    | X    |      |         |        | X    |
 |                                          | ACRO                     |                                                                                                            | X    |      |      |         |        |      |
 | LISPEN EA 7515                           |                          | Ecole Nationale Supérieure d'Arts et Métiers                                                               |      | X    |      |         |        |   X   |
+{{</tables>}}
 
 ## Occitanie
 
+{{<tables "table table-striped table-bordered">}}
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
 | LIRMM UMR 5506                           | ICAR                     | Université de Montpellier, CNRS                                                                            | X    | X    | X    |         | X      |      |
@@ -114,11 +125,12 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 |                                          | STORM                    |                                                                                                            |      | X    |      | X       |        | X    |
 |                                          | ELIPSE                   |                                                                                                            |      |      |      |         |        | X    |
 |                                          | REVA                     |                                                                                                            |      | X    | X    |         |        | X    |
-
+{{</tables>}}
 
 
 ## Nouvelle Aquitaine
 
+{{<tables "table table-striped table-bordered">}}
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
 | LABRI UMR 5800                           |                          | Université de Bordeaux, CNRS                                                                               |      |      |      |         |        |      |
@@ -129,10 +141,11 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 | XLIM UMR 7252                            |                          | Université de Limoges et Poitiers, CNRS                                                                    |      |      |      |         |        |      |
 |                                          | IG                       |                                                                                                            | X    | X    | X    | X       | X      | X    |
 |                                          | SIR                      |                                                                                                            |      | X    | X    | X       | X      |      |
-
+{{</tables>}}
 
 ## Pays de la Loire
 
+{{<tables "table table-striped table-bordered">}}
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
 | AAU UMR 1563                             | CRENAU                   | Ecole Centrale de Nantes, ENSA Nantes, ENSA Grenoble, CNRS                                                 |      |      |      |         | X      | X    |
@@ -140,10 +153,11 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 |                                          | DUKe                     |                                                                                                            |      |      |      |         | X      | X    |
 |                                          | IPI                      |                                                                                                            | X    | X    |      |         |        | X    |
 |                                          | PACCE                    |                                                                                                            |      |      |      |         |        | X    |
-
+{{</tables>}}
 
 ## Bretagne
 
+{{<tables "table table-striped table-bordered">}}
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
 | IRISA UMR 6074                           |                          | Université de Rennes, CNRS                                                                                 |      |      |      |         |        |      |
@@ -155,10 +169,12 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 | lab-STICC UMR 6285                       |                          | IMT Atlantique, Université de Bretagne Occidentale, Université de Bretagne Sud, ENSTA Bretagne, ENIB, CNRS |      |      |      |         |        |      |
 |                                          | COMMEDIA                 |                                                                                                            |      |      | X    |         |        | X    |
 |                                          | INUIT                    |                                                                                                            |      |      |      |         |  X     |  X    |
-
+{{</tables>}}
 
 ## Normandie
 
+{{<tables "table table-striped table-bordered">}}
 | Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
 | GREYC UMR 6072                           | IMAGE                    | Université de Caen, ENSICAEN, CNRS                                                                         | X    |      |      | X       |        | X    |
+{{</tables>}}
