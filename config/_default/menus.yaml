@@ -79,9 +79,32 @@ main:
     weight: 55
 
 
-  - name: Actions et journées
+  - identifier: action
+    name: Actions et journées
     url: actions
     weight: 70
+  - parent: action
+    name: Journées plénières
+    url: actions/plenieres
+    weight: 1
+  - parent: action
+    name: Financement de missions pour journées du GdR
+    url: actions/missions
+    weight: 2
+  - parent: action
+    name: Mobilité
+    url: actions/mobilite
+    weight: 3
+  - parent: action
+    name: Actions inter-GdR
+    url: actions/inter-gdr
+    weight: 4
+  - parent: action
+    name: Prix de thèse
+    url: actions/prix-these
+    weight: 5
+
+
   - name: Club  industriel
     url: club-industriel
-    weight: 70
+    weight: 80

@@ -1,5 +1,5 @@
 ---
-title: Actions du GdR
+title: Résultats du prix de thèse du GdR
 date: 2021-06-21
 
 design:
