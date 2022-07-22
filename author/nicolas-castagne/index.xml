@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nicolas Castagné | GdR IG-RV</title><link>https://gdr-igrv.fr/author/nicolas-castagne/</link><atom:link href="https://gdr-igrv.fr/author/nicolas-castagne/index.xml" rel="self" type="application/rss+xml"/><description>Nicolas Castagné</description><generator>Wowchemy (https://wowchemy.com)</generator><language>fr-fr</language><image><url>https://gdr-igrv.fr/author/nicolas-castagne/avatar_huf19c8866a68bd74ada6682b590dfd17c_31782_270x270_fill_q75_lanczos_center.jpg</url><title>Nicolas Castagné</title><link>https://gdr-igrv.fr/author/nicolas-castagne/</link></image><item><title>24èmes journées du Groupe de Travail Animation et Simulation</title><link>https://gdr-igrv.fr/event/journee_gtas2022/</link><pubDate>Tue, 05 Jul 2022 09:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/event/journee_gtas2022/</guid><description>&lt;p>Les prochaines journées du Groupe de Travail Animation et Simulation du GDR IGRV auront lieu du mardi 5 juillet 2022 au mercredi 6 juillet 2022, à Vannes, sur le campus de Tohannic, bâtiment ENSIBS.&lt;/p>
+&lt;p>L’objet des Journées du GT AS est triple. Il s’agit :&lt;/p>
+&lt;ul>
+&lt;li>de partager les avancées de la recherche en animation et simulation,&lt;/li>
+&lt;li>de dresser le paysage du domaine en France, et&lt;/li>
+&lt;li>d’en préciser les perspectives et les thématiques émergentes.&lt;/li>
+&lt;/ul>
+&lt;p>Cette année, plusieurs présentations de &lt;strong>travaux et résultats récents&lt;/strong> aborderont des thèmes diversifiés tels que l&amp;rsquo;analyse, la synthèse et l&amp;rsquo;édition de mouvement, la modélisation et la simulation de phénomènes naturels, la capture de mouvements faciaux et du regard, la modélisation et l&amp;rsquo;animation faciale, la synthèse de gestes liés à la prosodie, les aspects multimodaux et multisensoriels dans l&amp;rsquo;animation, l&amp;rsquo;évolution des techniques de motion capture par vidéo, ou encore la synthèse de mouvements de langue des signes.&lt;/p>
+&lt;p>Avec un &lt;strong>spectre plus large&lt;/strong>, plusieurs équipes présenteront un panorama pluriannuel de leur thématiques de recherche et de leurs évolutions, ainsi que des avancées de projets collaboratifs auxquelles elles contribuent.&lt;/p>
+&lt;p>Les Journées sont également bien sûr l’occasion d’&lt;strong>échanges et de débats scientifiques&lt;/strong>. Deux thèmes focus ont été retenus pour cette année :&lt;/p>
+&lt;ul>
+&lt;li>les liens de plus en plus importants, en recherche, qui se construisent entre les technologies de l’intelligence artificielle et les problématiques de l’animation et de la simulation,&lt;/li>
+&lt;li>les questions relatives à l’enseignement de l’animation et de la simulation et l’usage de l’AS pour la pédagogie d’autres disciplines.&lt;/li>
+&lt;/ul>
+&lt;p>Par ailleurs, un &lt;strong>atelier pratique&lt;/strong> sur les technologies de capture du mouvement et leurs usages sera proposé par l’équipe organisatrice Expression, et un moment sera dédié au &lt;strong>partage de réalisations et perspectives artistiques&lt;/strong> (œuvres, projets ou travaux en cours), les processus créatifs étant importants pour notre domaine qui adresse la perception visuelle, notamment dans les aspects dynamiques.&lt;/p>
+&lt;p>Enfin, l’ensemble des participants s’attacheront à mettre à jour les éléments prospectifs du domaine : nouveaux sujets, thèmes émergents, perspectives, points clés.&lt;/p>
+&lt;p>L’inscription aux Journées est gratuite mais obligatoire – merci de prendre contact avec les coordinateurs du GT pour obtenir le lien d&amp;rsquo;inscription.&lt;/p>
+&lt;h2 id="programme-prévisionnel">Programme Prévisionnel&lt;/h2>
+&lt;h3 id="mardi-5-juillet-2022">Mardi 5 juillet 2022&lt;/h3>
+&lt;p>9h : Accueil, hall du batiment ENSIBS&lt;/p>
+&lt;p>9h15 - 12h15 : Atelier Mocap, animé par l&amp;rsquo;équipe Expression&lt;/p>
+&lt;p>12h30 - 13h45 : Repas offert par l&amp;rsquo;Université Bretagne Sud, batiment DSEG&lt;/p>
+&lt;p>14h - 15h30 : Présentations - session 1&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>CVM-Net: Monocular Video-Based Motion Capture with Deep Learning Techniques&lt;/em>, &lt;strong>Mansour Tchenegnon&lt;/strong>, Thibaut le Naour et Sylvie Gibet, équipe Expression IRISA et Motion Up.&lt;/li>
+&lt;li>&lt;em>Présentation de la nouvelle équipe VirtUS&lt;/em>, &lt;strong>Ludovic Hoyet&lt;/strong> et al., équipe Virtus IRISA.&lt;/li>
+&lt;li>&lt;em>Detailed Eye Region Capture and Animation&lt;/em>, &lt;strong>Glenn Kerbiriou&lt;/strong>, Maud Marchal et Quentin Avril, équipe Rainbow IRISA et InterDigital.&lt;/li>
+&lt;li>&lt;em>Water and Generalized Kelvinlets&lt;/em>, &lt;strong>Mathieu Desbrun&lt;/strong> et al., INRIA.&lt;/li>
+&lt;/ul>
+&lt;p>15h30 - 15h45 : Pause café hall ENSIBS&lt;/p>
+&lt;p>15h45 - 17h : Présentations - session 2&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>Multiresolution Framework for the Animation and Cutting of Complex or Highly Detailed Objects&lt;/em>, &lt;strong>Quentin Wendling&lt;/strong> et David Cazier, équipe IGG ICUBE.&lt;/li>
+&lt;li>&lt;em>A Low-Cost Motion Capture Corpus in French Sign Language for Interpreting Iconicity and Spatial Referencing Mechanisms&lt;/em>, &lt;strong>Clémence Mertz&lt;/strong>, Vincent Barreaud, Damien Lolive et Sylvie Gibet, équipe Expression IRISA.&lt;/li>
+&lt;li>&lt;em>Présentation de l’équipe SAARA, avec focus sur les expressions dans les mouvements et gestes, reconnaissance et synthèse&lt;/em>, &lt;strong>Alexandre Meyer&lt;/strong> et al., équipe Saara LIRIS.&lt;/li>
+&lt;/ul>
+&lt;p>17h : Moment artistique et social event offert par le GDR / CNRS&lt;/p>
+&lt;h3 id="mercredi-6-juillet-2022">Mercredi 6 juillet 2022&lt;/h3>
+&lt;p>9h : Accueil, hall du batiment ENSIBS&lt;/p>
+&lt;p>9h25 - 10h25 : Keynote Christian Theobalt (MaxPlanck Institut)&lt;/p>
+&lt;p>&lt;em>Title:&lt;/em> Capturing the Real World in Motion: New ways to unite graphics, vision and machine learning
+Abstract: In this presentation, I will talk about some of the recent work we did on new methods for reconstructing computer graphics models of real world scenes from sparse or even monocular video data. These methods are based on bringing together neural network-based and explicit model-based approaches. I will also talk about new neural rendering approaches that combine explicit model-based and neural network based concepts for image formation in new ways. They enable new means to synthesize highly realistic imagery and videos of real work scenes under user control.&lt;/p>
+&lt;p>10h30 - 10h45 : Pause café hall ENSIBS&lt;/p>
+&lt;p>10h45 - 12h : Présentations - session 3 - focus IA&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>Interactive loop modeling for nonverbal behavior animation&lt;/em>, &lt;strong>Jieyeon Woo&lt;/strong>, Catherine Pelachaud et Catherine Achard, Sorbonne Université / ISIR.&lt;/li>
+&lt;li>&lt;em>UnderPressure: Deep Learning for Foot Contact Detection, Ground Reaction Force Prediction and Footskate Cleanup&lt;/em>, &lt;strong>Lucas Mourot&lt;/strong>, Ludovic Hoyet, François Le Clerc et Pierre Hellier, équipe Virtus IRISA et InterDigital.&lt;/li>
+&lt;li>&lt;em>Zero-Shot Multimodal Style Transfer for Text and Speech Driven Gesture Animation&lt;/em>, &lt;strong>Mireille Fares&lt;/strong>, &lt;strong>Michele Grimaldi&lt;/strong>, Catherine Pelachaud et Nicolas Obin, Sorbonne Université / ISIR.&lt;/li>
+&lt;/ul>
+&lt;p>12h - 12h30 : Discussions &amp;ldquo;IA et Animation&amp;rdquo;&lt;/p>
+&lt;p>12h30 - 13h40 : Repas offert par l&amp;rsquo;Université Bretagne Sud, batiment DSEG&lt;/p>
+&lt;p>13h40 - 14h : Retour d&amp;rsquo;expérience Projets Européens, &lt;strong>Maud Marchal&lt;/strong>, équipe Rainbow IRISA.&lt;/p>
+&lt;p>14h - 15h : Discussions &amp;ldquo;Enseignement de l&amp;rsquo;AS et avec l&amp;rsquo;AS&amp;rdquo;&lt;/p>
+&lt;p>15h - 15h15 Pause café hall ENSIBS&lt;/p>
+&lt;p>15h15 - 16h : Présentations - session 4&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>Motion In Style : Analysis of Mocap Data&lt;/em>, &lt;strong>Victor Haguet&lt;/strong>, &lt;strong>Caroline Larboulette&lt;/strong> et Laura Pouppeville, équipe Expression IRISA, Université Bretagne Sud et artiste indépendante.&lt;/li>
+&lt;li>&lt;em>3D Human Shape Style Transfer&lt;/em>, &lt;strong>Joao Regateiro&lt;/strong> et al., équipe MiMetic IRISA.&lt;/li>
+&lt;li>&lt;em>Vers un outil topo-géométrique modulaire pour la mise en forme visuelle de simulations physiques masses-interactions et l’animation de transformations topologiques&lt;/em>, Jérémy Riffet, Annie Luciani, &lt;strong>Nicolas Castagné&lt;/strong>, Université Grenoble Alpes|Grenoble INP et ACROE.&lt;/li>
+&lt;/ul>
+&lt;p>16h - 17h : Discussions &amp;ldquo;Prospectives&amp;rdquo;&lt;/p>
+&lt;p>17h : Fin des journées&lt;/p></description></item></channel></rss>

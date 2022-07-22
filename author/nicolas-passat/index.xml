@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nicolas Passat | GdR IG-RV</title><link>https://gdr-igrv.fr/author/nicolas-passat/</link><atom:link href="https://gdr-igrv.fr/author/nicolas-passat/index.xml" rel="self" type="application/rss+xml"/><description>Nicolas Passat</description><generator>Wowchemy (https://wowchemy.com)</generator><language>fr-fr</language><image><url>https://gdr-igrv.fr/author/nicolas-passat/avatar_huc3a6a99338121f91304fae3fc8dc9b8b_772607_270x270_fill_lanczos_center_3.png</url><title>Nicolas Passat</title><link>https://gdr-igrv.fr/author/nicolas-passat/</link></image><item><title>Journées Informatique et Géométrie 2022</title><link>https://gdr-igrv.fr/event/jig2022/</link><pubDate>Tue, 15 Mar 2022 09:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/event/jig2022/</guid><description/></item><item><title>Groupe de travail "Géométrie discrète &amp; morphologie mathématique" (GT-GDMM)</title><link>https://gdr-igrv.fr/gts/gt-gdmm/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/gts/gt-gdmm/</guid><description>&lt;img src="segmentation_regularisation.png" height="300">
+&lt;ul>
+&lt;li>&lt;strong>Site&lt;/strong> : &lt;a href="http://gt-gdmm.u-bordeaux.fr" target="_blank" rel="noopener">http://gt-gdmm.u-bordeaux.fr&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Responsables&lt;/strong> : Isabelle Sivignon (GIPSA-Lab, Grenoble) et Nicolas Passat (CReSTIC, Reims)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : Géométrie discrète, morphologie mathématique, topologies discrète et digitale, imagerie discrète, graphes.&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Description&lt;/strong> : Par définition, le barycentre du GT GDMM est
+constitué par la Morphologie mathématique et de la Géométrie
+discrète, deux domaines dans lesquels la recherche française tient
+historiquement une place prépondérante. Néanmoins, les champs
+d’investigation du GT GDMM se sont largement ouverts au cours des
+dernières années, et la géométrie discrète comme la morphologie
+mathématique se développent désormais fortement à leurs interfaces,
+et notamment en lien avec les domaines suivants :&lt;/p>
+&lt;ul>
+&lt;li>Traitement de la géométrie ou Geometry processing, géométrie algorithmique, analyse numérique pour la géométrie digitale ;&lt;/li>
+&lt;li>Optimisation discrète, théorie des graphes, traitement du signal, machine learning pour la morphologie mathématique.&lt;/li>
+&lt;/ul>
+&lt;p>Ainsi, en sus des travaux intrinsèquement liés au GT GDMM, ces
+développements permettent d’établir des ponts avec plusieurs autres
+grands domaines relevant du GdR IGRV. On peut souligner par exemple des
+liens avec des problématiques de rendu (e.g. le développement
+d’opérateurs différentiels robustes pour l’application de textures sur
+des données discrètes) ; de la modélisation géométrique (e.g. modéli-
+sation par croquis via une forme digitale, modélisation de formes
+digitales par union de convexes) ; ou encore de la visualisation
+(e.g. visualisation de données de grandes dimensions par l’utilisation
+de modèles hiérarchiques de structures combinatoires).&lt;/p>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
