@@ -1,11 +1,15 @@
 ---
-title: "Informatique Graphique et Information Géographique. Comment mieux comprendre, grâce aux données, les territoires et leur évolution"
-date: 2022-05-10
+title: Zoom sur... Les collaborations du GDR IG-RV avec le GDR MAGIS et MADICS autour des sciences de l’information géographique
+subtitle: "Informatique Graphique et Information Géographique. Comment mieux comprendre, grâce aux données, les territoires et leur évolution"
+date: 2022-08-25
+categories: Zoom sur
 authors: 
     - Gilles Gesquière
 image:
   caption: "Image from [Labex IMU](https://imu.universite-lyon.fr/)"
 ---
+
+*[**Gilles Gesquière**](https://liris.cnrs.fr/page-membre/gilles-gesquiere) présente les activités transverses entre les GDR IG-RV et les GDR MAGIS et MADICS autour des sciences de l’information géographique qu'il coordonne :*
 
 Je suis membre du Laboratoire LIRIS, UMR 5205. Je fais partie de la communauté informatique graphique, où j’ai travaillé en modélisation géométrique (surfaces implicites, déformations de maillages, reconstruction par ingénierie inverse, …). Depuis 2008, mes recherches sont plus axées vers les représentations et la dynamique de la ville. On y retrouve un besoin très fort en informatique graphique, en particulier avec une présence toujours plus importante de données 3D (polygones, mais aussi nuages de points) représentant l’intérieur, ou l’extérieur de bâtiments, voire des territoires plus vastes sur des milliers de km2. Nos recherches amènent à aller au-delà de l’informatique graphique. C’est en ce sens que le projet que je dirige depuis 2013 ([Projet Vcity](https://projet.liris.cnrs.fr/vcity/)) est constitué de spécialistes en informatique graphique, mais aussi en sciences de données, deux expertises fortes au laboratoire LIRIS. Un lien très fort est mis en place avec des entreprises et collectivités.
 Cette recherche, au service des territoires, mêle informatique graphique avec les sciences de l’information géographique et peut donc se retrouver à l’interface entre plusieurs GDR. Le GDR IG-RV y apporte ses compétences en modélisation géométrique, mais aussi rendu, visualisation et réalité virtuelle et/ ou augmentée. Le GDR Magis apporte ses compétences en informatique (en particulier sciences des données), mais aussi géographie afin de permettre une meilleure compréhension des données, mais aussi des possibles usages. Il est aussi facile de faire des liens avec les GDR MADICS ou le GDR ISIS sur l’observation de la terre, l’acquisition des données grâce à des capteurs toujours plus performants, et la reconstruction 3D. C’est d’ailleurs en ce sens que nous organisons des évènements conjoints (voir par exemple la [journée d’étude entre GDR MAGIS, MADICS et IG-RV en novembre 2021](https://github.com/VCityTeam/MAGIS-AP3D/blob/master/Media/JourneeObservation3D.md). Nous organisons aussi depuis deux ans un webinaire sur la 3D et le géospatial ; il a lieu tous les premiers jeudi de chaque mois de 12h30 à 13h30. Il s’agit de profiter de ces moments pour renforcer encore les liens entre les GDR, en particulier en croisant les expertises (voir [ici](https://github.com/VCityTeam/MAGIS-AP3D/blob/master/Media/README.md)). 
