@@ -4,8 +4,8 @@ date: 2021-06-21
 ---
 
 **Direction du GdR**
-* {{% mention "david-coeurjolly" %}} (CNRS, LIRIS), directeur
-* {{% mention "maud-marchal" %}} (IRISA, INSA Rennes), directrice adjointe
+* {{% mention "david-coeurjolly" %}} (CNRS, LIRIS), responsable scientifique
+* {{% mention "maud-marchal" %}} (IRISA, INSA Rennes), responsable scientifique adjointe
 
 
 

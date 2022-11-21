@@ -28,3 +28,7 @@ subtitle:
 design:
   columns: '1'
 ---
+
+**Direction du GdR**
+
+{{% mention "david-coeurjolly" %}} (CNRS, LIRIS), responsable scientifique, {{% mention "maud-marchal" %}} (IRISA, INSA Rennes), responsable scientifique adjointe : direction@gdr-igrv.fr
