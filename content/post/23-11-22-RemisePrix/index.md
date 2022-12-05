@@ -13,6 +13,6 @@ Le prix a été remis par les organisateurs du Prix de thèse  {{% mention "loic
 
 ![](20221123_172723.jpg)
 ![](20221123_172743.jpg)
+![](20221123_174320.jpg)
 ![](20221123_173620.jpg)
 ![](20221123_173654.jpg)
-![](20221123_174320.jpg)
