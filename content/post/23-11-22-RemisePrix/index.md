@@ -11,6 +11,8 @@ authors:
 
 Le prix a été remis par les organisateurs du Prix de thèse  {{% mention "loic-barthe" %}} (Univ Toulouse) et {{% mention "guillaume-cordonnier" %}} (INRIA CRISAM),  ainsi que les présidents de l'AFIG, **Basile Sauvage** et du Chapitre Français d'Eurographics (EGFR), **Eric Guérin**.
 
+
+*(photos Adrien Peytavie)*
 ![](20221123_172723.jpg)
 ![](20221123_172743.jpg)
 ![](20221123_174320.jpg)
