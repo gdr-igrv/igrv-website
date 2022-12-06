@@ -10,12 +10,12 @@ role: "Co-responsable GT GDMM"
 
 # Organizations/Affiliations
 organizations:
-- name: CReSTIC, Université de Reims 
+- name: CReSTIC, Université de Reims
   url: "https://crestic.univ-reims.fr/"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
-
+draft: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:

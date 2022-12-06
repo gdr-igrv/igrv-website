@@ -10,10 +10,12 @@ role: "Co-responsable GT GDMM"
 
 # Organizations/Affiliations
 organizations:
-- name:  ESIEE Paris
-  url: "https://www.esiee.fr/"
 - name: LIGM
   url: "https://siteigm.univ-mlv.fr/"
+- name:  ESIEE Paris
+  url: "https://www.esiee.fr/"
+- name:  Université Gustave Eiffel
+  url: "https://www.univ-gustave-eiffel.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
