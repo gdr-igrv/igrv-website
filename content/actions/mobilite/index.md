@@ -33,8 +33,7 @@ Une décision très rapide devrait arriver dans la foulée pour la mise en place
 
 ### En 2022 :
 
-  * Nouvelle collaboration  LIB-IMAG
-  *
+ * Brève sur ce sujet à venir.
 
 ### En 2020 :
   * Nouvelle collaboration entre IRIT, ICube (IGG) et XLIM (IG), faisant suite à la journée thématique inter-GT GTAS/GTMG 2019 du GDR IG-RV Gestion de la Topologie en Animation, Simulation et Réalité Virtuelle et le GTMG2020, et concernant la mise en œuvre d'un algorithme de génération de maillage volumique à partir de squelette et en particulier un maillage quad autour d’une sphère pour les embranchements.
