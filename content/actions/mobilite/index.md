@@ -14,15 +14,27 @@ collaborations, ou se former auprès d'autres équipes, ces mobilités
 sont d'une grande utilité en tant que levier, avec un format court et
 léger de candidature et de financement.
 
-
+{{% callout note %}}
 ## Demander le soutien du GdR pour une mobilité
 
-[Les modalités de l'appel 2022.](http://gdr-igrv.fr/post/30-06-22-mobilite/)
+Le GdR a mis en place deux appels avec pour date limite de dépot des dossiers le **15 mars** et le **15 septembre**.
 
+La date du 15 mars serait pour une mission de d'avril à septembre (inclus), celle de septembre pour une mobilité d'octobre à mars (inclus) de l'année suivante.
 
+Le dossier pour postuler doit comprendre :
+  - une lettre de justification de la personne qui part (+ une lettre de son encadrant pour les doctorants)
+  - une lettre de justification de l''équipe / personne qui accueille
+  - un budget prévisionnel
 
+Une décision très rapide devrait arriver dans la foulée pour la mise en place de la mission. Le dossier est à envoyer à {{% mention "maud-marchal" %}} et {{% mention "david-coeurjolly" %}}
+{{% /callout  %}}
 
 ## Mobilités passées
+
+### En 2022 :
+
+  * Nouvelle collaboration  LIB-IMAG
+  *
 
 ### En 2020 :
   * Nouvelle collaboration entre IRIT, ICube (IGG) et XLIM (IG), faisant suite à la journée thématique inter-GT GTAS/GTMG 2019 du GDR IG-RV Gestion de la Topologie en Animation, Simulation et Réalité Virtuelle et le GTMG2020, et concernant la mise en œuvre d'un algorithme de génération de maillage volumique à partir de squelette et en particulier un maillage quad autour d’une sphère pour les embranchements.
