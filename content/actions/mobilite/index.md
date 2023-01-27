@@ -11,7 +11,7 @@ date: 2021-06-21
 Le GdR met en place des actions de mobilités internes à destination des doctorants et
 jeunes chercheuses.eurs. Que ce soit pour initier des
 collaborations, ou se former auprès d'autres équipes, ces mobilités
-sont d'une grande utilité en tant que levier, avec un format court et
+sont d'une grande utilité en tant que levier pour des collaborations de recherche nouvelles, avec un format court et
 léger de candidature et de financement.
 
 {{% callout note %}}
