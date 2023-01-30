@@ -19,7 +19,7 @@ léger de candidature et de financement.
 
 Le GdR a mis en place deux appels avec pour date limite de dépot des dossiers le **15 mars** et le **15 septembre**.
 
-La date du 15 mars serait pour une mission de d'avril à septembre (inclus), celle de septembre pour une mobilité d'octobre à mars (inclus) de l'année suivante.
+La date du 15 mars serait pour une mission d'avril à septembre (inclus), celle de septembre pour une mobilité d'octobre à mars (inclus) de l'année suivante.
 
 Le dossier pour postuler doit comprendre :
   - une lettre de justification de la personne qui part (+ une lettre de son encadrant pour les doctorants)
