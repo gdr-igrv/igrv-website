@@ -24,7 +24,7 @@ La date du 15 mars serait pour une mission de d'avril à septembre (inclus), cel
 Le dossier pour postuler doit comprendre :
   - une lettre de justification de la personne qui part (+ une lettre de son encadrant pour les doctorants)
   - une lettre de justification de l'équipe / personne qui accueille
-  - un budget prévisionnel (1000 euros maximum, prévoir au plus juste pour pouvoir financer un maximum de collaborations)
+  - un budget prévisionnel (1000 euros maximum, prévoir au plus juste pour nous puissions financer un maximum de collaborations)
 
 Une décision très rapide devrait arriver dans la foulée pour la mise en place de la mission. Le dossier est à envoyer à direction@gdr-igrv.fr ({{% mention "maud-marchal" %}}, {{% mention "david-coeurjolly" %}})
 {{% /callout  %}}
