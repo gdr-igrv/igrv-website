@@ -5,7 +5,7 @@ date: 2021-06-21
 
 Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contacter pour toute demande d'ajout ou de modification.
 
-<iframe width="100%" height="800px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-labos-gdr-igrv_789189?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=expanded&onLoadPanel=undefined&captionBar=true"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/carte-labos-gdr-igrv_789189">Voir en plein écran</a></p>
+<iframe width="100%" height="800px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-des-laboratoires-du-gdr-ig-rv_878255?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/carte-des-laboratoires-du-gdr-ig-rv_878255">Voir en plein écran</a></p>
 
 ## Ile de France
 
@@ -174,7 +174,8 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 ## Normandie
 
 {{<tables "table table-striped table-bordered">}}
-| Laboratoire                              | Equipes                  | Etablissements                                                                                             | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
-| ---------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
-| GREYC UMR 6072                           | IMAGE                    | Université de Caen, ENSICAEN, CNRS                                                                         | X    |      |      | X       |        | X    |
+| Laboratoire    | Equipes                         | Etablissements                     | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
+| -------------- | ------------------------------- | ---------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
+| GREYC UMR 6072 | IMAGE                           | Université de Caen, ENSICAEN, CNRS | X    |      |      | X       |        | X    |
+| CESI LINEACT   | Ingénierie et Outils Numériques | HESAM Université                   |      |      |      |         |        | X    |
 {{</tables>}}
