@@ -177,5 +177,5 @@ Laboratoires associés au GdR (bilan/projet 2021). N'hésitez pas à nous contac
 | Laboratoire    | Equipes                         | Etablissements                     | GDMM | GTMG | GTAS | GTRendu | GTVisu | GTRV |
 | -------------- | ------------------------------- | ---------------------------------- | ---- | ---- | ---- | ------- | ------ | ---- |
 | GREYC UMR 6072 | IMAGE                           | Université de Caen, ENSICAEN, CNRS | X    |      |      | X       |        | X    |
-| CESI LINEACT   | Ingénierie et Outils Numériques | HESAM Université                   |      |      |      |         |        | X    |
+| CESI LINEACT   | Ingénierie et Outils Numériques | CESI                               |      |      |      |         |        | X    |
 {{</tables>}}
