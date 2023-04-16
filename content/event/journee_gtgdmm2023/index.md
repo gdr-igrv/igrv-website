@@ -8,8 +8,7 @@ event_url: https://gdmm2023.sciencesconf.org
 location: "Caen (France)"
 
 summary: "Journées du GT GDMM"
-abstract: "
-La journée du Groupe de Travail de Géométrie Discrète et Morphologie Mathématique des groupements de recherche IM et IGRV est l'occasion pour les enseignants-chercheurs, chercheurs, doctorants de se rencontrer, d'échanger sur les travaux les plus récents, d'initier de nouvelles collaborations sur tous les thèmes de la géométrie discrète et de la morphologie mathématique. La précédente journée du GT-GDMM a eu lieu au LABRI à Bordeaux en 2022. L'édition 2023 est organisée par l'équipe Image du laboratoire GREYC à Caen.
+abstract: "La journée du Groupe de Travail de Géométrie Discrète et Morphologie Mathématique des groupements de recherche IM et IGRV est l'occasion pour les enseignants-chercheurs, chercheurs, doctorants de se rencontrer, d'échanger sur les travaux les plus récents, d'initier de nouvelles collaborations sur tous les thèmes de la géométrie discrète et de la morphologie mathématique. La précédente journée du GT-GDMM a eu lieu au LABRI à Bordeaux en 2022. L'édition 2023 est organisée par l'équipe Image du laboratoire GREYC à Caen.
 "
 
 # Talk start and end times.
