@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Journées du GT GDMM"
+title: "Journées du GT GDMM 2023"
 
 event: JGTGDMM2023
 event_url: https://gdmm2023.sciencesconf.org
