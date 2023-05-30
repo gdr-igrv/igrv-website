@@ -104,7 +104,10 @@ main:
     url: actions/prix-these
     weight: 5
 
-
   - name: Club  industriel
     url: club-industriel
     weight: 80
+
+  - name: Documents
+    url: documents
+    weight: 81
