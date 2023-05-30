@@ -1,7 +1,12 @@
 ---
 title: "Projets Européens IG-RV"
 date: 2022-07-19
+authors: ["Maud Marchal"]
+
 ---
+
+{{% mention "maud-marchal" %}}, 09-07-2022.
+
 
 {{<tables "table table-striped table-bordered">}}
 | Appel                                                                                                                                                                                                                          | Titre                                                                                                                                                                    | RIA/IA | Total Budget | Budget/ projet | TRL        | Nbre de      Projets   financés | DDL        |
