@@ -12,7 +12,7 @@ abstract: "Journée du groupe de travail Réalités Virtuelles du GdR."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-05-31T12:00:00Z"
+date: "2023-05-31T14:00:00Z"
 date_end: "2023-06-01T12:00:00Z"
 all_day: false
 
@@ -54,7 +54,7 @@ projects:
 
 # Programme
 
-## Mercredi 30 mai
+## Mercredi 31 mai
 ### 14h Accueil
 
 ### 14h10 Session “Sensorielle”
