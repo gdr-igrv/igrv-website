@@ -17,8 +17,8 @@ abstract: "La prochaine journée du Groupe de Travail Rendu du GDR IGRV aura lie
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-05-12T09:00:00Z"
-date_end: "2023-05-12T16:00:00Z"
+date: "2023-06-23T09:00:00Z"
+date_end: "2023-06-23T16:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -55,37 +55,37 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-Bonjour à toutes et à tous,
+Bonjour à tous, 
 
-La prochaine journée du Groupe de Travail Rendu du GDR IGRV aura lieu dans les locaux d'Adobe le 12 mai 2023.
+La date du GT rendu sera finalement le 23 juin dans les locaux d'Adobe à Paris.
 
-Venez faire vivre ces journées en contribuant ou simplement pour rencontrer et discuter avec la communauté graphique française !
-Les thèmes abordés peuvent être variés pour aggrémenter les discussions et avoir un aperçu des activités françaises dans le domaine du rendu :
- - travaux actuels, aboutis ou non, publiés ou non
- - tours d'horizons sur des thèmes/approches/outils émergents
- - travaux d'une équipe de recherche sur les dernières années
- - etc.
+Je vous remets toutes les informations nécessaires ci-dessous.  
+Encore désolé pour le report. On espère vous voir nombreux et nombreuses. 
 
-** INSCRIPTIONS **
-Pour assister aux présentations, merci d'ajouter votre prénom/nom/organisme dans ce framapad :
+George & Romain 
+
+La liste des participants sera transmise à Adobe 3 jours avant le début du GT et une pièce d'identité vous sera demandée à l'entrée. 
+
+Venez faire vivre ces journées en contribuant ou simplement pour rencontrer et discuter avec la communauté graphique française ! 
+Les thèmes abordés peuvent être variés pour aggrémenter les discussions et avoir un aperçu des activités françaises dans le domaine du rendu : 
+ - travaux actuels, aboutis ou non, publiés ou non 
+ - tours d'horizons sur des thèmes/approches/outils émergents 
+ - travaux d'une équipe de recherche sur les dernières années 
+ - etc. 
+
+** INSCRIPTIONS ** 
+Pour assister aux présentations, merci d'ajouter votre prénom/nom/organisme dans ce framapad : 
 https://mypads2.framapad.org/p/gt-rendu-xyvob9ol
+La liste des participants sera transmise à Adobe 3 jours avant le début du GT et une pièce d'identité vous sera demandée à l'entrée. 
 
-La liste des participants sera transmise à Adobe 3 jours avant le début du GT et une pièce d'identité vous sera demandée à l'entrée.
 
-
-** CONTRIBUTIONS **
-Pour présenter, envoyez un email à George et moi même contenant [GT Rendu] dans le sujet, avec les informations suivantes :
+** CONTRIBUTIONS ** 
+Pour présenter, envoyez un email à George et moi même contenant [GT Rendu] dans le sujet, avec les informations suivantes : 
 - Prénom, nom, organisme de l'orateur
 - Titre de la présentation
-- Eventuellement un lien vers une page web s'il s'agit d'un travail déjà publié/diffusé.
+- Eventuellement un lien vers une page web s'il s'agit d'un travail déjà publié/diffusé. 
 
 
-** ADRESSE **
+** ADRESSE ** 
 Adobe, 94-96 Rue Lauriston, 75016 Paris
 Salle « Moulin Rouge », au Rez-de-Chaussée, accessible depuis l’atrium
-
-
-Retrouvez les présentations des années précédentes sur le blog du GT : http://gtrendu.blogspot.com/
-
-A très bientôt et en espérant vous voir nombreux pour cette occasion,
-George Drettakis & Romain Vergne
