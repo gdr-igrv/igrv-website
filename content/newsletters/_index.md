@@ -4,6 +4,7 @@ date: 2022-07-20
 ---
 
 ## 2023
+- [Juin 2023](06-2023/newsletter_juin_2023.html)
 - [Mai 2023](05-2023/newsletter_mai_2023.html)
 - [Avril 2023](04-2023/newsletter_avril_2023.html)
 
