@@ -49,6 +49,12 @@ Il a donné une présentation abordant les thèmes des effets rebond, de l'effic
 
 {{< figure src="session_laurent.jpg">}}
 
+Frédéric Lefèvre est un chercheur permanent en informatique à Inria. Il travaille au sein de l'équipe AVALON (Algorithmes et Architectures Logicielles pour les Plates-formes Orientées Service) d'Inria et du Laboratoire LIP à l'École Normale Supérieure de Lyon.
+
+Ses domaines de recherche comprennent l'informatique distribuée et les réseaux, l'informatique et les réseaux écoénergétiques, le Green IT, la durabilité en informatique, les réseaux définis par logiciel, les réseaux autonomes, les protocoles et services de réseaux à haute performance, les réseaux actifs et programmables, les réseaux tolérants aux perturbations, le calcul en grappes, les systèmes de mémoire partagée distribuée et la cohérence des données, ainsi que la tolérance aux pannes.
+
+Il a présenté l'impact du numérique, de son usage et son cycle de vie sur l'environnement, ainsi que des perspectives pour prendre en compte ces enjeux. 
+
 [Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/moQLs38tcoZkXca)
 
 {{< figure src="laurentL.jpg" caption="Laurent Lefevre (INRIA, LIP)">}}
@@ -61,11 +67,17 @@ Il a donné une présentation abordant les thèmes des effets rebond, de l'effic
 
 {{< figure src="session_lijie.jpg">}}
 
+Lije Yao prépare actuellement un doctorat à Inria dans l'équipe Aviz (Analyse et visualisation) et l'Université Paris-Saclay. Ses principaux sujets de recherche comprennent la visualisation de l'information et l'analyse visuelle, avec un accent sur la visualisation en mouvement. 
+
+Elle a présenté ses recherches sur la visualisation située et en temps réel des informations liées aux compétitions de natations. 
+
 {{< figure src="LijieYao.jpg" caption="Lije Yao (INRIA Saclay)">}}
 
 ## Franck Multon
 
 {{< figure src="session_franck.jpg">}}
+
+Franck Multon est directeur de recherche à Inria et reponsable de l'équipe MimeTIC (Analysis-Synthesis Approach for Virtual Human Simulation). Depuis septembre 2018, il s'occupe d'une mission nationale de coordination des actions du centre dans le domaine du numérique pour le sport, en lien avec les JOP Paris 2024. 
 
 {{< figure src="franckM.jpg" caption="Franck Multon (Univ Rennes, INRIA) : https://perso.univ-rennes2.fr/franck.multon">}}
 
@@ -126,5 +138,7 @@ Il a donné une présentation abordant les thèmes des effets rebond, de l'effic
 ## Tamy Boubekeur
 
 {{< figure src="session_tamy.jpg">}}
+
+[Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/7aB479He5s66bwF)
 
 {{< figure src="tamyB.jpg" caption="Tamy Boubekeur (Adobe Research) https://research.adobe.com/person/tamy-boubekeur/">}}
