@@ -121,6 +121,10 @@ En tant que studio, Theoriz offre des services variés. Ils connectent les marqu
 
 {{< figure src="session_pascal.jpg">}}
 
+ Pascal Guitton est professeur émérite à l’université de Bordeaux. Ses domaines de recherche sont la réalité virtuelle et l'interaction notamment dans les systèmes numériques d'enseignement. 
+
+ Cette présentation aborde divers questionnements relatifs aux métavers, en mettant en évidence leur origine dans des avancées scientifiques, technologiques et culturelles antérieures, ainsi que les implications spécifiques liées à la réalité virtuelle, aux réseaux sociaux, aux jeux vidéo et les blockchains. Elle soulève des préoccupations telles que la protection des données personnelles, les vols et détournements, les potentielles addictions et manipulations, les problèmes de harcèlement, ainsi que les impacts environnementaux. En conclusion, il est recommandé de ne pas être passif face aux métavers, mais d'engager des réflexions, des recherches et des développements appliqués accompagnés de questionnements éthiques, et de considérer la régulation de leur mise en ligne tout en réfléchissant à leur utilité réelle.
+
 [Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/LwokJ2QoG3kAQgx)
 
 {{< figure src="pascalG.jpg" caption="Pascal Guitton (Université de Bordeaux)">}}
@@ -131,11 +135,31 @@ En tant que studio, Theoriz offre des services variés. Ils connectent les marqu
 
 [Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/Ri8YZJrTHjmmRxN)
 
+L'exposition croissante des Français à la réalité virtuelle (RV) et à la réalité augmentée (RA) suscite des préoccupations quant à son impact sur la santé. Selon une enquête commandée par l'ANSES et réalisée par OpinionWay en 2019, au moins un quart des adultes français et un tiers des enfants ont été exposés à la RV ou à la RA, principalement à des fins de divertissement, jeux vidéo et formation professionnelle. Les adultes, plutôt jeunes (âge moyen de 40 ans), hommes, appartenant à des catégories socio-professionnelles élevées et vivant dans de grandes villes, utilisent principalement les smartphones pour ces expériences, tandis que les enfants préfèrent les consoles de jeu. Cependant, il existe peu de données fiables sur les effets sanitaires de ces technologies.
+
+Le rapport de l'ANSES identifie différents effets étudiés ou insuffisamment documentés liés à l'exposition à la RV/RA. Ces effets comprennent des problèmes physiques tels que les troubles musculo-squelettiques, les accidents, les effets liés à l'hygiène des interfaces et au niveau sonore, ainsi que des effets neurologiques tels que les crises d'épilepsie. Les effets psychologiques et psychosociaux comprennent des modifications de la représentation de soi, des risques émotionnels, la dépendance à l'interface et au contenu, ainsi que des problèmes sociaux tels que l'isolement. Les effets sur le développement touchent la vision, les émotions, la cognition et le système auditif.
+
+Certains effets, tels que la cybercinétose (mal des simulateurs), la décoordination sensori-motrice et les effets liés à la lumière bleue, sont suffisamment documentés, tandis que d'autres sont encore peu étudiés. Certaines populations sont considérées comme plus sensibles, comme les personnes atteintes de troubles oculaires, d'épilepsie, de troubles du sommeil, de troubles vestibulaires ou de migraines.
+
+Les recommandations de l'ANSES incluent des mesures telles que l'arrêt de l'exposition en cas de symptômes, des périodes de repos après l'exposition, l'évitement de l'exposition avant le coucher et la déconseillation de l'utilisation de ces technologies pour les personnes épileptiques. Il est également recommandé d'informer clairement les utilisateurs sur les effets sanitaires, d'adapter les usages et les expositions, et de développer la recherche et le suivi des effets peu étudiés à moyen/long terme.
+
+En conclusion, l'utilisation croissante de la RV/RA présente à la fois des opportunités de recherche et développement, ainsi que des contraintes pour la conception. Une approche centrée sur les utilisateurs et une réflexion approfondie sur les aspects éthiques sont nécessaires. Il est important de prendre en compte les effets sur soi, sur les autres et à l'échelle sociétale, tout en envisageant des dispositions légales pour encadrer l'utilisation de ces technologies.
+
 {{< figure src="jeanMarieB.png" caption="Jean-Marie Burkhardt (Université Gustave Eiffel) : https://www.ifsttar.fr/menu-haut/annuaire/fiche-personnelle/personne/burkhardt-jean-marie/">}}
 
 ## Rémi Ronfard
 
-[Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/moQLs38tcoZkXca)
+Le concept du Métavers désigne un service en ligne qui offre aux utilisateurs l'accès à des simulations d'espaces 3D en temps réel, partagés et persistants, leur permettant de vivre des expériences immersives. Il existe plusieurs types de Métavers, chacun présentant des caractéristiques spécifiques. Certains ne nécessitent pas l'utilisation d'un casque de réalité virtuelle et ne font pas appel à la technologie de la blockchain, tels que Second Life, Fortnite et Roblox. D'autres, tels que Meta Horizon, VRChat, Mozilla Hubs, Wanderland et Mira, sont accessibles via des casques de réalité virtuelle, mais ne font pas appel à la blockchain. Il existe également des Métavers qui intègrent la blockchain, comme Decentraland et The Sandbox, et ceux qui combinent à la fois l'utilisation d'un casque de réalité virtuelle et la technologie de la blockchain, tels que Spatial et Somnium Space.
+
+Pour élaborer une stratégie métaversique, il est essentiel de prendre en compte plusieurs aspects. Tout d'abord, il faut se pencher sur les questions de société brûlantes liées au Métavers, telles que l'acceptabilité sociale, les enjeux de santé publique et les préoccupations environnementales. Ensuite, il convient de considérer les enjeux et les opportunités culturelles que le Métavers peut offrir. Cela inclut la promotion de nouveaux médias immersifs et créatifs, la protection de la souveraineté culturelle et la valorisation du patrimoine à travers des collaborations entre les acteurs technologiques français/européens et les institutions culturelles.
+
+En outre, il est essentiel de surmonter les freins structurels pour permettre l'émergence d'un Métavers fonctionnel et inclusif. Cela implique de mettre en place une infrastructure solide, de négocier des standards techniques, de favoriser l'interopérabilité entre les différents Métavers et de développer des formations de qualité pour la création de contenus en 3D. Parallèlement, il est important de soutenir l'innovation économique liée au Métavers en analysant la chaîne de valeur, en investissant dans les acteurs clés et en instaurant un climat de confiance pour les entrepreneurs et les investisseurs.
+
+Enfin, l'adaptation des cadres de régulation constitue un enjeu majeur. Au-delà des réglementations existantes telles que le RGPD (Règlement Général sur la Protection des Données), le DSA (Digital Services Act) et le DMA (Digital Markets Act), il est nécessaire d'orchestrer une régulation spécifique au Métavers. Cela comprend la gestion responsable de la collecte massive de données, la protection des identités numériques en tant qu'enjeu de souveraineté et la mise en place d'outils d'enquête et de procédures appropriés.
+
+En somme, le développement et la mise en œuvre d'une stratégie métaversique cohérente nécessitent de prendre en compte les aspects sociétaux, culturels, structurels, économiques et réglementaires. Cela permettra de tirer pleinement parti du potentiel du Métavers tout en garantissant un environnement éthique, sécurisé et durable pour les utilisateurs et les acteurs impliqués.
+
+[Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/gebETiEAAFnCREN)
 
 {{< figure src="remiR.jpg" caption="Rémi Ronfard (INRIA) : https://team.inria.fr/anima/remi-ronfard/">}}
 
@@ -145,12 +169,21 @@ En tant que studio, Theoriz offre des services variés. Ils connectent les marqu
 
 {{< figure src="session_george.jpg">}}
 
+La présentation intitulée "The Future of Rendering" par George Drettakis offre une perspective personnelle et biaisée sur l'évolution du rendu graphique. L'orateur affirme d'emblée que les déclarations selon lesquelles le rendu est mort sont fausses et que le domaine est toujours en pleine expansion.
+
+Elle remonte dans le temps pour retracer l'histoire du rendu graphique, en mettant en évidence les problèmes ouverts et les avancées majeures. Parmi ces avancées, on peut citer le rendu basé sur la physique (PBR) et le lancer de rayons, qui sont devenus des normes dans l'industrie. Les améliorations matérielles, telles que l'avènement des GPU, ont permis le rendu en temps réel, ouvrant de nouvelles possibilités pour les jeux vidéo.
+George Drettakis souligne également l'importance de l'inverse rendering, qui consiste à capturer une scène réelle pour créer un modèle 3D précis. L'utilisation de techniques d'imagerie et de reconstruction de l'image a ouvert de nouvelles perspectives en matière de rendu.
+
+La présentation aborde également les récentes avancées dans le domaine du rendu neuronal, notamment les Neural Radiance Fields (NeRF) et les modèles génératifs. Ces approches offrent de nouvelles possibilités de rendu en exploitant les réseaux neuronaux pour générer des images réalistes et manipuler les données de rendu de manière innovante. 
+
+Enfin, plusieures opportunités sont identifiées pour l'avenir du rendu, telles que le développement de rendus physiquement basés pour les méthodes neuronales, l'optimisation du rendu de Radiance Fields, l'utilisation de représentations neuronales pour des aspects difficiles du rendu traditionnel, et l'exploitation du rendu pour la génération de données et la manipulation interactive de la géométrie.
+
+[Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/7aB479He5s66bwF)
+
 {{< figure src="georgeG.jpg" caption="George Drettakis (INRIA, Sophia-Antipolis)  : http://www-sop.inria.fr/members/George.Drettakis/">}}
 
 ## Tamy Boubekeur
 
 {{< figure src="session_tamy.jpg">}}
-
-[Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/7aB479He5s66bwF)
 
 {{< figure src="tamyB.jpg" caption="Tamy Boubekeur (Adobe Research) https://research.adobe.com/person/tamy-boubekeur/">}}
