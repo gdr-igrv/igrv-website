@@ -85,6 +85,14 @@ Franck Multon est directeur de recherche à Inria et reponsable de l'équipe Mim
 
 {{< figure src="session_motionUp.jpg">}}
 
+MotionUp est une entreprise spécialisée dans les services informatiques, axée sur la capture de mouvement et la production de solutions numériques. Forte de son expertise en capture de mouvement 3D, elle propose des services de capture de mouvement précis et efficaces, permettant la numérisation des mouvements avec une précision exceptionnelle et une grande rapidité. Avec plus de 15 ans d'expérience, elle accompagne ses clients tout au long du processus, de la planification initiale à la livraison finale. Ses services sont utilisés dans différents domaines, notamment la production audiovisuelle et l'analyse du mouvement à des fins de recherche.
+
+En plus de la capture de mouvement, MotionUp propose des solutions numériques personnalisées. Elle se charge de la conception, du développement et de l'hébergement, et sa forte orientation vers la recherche et le développement lui permet de tester scientifiquement des outils auprès des utilisateurs. Ses solutions sont réactives, collaboratives et évolutives, répondant ainsi aux besoins spécifiques de chaque projet.
+
+MotionUp est spécialisée dans la démonstration et l'apprentissage des gestes. Elle utilise la technologie 3D-INTERACTIVE pour accélérer l'apprentissage ou maintenir la maîtrise de différents gestes. Grâce à son expertise interdisciplinaire en science des données, sciences expérimentales et pédagogie, elle contribue efficacement à la transmission des connaissances sur les gestes.
+
+MotionUp a acquis une solide réputation et la confiance de clients renommés, notamment des établissements d'enseignement tels que l'UCO et l'Université Bretagne Sud, ainsi que des organisations telles qu'Emergys, IRISA, VIPE, la Fédération Française de sauvetage et secourisme et Cowork hit Kerpape.
+
 {{< figure src="thibautLN.png" caption="Thibaut Le Naour : http://motion-up.com/perso/tlenaour/">}}
 
 {{< figure src="motionUp.png" caption="Startup Motion-Up : https://www.motion-up.com/">}}
@@ -94,6 +102,10 @@ Franck Multon est directeur de recherche à Inria et reponsable de l'équipe Mim
 ## Benoit Arbelot (Théoriz) : 
 
 {{< figure src="session_theoriz.jpg">}}
+
+Theoriz est un studio de création artistique et technologique spécialisé dans la conception d'installations immersives et de spectacles audiovisuels innovants. Composé d'une équipe d'ingénieurs, d'artistes et de développeurs créatifs, Theoriz combine recherche artistique et scientifique pour créer de nouvelles expériences uniques. Du mélange entre le réel, le virtuel et la poésie, leurs installations artistiques sont exposées à travers le monde et ils acceptent les commandes spéciales.
+
+En tant que studio, Theoriz offre des services variés. Ils connectent les marques à leurs clients grâce à des technologies interactives, apportent leur expertise et leurs outils aux projets culturels, créent des animations personnalisées pour des événements et conçoivent des installations immersives pour les musées. Ils explorent également les frontières entre les arts et les sciences pour découvrir comment les nouvelles technologies peuvent susciter de nouvelles émotions.
 
 [Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/ge6pPSAnXaffxHP)
 
