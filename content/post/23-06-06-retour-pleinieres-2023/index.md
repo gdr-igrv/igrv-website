@@ -15,11 +15,10 @@ authors:
 
 {{< figure src="session_IA.jpg">}}
 
-Alexandre Meyer est professeur assistant (HDR) au département d'informatique de l'Université Lyon 1 depuis 2004. Il mène ses recherches dans le groupe SAARA du laboratoire LIRIS. Il a obtenu son doctorat en informatique à l'Université Grenoble 1 en 2001, préparé dans l'équipe iMAGIS/EVASION-INRIA et 6 mois dans le laboratoire LIGUM (Université de Montréal). De 2002 à 2003, il a été chercheur postdoctoral à l'University College London dans le Virtual Environments and Computer Graphics group. 
-
+Alexandre Meyer est Maître de conférences (HDR) au département d'informatique de l'Université Lyon 1 depuis 2004. Il mène ses recherches dans le groupe SAARA du laboratoire LIRIS. 
 Ses travaux de recherche se situent à l'interface entre l'infographie et la vision par ordinateur. Dans le domaine de la vision par ordinateur, ses travaux se concentrent sur la reconnaissance des expressions des visages et des mouvements du corps, en établissant souvent un lien avec l'animation ou la perception. Du côté de l'infographie, ses travaux vont de l'animation procédurale (zéro données) à l'animation basée sur l'apprentissage, avec un intérêt particulier pour l'édition ou la création de style dans les animations. 
 
-Il a présenté a donné une présentation sur l'utilisation de l'intelligence artificielle (IA) dans l'animation. Il a discuté des progrès réalisés grâce à l'apprentissage profond et a exploré différentes méthodes utilisées dans ce domaine. Différents types de réseaux de neurones ont été abordés, tels que les réseaux de convolution et les autoencodeurs. Des techniques d'amélioration de la qualité des animations ont été discutées, ainsi que l'utilisation des espaces latents pour la représentation des poses. Des exemples d'applications de l'IA dans l'animation ont été donnés, comme la génération d'avatars 3D à partir de textes. La présentation a souligné les avancées réalisées et les défis à relever dans ce domaine.
+Il a donné une présentation sur l'utilisation de l'intelligence artificielle (IA) dans l'animation. Sa présentation a discuté des progrès réalisés grâce à l'apprentissage profond et a exploré différentes méthodes utilisées dans ce domaine. Différents types de réseaux de neurones ont été abordés, tels que les réseaux de convolution et les autoencodeurs. Des techniques d'amélioration de la qualité des animations ont été discutées, ainsi que l'utilisation des espaces latents pour la représentation des poses. Des exemples d'applications de l'IA dans l'animation ont été donnés, comme la génération d'avatars 3D à partir de textes. Enfin, la présentation a souligné les avancées réalisées et les défis à relever dans ce domaine.
 
 [Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/zMg3GMtd4Tawx4M)
 
@@ -33,13 +32,10 @@ Il a présenté a donné une présentation sur l'utilisation de l'intelligence a
 {{< figure src="session_peter.jpg">}}
 
 
-Peter Sturm est adjoint au directeur scientifique, en charge du domaine "Perception, cognition, interaction" depuis le 9 avril 2015.
-Il a fait des études à l’université de Karlsruhe et a obtenu un doctorat en 1997 et une habilitation à diriger des recherches en 2006, les deux de Grenoble INP. De 1997 à 1999 il a effectué un postdoc à l’université de Reading et est devenu chercheur chez Inria en 1999.
-Peter Sturm a été coprésident des comités de programme d’ICCV 2011 et de RFIA 2012 , Area Chair pour les conférences majeures en vision par ordinateur et éditeur associé de plusieurs revues. 
-Il était directeur du Département Géométrie et Images du laboratoire Jean Kuntzmann et président de la Commission emplois scientifiques d’Inria Grenoble Rhône-Alpes et du groupe de travail Actions incitatives d’Inria.
+Peter Sturm est adjoint au directeur scientifique, en charge du domaine "Perception, cognition, interaction" à Inria depuis le 9 avril 2015. Il mène ses recherches dans l'équipe STEEP  à Inria Grenoble Rhône-Alpes.
 Ses sujets de recherche, centrés sur la vision par ordinateur, concernent surtout le calibrage de caméras, la reconstruction 3D et l’estimation de mouvement, que ce soit pour des caméras perspectives ou omnidirectionnelles. Depuis 2011, Peter contribue aux travaux de l'institut sur le développement durable et, plus particulièrement, sur des modèles intégrés d’usage des sols et de transport.
 
-Il a donné une présentation abordant les thèmes des effets rebond, de l'efficience, de la sobriété et de la résilience. 
+Il a donné une présentation abordant les thèmes des effets rebond, de l'efficience, de la sobriété et de la résilience. Au dela de la définition des ces notions, Peter a aussi sensibilisé l'audience à l'importance de se poser les bonnes questions (autour des impacts environnementaux mais pas seulement), de bien nommer les choses et d'avoir conscience des possibles impacts des technologies developpées dans les laboratoires.
 
 [Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/35LnbdSbEjPasoa)
 
@@ -49,15 +45,15 @@ Il a donné une présentation abordant les thèmes des effets rebond, de l'effic
 
 {{< figure src="session_laurent.jpg">}}
 
-Frédéric Lefèvre est un chercheur permanent en informatique à Inria. Il travaille au sein de l'équipe AVALON (Algorithmes et Architectures Logicielles pour les Plates-formes Orientées Service) d'Inria et du Laboratoire LIP à l'École Normale Supérieure de Lyon.
-
+Laurent Lefèvre est un chercheur permanent en informatique à Inria. Il travaille au sein de l'équipe AVALON (Algorithmes et Architectures Logicielles pour les Plates-formes Orientées Service) d'Inria et du Laboratoire LIP à l'École Normale Supérieure de Lyon.
 Ses domaines de recherche comprennent l'informatique distribuée et les réseaux, l'informatique et les réseaux écoénergétiques, le Green IT, la durabilité en informatique, les réseaux définis par logiciel, les réseaux autonomes, les protocoles et services de réseaux à haute performance, les réseaux actifs et programmables, les réseaux tolérants aux perturbations, le calcul en grappes, les systèmes de mémoire partagée distribuée et la cohérence des données, ainsi que la tolérance aux pannes.
 
-Il a présenté l'impact du numérique, de son usage et son cycle de vie sur l'environnement, ainsi que des perspectives pour prendre en compte ces enjeux. 
+Il a présenté l'impact du numérique, à la fois de son usage (consommation d'énergie) mais aussi de son cycle de vie (extraction des ressources et recyclage), sur l'environnement, dans un monde où les usages du numériques sont de plus en plus nombreux. 
+Il a ensuite présenté quelques pistes pour prendre en compte ces enjeux. 
 
 [Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/moQLs38tcoZkXca)
 
-{{< figure src="laurentL.jpg" caption="Laurent Lefevre (INRIA, LIP)">}}
+{{< figure src="laurentL.jpg" caption="Laurent Lefevre (INRIA, LIP) : https://perso.ens-lyon.fr/laurent.lefevre/">}}
 
 # Session "IG-RV et JO 2024"
 
@@ -79,19 +75,18 @@ Elle a présenté ses recherches sur la visualisation située et en temps réel 
 
 Franck Multon est directeur de recherche à Inria et reponsable de l'équipe MimeTIC (Analysis-Synthesis Approach for Virtual Human Simulation). Depuis septembre 2018, il s'occupe d'une mission nationale de coordination des actions du centre dans le domaine du numérique pour le sport, en lien avec les JOP Paris 2024. 
 
+Il a présenté plusieurs travaux autour de l'utilisation du numérique et de la réalité virtuelle pour l'entrainement des sportifs de haut niveau (autour du rugby ou du football notamment).
+
 {{< figure src="franckM.jpg" caption="Franck Multon (Univ Rennes, INRIA) : https://perso.univ-rennes2.fr/franck.multon">}}
 
 ## Thibaut Le Naour (Startup Motion-Up)
 
 {{< figure src="session_motionUp.jpg">}}
 
-MotionUp est une entreprise spécialisée dans les services informatiques, axée sur la capture de mouvement et la production de solutions numériques. Forte de son expertise en capture de mouvement 3D, elle propose des services de capture de mouvement précis et efficaces, permettant la numérisation des mouvements avec une précision exceptionnelle et une grande rapidité. Avec plus de 15 ans d'expérience, elle accompagne ses clients tout au long du processus, de la planification initiale à la livraison finale. Ses services sont utilisés dans différents domaines, notamment la production audiovisuelle et l'analyse du mouvement à des fins de recherche.
+MotionUp est une entreprise spécialisée dans les services informatiques, axée sur la capture de mouvement et la production de solutions numériques. Elle propose des services de capture de mouvement précis et efficaces, permettant la numérisation des mouvements avec une grande précision et rapidité. En plus de la capture de mouvement, MotionUp propose des solutions numériques personnalisées, de la conception à l'hebergement. 
 
-En plus de la capture de mouvement, MotionUp propose des solutions numériques personnalisées. Elle se charge de la conception, du développement et de l'hébergement, et sa forte orientation vers la recherche et le développement lui permet de tester scientifiquement des outils auprès des utilisateurs. Ses solutions sont réactives, collaboratives et évolutives, répondant ainsi aux besoins spécifiques de chaque projet.
+Thibat Le Naour, le fondateur de Motion-Up a discuté des différentes technologies de motion capture et a présenté plusieurs cas d'usage des technologies de motion capture pour l'apprentissage des gestes.
 
-MotionUp est spécialisée dans la démonstration et l'apprentissage des gestes. Elle utilise la technologie 3D-INTERACTIVE pour accélérer l'apprentissage ou maintenir la maîtrise de différents gestes. Grâce à son expertise interdisciplinaire en science des données, sciences expérimentales et pédagogie, elle contribue efficacement à la transmission des connaissances sur les gestes.
-
-MotionUp a acquis une solide réputation et la confiance de clients renommés, notamment des établissements d'enseignement tels que l'UCO et l'Université Bretagne Sud, ainsi que des organisations telles qu'Emergys, IRISA, VIPE, la Fédération Française de sauvetage et secourisme et Cowork hit Kerpape.
 
 {{< figure src="thibautLN.png" caption="Thibaut Le Naour : http://motion-up.com/perso/tlenaour/">}}
 
@@ -103,9 +98,9 @@ MotionUp a acquis une solide réputation et la confiance de clients renommés, n
 
 {{< figure src="session_theoriz.jpg">}}
 
-Theoriz est un studio de création artistique et technologique spécialisé dans la conception d'installations immersives et de spectacles audiovisuels innovants. Composé d'une équipe d'ingénieurs, d'artistes et de développeurs créatifs, Theoriz combine recherche artistique et scientifique pour créer de nouvelles expériences uniques. Du mélange entre le réel, le virtuel et la poésie, leurs installations artistiques sont exposées à travers le monde et ils acceptent les commandes spéciales.
+Theoriz est un studio de création artistique et technologique spécialisé dans la conception d'installations immersives et de spectacles audiovisuels innovants. Composé d'une équipe d'ingénieurs, d'artistes et de développeurs créatifs, Theoriz combine recherche artistique et scientifique pour créer de nouvelles expériences uniques. Du mélange entre le réel, le virtuel et la poésie, leurs installations artistiques sont exposées à travers le monde.
 
-En tant que studio, Theoriz offre des services variés. Ils connectent les marques à leurs clients grâce à des technologies interactives, apportent leur expertise et leurs outils aux projets culturels, créent des animations personnalisées pour des événements et conçoivent des installations immersives pour les musées. Ils explorent également les frontières entre les arts et les sciences pour découvrir comment les nouvelles technologies peuvent susciter de nouvelles émotions.
+Benoît Arbelot, ingénieur à Theoriz, a présenté différents projets menés par le studio et les technologies developpées pour ces projets.
 
 [Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/ge6pPSAnXaffxHP)
 
@@ -121,9 +116,9 @@ En tant que studio, Theoriz offre des services variés. Ils connectent les marqu
 
 {{< figure src="session_pascal.jpg">}}
 
- Pascal Guitton est professeur émérite à l’université de Bordeaux. Ses domaines de recherche sont la réalité virtuelle et l'interaction notamment dans les systèmes numériques d'enseignement. 
+ Pascal Guitton est professeur émérite à l’université de Bordeaux. Ses domaines de recherche sont la réalité virtuelle et l'interaction, notamment dans les systèmes numériques d'enseignement. 
 
- Cette présentation aborde divers questionnements relatifs aux métavers, en mettant en évidence leur origine dans des avancées scientifiques, technologiques et culturelles antérieures, ainsi que les implications spécifiques liées à la réalité virtuelle, aux réseaux sociaux, aux jeux vidéo et les blockchains. Elle soulève des préoccupations telles que la protection des données personnelles, les vols et détournements, les potentielles addictions et manipulations, les problèmes de harcèlement, ainsi que les impacts environnementaux. En conclusion, il est recommandé de ne pas être passif face aux métavers, mais d'engager des réflexions, des recherches et des développements appliqués accompagnés de questionnements éthiques, et de considérer la régulation de leur mise en ligne tout en réfléchissant à leur utilité réelle.
+ Cette présentation a abordé divers questionnements relatifs aux métavers, en mettant en évidence leur origine dans des avancées scientifiques, technologiques et culturelles antérieures, ainsi que les implications spécifiques liées à la réalité virtuelle, aux réseaux sociaux, aux jeux vidéo et les blockchains. Elle a soulevé des préoccupations telles que la protection des données personnelles, les vols et détournements, les potentielles addictions et manipulations, les problèmes de harcèlement, ainsi que les impacts environnementaux. En conclusion, la présentation a recommandé de ne pas être passif face aux métavers, mais d'engager des réflexions, des recherches et des développements appliqués accompagnés de questionnements éthiques, et de considérer la régulation de leur mise en ligne tout en réfléchissant à leur utilité réelle.
 
 [Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/LwokJ2QoG3kAQgx)
 
@@ -133,7 +128,9 @@ En tant que studio, Theoriz offre des services variés. Ils connectent les marqu
 
 {{< figure src="session_jmb.jpg">}}
 
-[Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/Ri8YZJrTHjmmRxN)
+Jean-Marie Burkhardt est directeur de recherche à l'Univ. Gustave Eiffel au laboratoire de psychologie et d'ergonomie appliquées (LaPEA). Il développe des recherches en ergonomie et psychologie sur deux axes : d'une part des études sur les activités, les facteurs de risques et la prévention d'accidents dans le domaine des mobilités et, d'autre part, sur la conception-centrée utilité des technologies émergentes telles que la réalité virtuelle, augmentée et mixte.
+
+Il a présenté la méthodologie ainsi qu'un résumé du rapport de l'ANSES sur l'exposition aux technologies de réalité virtuelle et/ou augmentée.
 
 L'exposition croissante des Français à la réalité virtuelle (RV) et à la réalité augmentée (RA) suscite des préoccupations quant à son impact sur la santé. Selon une enquête commandée par l'ANSES et réalisée par OpinionWay en 2019, au moins un quart des adultes français et un tiers des enfants ont été exposés à la RV ou à la RA, principalement à des fins de divertissement, jeux vidéo et formation professionnelle. Les adultes, plutôt jeunes (âge moyen de 40 ans), hommes, appartenant à des catégories socio-professionnelles élevées et vivant dans de grandes villes, utilisent principalement les smartphones pour ces expériences, tandis que les enfants préfèrent les consoles de jeu. Cependant, il existe peu de données fiables sur les effets sanitaires de ces technologies.
 
@@ -145,9 +142,16 @@ Les recommandations de l'ANSES incluent des mesures telles que l'arrêt de l'exp
 
 En conclusion, l'utilisation croissante de la RV/RA présente à la fois des opportunités de recherche et développement, ainsi que des contraintes pour la conception. Une approche centrée sur les utilisateurs et une réflexion approfondie sur les aspects éthiques sont nécessaires. Il est important de prendre en compte les effets sur soi, sur les autres et à l'échelle sociétale, tout en envisageant des dispositions légales pour encadrer l'utilisation de ces technologies.
 
+[Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/Ri8YZJrTHjmmRxN)
+
 {{< figure src="jeanMarieB.png" caption="Jean-Marie Burkhardt (Université Gustave Eiffel) : https://www.ifsttar.fr/menu-haut/annuaire/fiche-personnelle/personne/burkhardt-jean-marie/">}}
 
 ## Rémi Ronfard
+
+Rémi Ronfard est directeur de recherche à Inria, et dirige l'équipe Anima d'Inria Grenoble Rhone Alpes. Sa recherche porte sur les modèles informatiques de la narration visuelle et de la réalisation de films, et plus précisement sur le développement d'outils informatiques pour la réalisation de films d'animation et de jeux interactifs, utilisant des décors virtuels, des acteurs, des caméras et des lumières.
+
+Il a présenté les résultats d'une mission exploratoire sur les métavers, en définissant tout d'abord les différents types de metavers puis les principaux axes de reflexion autour d'une stratégie metaversique, des questions de socitété soulevées par le metavers aux besoins de régulation.
+
 
 Le concept du Métavers désigne un service en ligne qui offre aux utilisateurs l'accès à des simulations d'espaces 3D en temps réel, partagés et persistants, leur permettant de vivre des expériences immersives. Il existe plusieurs types de Métavers, chacun présentant des caractéristiques spécifiques. Certains ne nécessitent pas l'utilisation d'un casque de réalité virtuelle et ne font pas appel à la technologie de la blockchain, tels que Second Life, Fortnite et Roblox. D'autres, tels que Meta Horizon, VRChat, Mozilla Hubs, Wanderland et Mira, sont accessibles via des casques de réalité virtuelle, mais ne font pas appel à la blockchain. Il existe également des Métavers qui intègrent la blockchain, comme Decentraland et The Sandbox, et ceux qui combinent à la fois l'utilisation d'un casque de réalité virtuelle et la technologie de la blockchain, tels que Spatial et Somnium Space.
 
@@ -169,6 +173,8 @@ En somme, le développement et la mise en œuvre d'une stratégie métaversique 
 
 {{< figure src="session_george.jpg">}}
 
+George Drettakis est Directeur de recherche à Inria et dirige l'équipe GraphDeco d'Inria Sophia Antipolis Mediterranée. Ses recherches portent sur le rendu et les textures à base d'images, l'illumination interactive, les ombres, le rééclairage et le rendu interactif en général.
+
 La présentation intitulée "The Future of Rendering" par George Drettakis offre une perspective personnelle et biaisée sur l'évolution du rendu graphique. L'orateur affirme d'emblée que les déclarations selon lesquelles le rendu est mort sont fausses et que le domaine est toujours en pleine expansion.
 
 Elle remonte dans le temps pour retracer l'histoire du rendu graphique, en mettant en évidence les problèmes ouverts et les avancées majeures. Parmi ces avancées, on peut citer le rendu basé sur la physique (PBR) et le lancer de rayons, qui sont devenus des normes dans l'industrie. Les améliorations matérielles, telles que l'avènement des GPU, ont permis le rendu en temps réel, ouvrant de nouvelles possibilités pour les jeux vidéo.
@@ -185,5 +191,9 @@ Enfin, plusieures opportunités sont identifiées pour l'avenir du rendu, telles
 ## Tamy Boubekeur
 
 {{< figure src="session_tamy.jpg">}}
+
+Tamy Boubekeur est actuellement directeur de laboratoire et chercheur chez Adobe Research, ainsi que professeur au département d'informatique de l'Ecole Polytechnique, Institut Polytechnique de Paris. Ses domaines de recherche personnels se concentrent sur l'infographie 3D, avec un intérêt particulier pour la modélisation, le rendu et l'apprentissage efficace des données 3D.
+
+Il a présenté différents projets autour d'outils d'édition et de création de contenu 3D (textures, géométrie...), en insistant sur l'aspect multi-scalaire de ces différentes solutions.
 
 {{< figure src="tamyB.jpg" caption="Tamy Boubekeur (Adobe Research) https://research.adobe.com/person/tamy-boubekeur/">}}
