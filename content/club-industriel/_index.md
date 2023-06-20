@@ -31,10 +31,14 @@ En bref, le partenaire aura la possibilité de :
 
 # Comment adhérer au club ?
 
-L’adhésion est possible tout au long de l’année en contactant la direction du GdR et en remplissant [le bulletin d'adhésion](https://gdr-igrv.icube.unistra.fr/img_auth_namespace.php/c/ca/Bulletin_d%27adhésion_au_GdR_IG-RV_2021.pdf) le bulletin d'adhésion. En fonction de la taille et du type de l’entreprise, le montant de la cotisation annuelle au club des partenaires ne se mesure pas de la même façon. Deux types d’adhésions sont possibles :
-* Adhésion au nom de l’entreprise, pour une année ou pour trois années consécutives. Tous les membres de l’entreprise sont adhérents au club des partenaires. Le montant de la cotisation annuelle varie entre 300 € HT et 2 000 € HT en fonction du nombre d’employés de l’entreprise selon la répartition suivante :
-  * Micro (Entre 1 et 9 employés et/ou bilan annuel <= 2 M€) = 300 € HT
-  * Small (entre 10 et 49 ; <= 10 M€) = 700 € HT
-  * Medium (entre 50 et 249 ; <= 50 M€) = 1500 € HT
-  * Large (250 et plus) = 2000 € HT
+L’adhésion est possible tout au long de l’année en contactant la direction du GdR et en remplissant {{% staticref "uploads/conventionGdRIG-RV.pdf" "newtab" %}}le modèle de convention avec la Fondation du CNRS{{% /staticref %}}. 
+**Le conventionnement via la Fondation du CNRS permet aux entreprises d'obtenir une attestation fiscale de mécénat pouvant donner lieu à une défiscalisation.**
+
+
+En fonction de la taille et du type de l’entreprise, le montant de la cotisation annuelle au club des partenaires ne se mesure pas de la même façon. Deux types d’adhésions sont possibles :
+* Adhésion au nom de l’entreprise, pour une année ou pour trois années consécutives. Tous les membres de l’entreprise sont adhérents au club des partenaires. Le montant de la cotisation annuelle varie entre 300 € HT et 2 500 € HT en fonction du nombre d’employés de l’entreprise selon la répartition suivante :
+  * Micro (entre 1 et 9 employés et/ou bilan annuel <= 2 M€) = 500 € HT
+  * Small (entre 10 et 49 ; <= 10 M€) = 1000 € HT
+  * Medium (entre 50 et 249 ; <= 50 M€) = 1700 € HT
+  * Large (250 et plus) = 2500 € HT
 * Adhésion à titre individuel, dont la cotisation annuelle est fixée à 300 € HT. Dans ce cas, si plusieurs employés d’une même entreprise veulent adhérer au club des partenaires, ils doivent chacun verser leur cotisation individuelle.
