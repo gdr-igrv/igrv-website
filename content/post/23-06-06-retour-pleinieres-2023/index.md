@@ -20,7 +20,8 @@ Ses travaux de recherche se situent à l'interface entre l'infographie et la vis
 
 Il a donné une présentation sur l'utilisation de l'intelligence artificielle (IA) dans l'animation. Sa présentation a discuté des progrès réalisés grâce à l'apprentissage profond et a exploré différentes méthodes utilisées dans ce domaine. Différents types de réseaux de neurones ont été abordés, tels que les réseaux de convolution et les autoencodeurs. Des techniques d'amélioration de la qualité des animations ont été discutées, ainsi que l'utilisation des espaces latents pour la représentation des poses. Des exemples d'applications de l'IA dans l'animation ont été donnés, comme la génération d'avatars 3D à partir de textes. Enfin, la présentation a souligné les avancées réalisées et les défis à relever dans ce domaine.
 
-[Accéder à la présentation](https://partage.liris.cnrs.fr/index.php/s/zMg3GMtd4Tawx4M)
+{{% staticref “uploads/2023_GDR_AMeyer.pdf”   %}}Accéder à la présentation{{% /staticref %}}
+
 
 {{< figure src="alexM.png" caption="Alexandre Meyer (Université Lyon1, LIRIS) :  https://perso.liris.cnrs.fr/ameyer/public_html/www/">}}
 
