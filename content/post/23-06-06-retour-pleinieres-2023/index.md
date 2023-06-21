@@ -20,7 +20,7 @@ Ses travaux de recherche se situent à l'interface entre l'infographie et la vis
 
 Il a donné une présentation sur l'utilisation de l'intelligence artificielle (IA) dans l'animation. Sa présentation a discuté des progrès réalisés grâce à l'apprentissage profond et a exploré différentes méthodes utilisées dans ce domaine. Différents types de réseaux de neurones ont été abordés, tels que les réseaux de convolution et les autoencodeurs. Des techniques d'amélioration de la qualité des animations ont été discutées, ainsi que l'utilisation des espaces latents pour la représentation des poses. Des exemples d'applications de l'IA dans l'animation ont été donnés, comme la génération d'avatars 3D à partir de textes. Enfin, la présentation a souligné les avancées réalisées et les défis à relever dans ce domaine.
 
-{{% staticref “uploads/2023_GDR_AMeyer.pdf”   %}}Accéder à la présentation{{% /staticref %}}
+{{% staticref "uploads/2023_GDR_AMeyer.pdf"   %}}Accéder à la présentation{{% /staticref %}}
 
 
 {{< figure src="alexM.png" caption="Alexandre Meyer (Université Lyon1, LIRIS) :  https://perso.liris.cnrs.fr/ameyer/public_html/www/">}}
@@ -38,7 +38,7 @@ Ses sujets de recherche, centrés sur la vision par ordinateur, concernent surto
 
 Il a donné une présentation abordant les thèmes des effets rebond, de l'efficience, de la sobriété et de la résilience. Au dela de la définition des ces notions, Peter a aussi sensibilisé l'audience à l'importance de se poser les bonnes questions (autour des impacts environnementaux mais pas seulement), de bien nommer les choses et d'avoir conscience des possibles impacts des technologies developpées dans les laboratoires.
 
-{{% staticref “uploads/2023_05_30_GdR_IV_RV_Peter_Sturm.pdf”   %}}Accéder à la présentation{{% /staticref %}}
+{{% staticref "uploads/2023_05_30_GdR_IV_RV_Peter_Sturm.pdf"   %}}Accéder à la présentation{{% /staticref %}}
 
 {{< figure src="peterS.png" caption="Peter Sturm (INRIA Grenoble, LJK) : https://steep.inria.fr/membres-de-lequipe/peter-sturm/">}}
 
@@ -52,7 +52,7 @@ Ses domaines de recherche comprennent l'informatique distribuée et les réseaux
 Il a présenté l'impact du numérique, à la fois de son usage (consommation d'énergie) mais aussi de son cycle de vie (extraction des ressources et recyclage), sur l'environnement, dans un monde où les usages du numériques sont de plus en plus nombreux. 
 Il a ensuite présenté quelques pistes pour prendre en compte ces enjeux. 
 
-{{% staticref “uploads/GDR-IG-RV_2023_Laurent_Lefevre_diffuse.pdf”   %}}Accéder à la présentation{{% /staticref %}}
+{{% staticref "uploads/GDR-IG-RV_2023_Laurent_Lefevre_diffuse.pdf"   %}}Accéder à la présentation{{% /staticref %}}
 
 {{< figure src="laurentL.jpg" caption="Laurent Lefevre (INRIA, LIP) : https://perso.ens-lyon.fr/laurent.lefevre/">}}
 
@@ -103,7 +103,7 @@ Theoriz est un studio de création artistique et technologique spécialisé dans
 
 Benoît Arbelot, ingénieur à Theoriz, a présenté différents projets menés par le studio et les technologies developpées pour ces projets.
 
-{{% staticref “uploads/Presentation THEORIZ IG-RV 2023-05-30.pdf”   %}}Accéder à la présentation{{% /staticref %}}
+{{% staticref "uploads/Presentation THEORIZ IG-RV 2023-05-30.pdf"   %}}Accéder à la présentation{{% /staticref %}}
 
 
 {{< figure src="benoitA.jpg" caption="Benoit Arbelot">}}
@@ -123,7 +123,7 @@ Benoît Arbelot, ingénieur à Theoriz, a présenté différents projets menés 
  Cette présentation a abordé divers questionnements relatifs aux métavers, en mettant en évidence leur origine dans des avancées scientifiques, technologiques et culturelles antérieures, ainsi que les implications spécifiques liées à la réalité virtuelle, aux réseaux sociaux, aux jeux vidéo et les blockchains. Elle a soulevé des préoccupations telles que la protection des données personnelles, les vols et détournements, les potentielles addictions et manipulations, les problèmes de harcèlement, ainsi que les impacts environnementaux. En conclusion, la présentation a recommandé de ne pas être passif face aux métavers, mais d'engager des réflexions, des recherches et des développements appliqués accompagnés de questionnements éthiques, et de considérer la régulation de leur mise en ligne tout en réfléchissant à leur utilité réelle.
 
 
-{{% staticref “uploads/2023 Métavers GDR IGRV.pdf”   %}}Accéder à la présentation{{% /staticref %}}
+{{% staticref "uploads/2023 Métavers GDR IGRV.pdf" %}}Accéder à la présentation{{% /staticref %}}
 
 {{< figure src="pascalG.jpg" caption="Pascal Guitton (Université de Bordeaux)">}}
 
@@ -135,7 +135,7 @@ Jean-Marie Burkhardt est directeur de recherche à l'Univ. Gustave Eiffel au lab
 
 Il a présenté la méthodologie ainsi qu'un résumé du rapport de l'ANSES sur l'exposition aux technologies de réalité virtuelle et/ou augmentée.
 
-{{% staticref “uploads/BurkhardtVR&ARHealthEffectsGDRIGRV2023.pdf”   %}}Accéder à la présentation{{% /staticref %}}
+{{% staticref "uploads/BurkhardtVR&ARHealthEffectsGDRIGRV2023.pdf"   %}}Accéder à la présentation{{% /staticref %}}
 
 
 {{< figure src="jeanMarieB.png" caption="Jean-Marie Burkhardt (Université Gustave Eiffel) : https://www.ifsttar.fr/menu-haut/annuaire/fiche-personnelle/personne/burkhardt-jean-marie/">}}
@@ -146,7 +146,7 @@ Rémi Ronfard est directeur de recherche à Inria, et dirige l'équipe Anima d'I
 
 Il a présenté les résultats d'une mission exploratoire sur les métavers, en définissant tout d'abord les différents types de metavers puis les principaux axes de reflexion autour d'une stratégie metaversique, des questions de socitété soulevées par le metavers aux besoins de régulation.
 
-{{% staticref “uploads/Metavers - Mai 2023_Rémi Ronfard.pdf”   %}}Accéder à la présentation{{% /staticref %}}
+{{% staticref "uploads/Metavers - Mai 2023_Rémi Ronfard.pdf"   %}}Accéder à la présentation{{% /staticref %}}
 
 {{< figure src="remiR.jpg" caption="Rémi Ronfard (INRIA) : https://team.inria.fr/anima/remi-ronfard/">}}
 
@@ -160,7 +160,7 @@ George Drettakis est Directeur de recherche à Inria et dirige l'équipe GraphDe
 
 Il a présenté une perspective personnelle de l'évolution du rendu graphique, remontant dans le temps pour retracer l'histoire du rendu graphique, en mettant en évidence les problèmes ouverts et les avancées majeures, et abordant également les récentes avancées dans le domaine du rendu neuronal, ainsi que les opportunités identifiées pour l'avenir du rendu.
 
-{{% staticref “uploads/The Future of RenderingNoVideos.pdf”   %}}Accéder à la présentation (pdf sans vidéo){{% /staticref %}}
+{{% staticref "uploads/The Future of RenderingNoVideos.pdf"   %}}Accéder à la présentation (pdf sans vidéo){{% /staticref %}}
 
 {{< figure src="georgeG.jpg" caption="George Drettakis (INRIA, Sophia-Antipolis)  : http://www-sop.inria.fr/members/George.Drettakis/">}}
 
