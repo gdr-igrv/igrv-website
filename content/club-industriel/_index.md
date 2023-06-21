@@ -11,7 +11,7 @@ Un club des partenaires industriels selon un modèle ouvert complète l’ensemb
 **Contacts**:  {{% mention "guillaume-moreau" %}} (IMT Atlantique), {{% mention "dmitry-sokolov" %}} (Univ Lorraine) 
 
 # Membres du Club industriel
-{{< figure src="img/Logo-hapticmedia.png" width="50%">}}{{< figure src="img/Logo-berger-levrault.png" width="50%">}}
+[{{< figure src="img/Logo-hapticmedia.png" width="50%">}}](https://hapticmedia.com/) [{{< figure src="img/Logo-berger-levrault.png" width="50%">}}](https://www.berger-levrault.com/fr/)
 
 # Pourquoi rejoindre le club des partenaires du GdR IG-RV ?
 
