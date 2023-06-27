@@ -1,7 +1,13 @@
 ---
-title: Listes de diffusion
+title: Inscription / Listes de diffusion
 date: 2021-06-21
 ---
+
+L'inscription au GdR se fait via la création d'un compte sur la plateforme [myGdR](https://mygdr.hosted.lip6.fr) et un rattachement à un de ses GTs.
+
+{{< figure src="myGdR.png">}}
+
+
 
 Le GdR met en place plusieurs listes de diffusion pour la communication. Pour vous inscrire sur une liste de diffusion
 d'un ou plusieurs groupes de travail, et ainsi rejoindre la liste commune `gdr-igrv@groupes.renater.fr` (construite par concaténation des différentes listes), la procédure consiste à vous
@@ -11,10 +17,8 @@ authentifier sur groupes.renater.fr et ensuite à vous abonner aux listes par GT
   - [GT-Rendu]({{< relref "gts/gt-rendu" >}}) : https://groupes.renater.fr/sympa/info/igrv-gt-rendu
   - [GT-RV]({{< relref "gts/gt-rv" >}}) : https://groupes.renater.fr/sympa/info/igrv-gt-rv
   - [GT-Visu]({{< relref "gts/gt-visu" >}}) : https://groupes.renater.fr/sympa/info/igrv-gt-visu
-  - Pour les [GT-MG]({{< relref "gts/gt-mg" >}}) et [GT-GDMM]({{< relref "gts/gt-gdmm" >}}), nous vous demandons de contacter directement les responsables de ces GTs.
+  - Pour les [GT-MG]({{< relref "gts/gt-mg" >}}) et [GT-GDMM]({{< relref "gts/gt-gdmm" >}}), l'inscription sur les listes est automatique depuis myGdR.
 
 Pour vérifier votre inscription sur les listes renater : [**mes listes**](https://groupes.renater.fr/sympa/my).
 
 
-
-> Les anciennes listes (gdr-igrv@unistra.fr, visu@inria.fr...) seront progressivement désactivées.
