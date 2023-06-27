@@ -137,6 +137,7 @@ Il a présenté la méthodologie ainsi qu'un résumé du rapport de l'ANSES sur 
 
 {{% staticref "uploads/BurkhardtVR&ARHealthEffectsGDRIGRV2023.pdf"%}} Accéder à la présentation {{% /staticref %}}
 
+[Lien vers le rapport ANSES](https://www.anses.fr/fr/system/files/AP2017SA0076Ra.pdf)
 
 {{< figure src="jeanMarieB.png" caption="Jean-Marie Burkhardt (Université Gustave Eiffel) : https://www.ifsttar.fr/menu-haut/annuaire/fiche-personnelle/personne/burkhardt-jean-marie/">}}
 
