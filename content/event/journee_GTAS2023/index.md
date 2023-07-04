@@ -4,7 +4,7 @@ title: "25èmes journées du Groupe de Travail Animation et Simulation"
 
 event: JGTAS2023
 
-location: Salle 304, acces par la tour 56, campus Pierre et Marie Curie (Jussieu)
+location: Salle 304, acces par la tour 65, campus Pierre et Marie Curie (Jussieu)
 # address:
 #   street: Campus de Tohannic
 #   city: Vannes
@@ -77,7 +77,7 @@ Enfin, l’ensemble des participants s’attacheront à mettre à jour les élé
 L’inscription aux Journées est gratuite mais obligatoire – merci de prendre contact avec les coordinateurs du GT pour obtenir le lien d'inscription.
 
 ## Lieu
-> Salle 304, acces par la tour 56\
+> Salle 304, acces par la tour 65\
 > Sorbonne Université - campus Marie et Pierre CURIE\
 > 4 Pl. Jussieu, 75005 Paris
 
