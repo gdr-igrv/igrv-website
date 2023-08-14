@@ -6,7 +6,21 @@ authors:
   - Étienne Peillard
 ---
 
+N'hésitez pas à nous signaler tout oubli.
+
+
 {{% toc %}}
+
+
+
+## Patternshop: Editing Point Patterns by Image Manipulation
+*Xingchang Huang (Max Planck Institute for Informatics), Tobias Ritschel (University College London), Hans-Peter Seidel (Max Planck Institute for Informatics), Pooran Memari (LIX-Inria), Gurprit Singh (Max Planck Institute for Informatics)*
+
+{{< figure src="Huang2023.png" caption="Our framework facilitate point pattern design by representing both density and correlation as a three-channel raster image (a). These images can be edited (c) in terms of their density or correlation using off-the-shelf image manipulation software. The resulting point patterns are shown before (b) and after the edits (d). Please see the accompanied supplemental material for vector graphic images.">}}
+
+Point patterns are characterized by their density and correlation. While spatial variation of density is well-understood, analysis and synthesis of spatially-varying correlation is an open challenge. No tools are available to intuitively edit such point patterns, primarily due to the lack of a compact representation for spatially varying correlation. We propose a low-dimensional perceptual embedding for point correlations. This embedding can map point patterns to common three-channel raster images, enabling manipulation with off-the-shelf image editing software. To synthesize back point patterns, we propose a novel edge-aware objective that carefully handles sharp variations in density and correlation. The resulting framework allows intuitive and backward-compatible manipulation of point patterns, such as recoloring, relighting to even texture synthesis that have not been available to 2D point pattern design before. Effectiveness of our approach is tested in several user experiments. Code is available at https://github.com/xchhuang/patternshop.
+
+[*Page projet*](https://xchhuang.github.io/patternshop/)
 
 ## A Sparse Non-parametric BRDF Model
 *Tanaboon Tongbuasirilai, Jonas Unger (Linkoping University), Christine Guillemot (INRIA), Ehsan Miandji (Linkoping University)*
