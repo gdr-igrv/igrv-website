@@ -22,6 +22,7 @@ Virtual wind tunnel testing is a key ingredient in the engineering design proces
 {{< video src="http://www.geometry.caltech.edu/Movies/LBWD+23.mp4" controls="yes" >}}
 
 
+
 ## Patternshop: Editing Point Patterns by Image Manipulation
 *Xingchang Huang (Max Planck Institute for Informatics), Tobias Ritschel (University College London), Hans-Peter Seidel (Max Planck Institute for Informatics), Pooran Memari (LIX-Inria), Gurprit Singh (Max Planck Institute for Informatics)*
 
