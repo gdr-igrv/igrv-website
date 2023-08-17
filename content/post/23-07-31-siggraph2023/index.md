@@ -11,6 +11,15 @@ N'hésitez pas à nous signaler tout oubli.
 
 {{% toc %}}
 
+## Building a Virtual Weakly-compressible Wind Tunnel Testing Facility
+*Chaoyang Lyu (ShanghaiTech University / SIMIT / UCAS), Kai Bai (ShanghaiTech University / AEROCAE Digital Ltd.), Yiheng Wu (ShanghaiTech University), Mathieu Desbrun (Inria and Ecole Polytechnique), Changxi Zheng (Tencent Pixel Lab and Columbia University), Xiaopei Liu (ShanghaiTech University)*
+
+{{< figure src="windTunnel2023.jpeg" >}}
+
+
+Virtual wind tunnel testing is a key ingredient in the engineering design process for the automotive and aeronautical industries as well as for urban planning: through visualization and analysis of the simulation data, it helps optimize lift and drag coefficients, increase peak speed, detect high pressure zones, and reduce wind noise at low cost prior to manufacturing. In this paper, we develop an efficient and accurate virtual wind tunnel system based on recent contributions from both computer graphics and computational fluid dynamics in high-performance kinetic solvers. Running on one or multiple GPUs, our massively-parallel lattice Boltzmann model meets industry standards for accuracy and consistency while exceeding current mainstream industrial solutions in terms of efficiency Ð especially for unsteady turbulent flow simulation at very high Reynolds number (on the order of 10^7) -- due to key contributions in improved collision modeling and boundary treatment, automatic construction of multiresolution grids for complex models, as well as performance optimization. We demonstrate the efficacy and reliability of our virtual wind tunnel testing facility through comparisons of our results to multiple benchmark tests, showing an increase in both accuracy and efficiency compared to state-of-the-art industrial solutions. We also illustrate the fine turbulence structures that our system can capture, indicating the relevance of our solver for both VFX and industrial product design.
+
+{{< video src="http://www.geometry.caltech.edu/Movies/LBWD+23.mp4" controls="yes" >}}
 
 
 ## Patternshop: Editing Point Patterns by Image Manipulation
