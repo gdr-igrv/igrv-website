@@ -13,7 +13,7 @@ date: 2021-06-21
 
 Mis en place en janvier 2022, le comité de direction s'organise autour de référents sur certaines missions :
    * {{% mention "loic-barthe" %}} (Univ Toulouse) et {{% mention "guillaume-cordonnier" %}} (INRIA CRISAM)  : suivi, actions à destination des jeunes chercheuses/chercheurs, prix de thèse…
-   * {{% mention "guillaume-moreau" %}} (IMT Atlantique), {{% mention "dmitry-sokolov" %}} (Univ Lorraine) : Club des partenaires, relations industrielles
+   * {{% mention "guillaume-moreau" %}} (IMT Atlantique) : Club des partenaires, relations industrielles
    * {{% mention "basile-sauvage"%}}  (Univ Strasbourg): relations avec les associations et sociétés savantes
    * {{% mention "adrien-peytavie" %}} (Univ Lyon1) : écoles de recherche du GdR
    * {{% mention "etienne-peillard" %}} (IMT Atlantique) : communication, site web
