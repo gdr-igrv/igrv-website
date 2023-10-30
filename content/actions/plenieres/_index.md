@@ -4,7 +4,34 @@ date: 2021-06-21
 weight: 2
 ---
 
-L'appel à volontaires est d'ores et déjà lancé pour l'organisation sur place des journées plénières biannuelles du GdR IG-RV de 2023 concomitantes à plusieurs journées de GT.
+L'appel à volontaires est d'ores et déjà lancé pour l'organisation sur place des journées plénières biannuelles du GdR IG-RV de 2025.
+
+# Cinquièmes journées plénières du GdR IG-RV
+
+Les *cinquièmes journées plénières du GdR IG-RV* ont eu lieu à Lyon les 30 et 31 mai 2023 sur le Campus La Doua. Le site web de l'évènement est disponible [à cette adresse](https://plenieres-igrv.sciencesconf.org). À l'issue de ces plénières, une [brève revient sur les différentes présentations](https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/).
+
+Le programme était composé de : 
+* session spéciale « Métavers: enjeux scientifiques et impacts», exposés et table ronde avec :
+    Rémi Ronfard (Inria)
+    Pascal Guitton (Université de Bordeaux)
+    Jean-Marie Burkhardt (Université Gustave Eiffel)
+
+* session spéciale « Impact environnemental : on en est où» :
+    Peter Sturm (Inria)
+    Laurent Lefevre (Inria)
+
+* session spéciale « IG-RV et JO 2024 » :
+    Lije Yao (Inria Saclay)
+    Franck Multon (Univ. Rennes/Inria)
+    Thibaut Le Naour (Motion-Up)
+
+* session spéciale " Le futur de..." :
+  * IA et Animation : Alexandre Meyer (Univ. Lyon1)
+  * Le futur du rendu: George Drettakis (Inria)
+  * "Multum in Parvo: Level of Detail and Approximation Models for 3D Digital Content Creation" : Tamy Boubekeur (Adobe Research)
+
+* session spéciale  "Art et Science" avec Benoit Abelot (THEORIZ)
+
 
 
 #  Quatrièmes journées plénières du GdR IG-RV
