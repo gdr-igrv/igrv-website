@@ -1,20 +1,28 @@
 ---
 title: Club  industriel
 date: 2021-06-21
-authors: ["Guillaume Moreau", "Dmitry Sokolov"]
+authors: ["Guillaume Moreau"]
 ---
 
 
 
 Un club des partenaires industriels selon un modèle ouvert complète l’ensemble des laboratoires participant au GdR IG-RV. Les partenaires naturels du GdR IG-RV sont les industriels du Paris ACM SIGGRAPH pour l’informatique graphique, les nombreux industriels participant aux journées rendu et visualisation de ce GdR, et ceux issus du collège 3 de feu-l’AFRV pour la réalité virtuelle, mais tout autre partenaire est le bienvenu dans ce club.
 
-**Contacts**:  {{% mention "guillaume-moreau" %}} (IMT Atlantique), {{% mention "dmitry-sokolov" %}} (Univ Lorraine) 
+**Contacts**:  {{% mention "guillaume-moreau" %}} (IMT Atlantique)
 
 # Membres du Club industriel
 [{{< figure src="img/Logo-hapticmedia.png" width="50%" lightbox="false">}}](https://hapticmedia.com/) 
-[{{< figure src="img/Logo-berger-levrault.png" width="50%" lightbox="false">}}](https://www.berger-levrault.com/fr/)
+
 
 # Pourquoi rejoindre le club des partenaires du GdR IG-RV ?
+
+{{% callout note %}}
+En bref :
+* Pour participer à la vie scientifique de la communauté GdR via le financement de ses actions.
+* Pour soutenir le prix de thèse du GdR et des associations AFIG et EGFR.
+* Pour une visibilité lors des événements nationaux (plénières, écoles de recherche).
+* Pour un canal de communication privilégié vers les laboratoires et chercheurs.
+{{% /callout %}}
 
 Le club des partenaires industriels du GdR IG-RV est un acteur à part entière du GdR IG-RV et à ce titre, il participe activement aux activités du GdR IG-RV ainsi qu'aux choix stratégiques via ses deux représentants au comité de direction du GdR IG-RV.
 
@@ -22,7 +30,7 @@ Ce club a pour vocation de permettre une meilleure connaissance mutuelle entre a
 
 Faire partie du club permet à ses membres de rejoindre la communauté d’entreprises actives et passionnées par tout ce qui est lié à l’informatique graphique, la réalité virtuelle ou la visualisation. En adhérant au club, les partenaires peuvent accroître leur visibilité sur les activités qui les intéressent, participer aux manifestations organisées par le GdR et avoir accès aux résultats et rapports produits dans le cadre du GdR. Cet accroissement de visibilité fonctionne dans les deux sens : le bon fonctionnement du club augmente aussi la visibilité des actions du GdR de l’informatique géométrique et graphique, réalité virtuelle et visualisation.
 
-Le club est également un canal de communication privilégié avec les équipes de recherche des laboratoires académiques à travers ses deux représentants au comité de direction du GdR et sa participation aux événements du GdR : les plénières nationales du GdR, les journées des groupes de travail, les journées thématiques, les écoles du GdR et donne accès au matériel et aux productions de ces évènements. Les partenaires pourront également organiser des rencontres entreprises-doctorants autour de problématiques industrielles.
+Le club est également un canal de communication privilégié avec les équipes de recherche des laboratoires académiques à travers ses deux représentants au comité de direction du GdR et sa participation aux événements du GdR : les plénières nationales du GdR, les journées des groupes de travail, les journées thématiques, les écoles du GdR et donne accès au matériel et aux productions de ces événements. Les partenaires pourront également organiser des rencontres entreprises-doctorants autour de problématiques industrielles.
 
 Le club des partenaires n’est pas une structure fermée, sa composition évolue, par cooptation à tout nouveau partenaire. La nature et la fréquence des activités du club dépendront des propositions et de l’investissement de ses membres.
 En bref, le partenaire aura la possibilité de :
