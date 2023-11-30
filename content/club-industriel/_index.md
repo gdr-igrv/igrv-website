@@ -18,10 +18,10 @@ Un club des partenaires industriels selon un modèle ouvert complète l’ensemb
 
 {{% callout note %}}
 En bref :
-* Pour participer à la vie scientifique de la communauté GdR via le financement de ses actions.
-* Pour soutenir le prix de thèse du GdR et des associations AFIG et EGFR.
-* Pour une visibilité lors des événements nationaux (plénières, écoles de recherche).
-* Pour un canal de communication privilégié vers les laboratoires et chercheurs.
+* participation à la vie scientifique de la communauté GdR via le financement de ses actions ;
+* soutien du prix de thèse du GdR et des associations AFIG et EGFR ;
+* visibilité lors des événements nationaux (plénières, écoles de recherche...) ;
+* canal de communication privilégié vers les laboratoires et chercheurs.
 {{% /callout %}}
 
 Le club des partenaires industriels du GdR IG-RV est un acteur à part entière du GdR IG-RV et à ce titre, il participe activement aux activités du GdR IG-RV ainsi qu'aux choix stratégiques via ses deux représentants au comité de direction du GdR IG-RV.
