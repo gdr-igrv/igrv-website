@@ -12,7 +12,7 @@ date: 2021-06-21
 **Comité de direction et conseil scientifique**
 
 Mis en place en janvier 2022, le comité de direction s'organise autour de référents sur certaines missions :
-   * {{% mention "loic-barthe" %}} (Univ Toulouse) et {{% mention "guillaume-cordonnier" %}} (INRIA CRISAM)  : suivi, actions à destination des jeunes chercheuses/chercheurs, prix de thèse…
+   * {{% mention "guillaume-cordonnier" %}} (INRIA CRISAM) et {{% mention "georges-pierre-bonneau" %}} (Univ Grenoble Alpes) : suivi, actions à destination des jeunes chercheuses/chercheurs, prix de thèse…
    * {{% mention "guillaume-moreau" %}} (IMT Atlantique) : Club des partenaires, relations industrielles
    * {{% mention "basile-sauvage"%}}  (Univ Strasbourg): relations avec les associations et sociétés savantes
    * {{% mention "adrien-peytavie" %}} (Univ Lyon1) : écoles de recherche du GdR

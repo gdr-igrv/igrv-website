@@ -19,7 +19,7 @@ L’objectif de ce prix de thèse est de récompenser chaque année une excellen
 
 L’intérêt est double. Pour le ou la jeune docteur(e) concerné(e), ce prix apportera une grande visibilité à ses travaux et une reconnaissance de la communauté du GdR sur l’excellence des résultats obtenus. Pour la communauté du GdR, ce prix permettra de rendre visible très largement des travaux de premier ordre issus de nos thématiques de recherche. Le contour disciplinaire du prix est celui du GdR Informatique Géométrique et Graphique, Réalité Virtuelle et Visualisation et de ses groupes de travail.
 
-Chaque année le jury du prix de thèse du GdR propose un(e) lauréat(e) et d'éventuels accessits au comité de pilotage du GdR pour validation. Le jury constitué de membres représentatifs des thèmes du GdR IG-RV est présidé par {{% mention "loic-barthe" %}} et {{% mention "guillaume-cordonnier" %}}.
+Chaque année le jury du prix de thèse du GdR propose un(e) lauréat(e) et d'éventuels accessits au comité de pilotage du GdR pour validation. Le jury constitué de membres représentatifs des thèmes du GdR IG-RV est présidé par {{% mention "guillaume-cordonnier" %}} et {{% mention "georges-pierre-bonneau" %}}.
 
 
 
