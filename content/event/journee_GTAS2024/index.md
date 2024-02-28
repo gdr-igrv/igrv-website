@@ -67,6 +67,8 @@ L’objet des Journées du GT AS est triple. Il s’agit :
 
 **Le thème focus cette année sera: Animation et simulation de phénomènes naturels.**
 
+Les inscriptions sont ouvertes. A faire en remplissant [ce formulaire](https://forms.gle/XJPmmHccMw79JiwS7). 
+
 ## Lieu
 > Salle de conférences, Laboratoire XLIM
 > 
