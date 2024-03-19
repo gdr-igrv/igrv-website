@@ -10,6 +10,22 @@ date: 2021-09-20
 
 Le GdR collabore avec d'autres GdR et structures d'animation de la recherche autour de journées thématiques spécifiques.
 
+## En collaboration avec le GdR IFM
+
+Le GDR IM, en partenariat avec le GDR IG-RV, lance une année « Géométrie » pour 2023-2024. L’objectif est d’illustrer la richesse des recherches scientifiques autour de l’informatique géométrique, d’identifier les enjeux importants du domaine, et de favoriser de nouveaux projets et collaborations sur ces thèmes. Au programme, des journées thématiques, des événements pour les doctorants et post-doctorants et une conférence « Geometry and Computing » à l’automne 2024.
+
+* **EVÉNEMENTS**
+   * *Journées thématiques*
+     * Journée « Apprentissage pour la Géométrie », 26 octobre 2023, Institut Henri Poincaré. https://ml4geo.sciencesconf.org
+     * Journée des doctorants en Géométrie, 27 octobre 2023, Institut Henri Poincaré. https://jcgeo.sciencesconf.org
+   * Conférence « Geometry & Computing », CIRM, Luminy, du 21 au 25 octobre 2024, co-localisation des journées des trois GT Géométrie.
+
+* **COMITÉ DE PILOTAGE**
+  * Pilotage : Jacques-Olivier Lachaud (LAMA, Université Savoie Mont Blanc) & Mathieu Desbrun (LIX, Polytechnique et INRIA)
+  * GT Géométrie Algorithmique : Théo Lacombe (LIGM, Université Gustave Eiffel), Clément Maria (INRIA Sophia), Xavier Goaoc (LORIA, Université Lorraine)
+  * GT Géométrie Discrète et Morphologie Mathématique : Jean Cousty (LIGM, ESIEE), Isabelle Sivignon (Gipsa-lab, CNRS, Université Grenoble Alpes), Aldo Gonzalez-Lorenzo (LIS, Aix-Marseille Université)
+  * GT Modélisation Géométrique : Géraldine Morin (IRIT, Université de Toulouse), Romain Raffin (LIB, Université de Bourgogne), Julie Digne (LIRIS, CNRS)
+
 ## En collaboration avec le GdR IA
 
 * « L'IA des personnages autonomes dans les mondes virtuels» : 7 novembre 2019 au LIP6 – Jussieu, Journée co-organisée par le GT IA et Jeux du GdR IA et le GdR IGRV.
