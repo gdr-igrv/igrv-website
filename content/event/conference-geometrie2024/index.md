@@ -3,7 +3,7 @@ draft: false
 title: "Conférence « Geometry & Computing »"
 
 event: GeomComp2024
-event_url: 
+event_url:  https://conferences.cirm-math.fr/3128.html
 
 location: "CIRM, Marseille (France)"
 
@@ -52,4 +52,4 @@ slides:
 projects:
 ---
 
-Plus d'informations à venir.
+Plus d'informations : https://conferences.cirm-math.fr/3128.html
