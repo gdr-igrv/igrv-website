@@ -17,7 +17,7 @@ date_end: "2024-06-19T14:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2024-04-16"
+publishDate: "2024-03-16"
 
 #authors:
 #  - Jules Vidal
