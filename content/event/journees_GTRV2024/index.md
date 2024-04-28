@@ -50,7 +50,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
 Les pages suivantes regroupent les informations relatives aux journées scientifiques du GT-RV qui auront lieu du **24 et 25 Juin 2024** au Centre Inria de l'Université de Rennes/IRISA et qui seront communes cette année avec des journées scientifiques de l'EQUIPEX CONTINUUM (https://equipexcontinuum.github.io). 
 
 ![](logo-500-white.png)
