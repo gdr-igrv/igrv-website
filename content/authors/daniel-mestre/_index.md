@@ -7,6 +7,7 @@ superuser: false
 
 # Role/position
 role:
+draft: true
 
 # Organizations/Affiliations
 organizations:
