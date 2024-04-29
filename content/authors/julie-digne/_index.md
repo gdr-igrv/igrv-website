@@ -1,20 +1,18 @@
 ---
 # Display name
-title: Dmitry Sokolov
+title: Julie Digne
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role:
-draft: true
+role: "Co-responsable GT MG"
+
 
 # Organizations/Affiliations
 organizations:
-- name:  Université de Lorraine
-  url: ""
-- name: LORIA  
-  url: "https://www.loria.fr/"
+- name: CNRS, LIRIS
+  url: "http://liris.cnrs.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

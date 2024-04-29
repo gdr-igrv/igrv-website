@@ -4,7 +4,7 @@ title: Dominque Bechmann
 
 # Is this the primary user of the site?
 superuser: false
-
+draft: true
 # Role/position
 role: Directrice (2014-2021)
 
