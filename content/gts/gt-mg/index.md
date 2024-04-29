@@ -2,14 +2,14 @@
 title: Groupe de travail "modélisation géométrique" (GT-MG)
 #subtitle: ''
 
-authors: ["Géraldine Morin", "Romain Raffin"]
+authors: ["Julie Digne", "Romain Raffin"]
 date: 2021-06-21
 ---
 
 ![](logo-gt-mg.png)
 
 * **Site** : http://gtmg.u-bourgogne.fr/
-* **Responsables** : Géraldine Morin (IRIT, Toulouse) et Romain Raffin (LIB, Dijon)
+* **Responsables** : Julie Digne (CNRS, LIRIS, Lyon) et Romain Raffin (LIB, Dijon)
 * **Mots-clés** : Courbes, surfaces, maillages, modèles 3D, nuages de points, reconstruction, contraintes, déformation, multirésolution, paramétrisation, apprentissage, géométrie différentielle, algorithmes de subdivision, topologie, axe médian, squelette.
 
 La modélisation géométrique est un domaine de recherche commun à l'informatique et aux mathématiques appliquées qui s'intéresse à des méthodes numériques et algorithmiques de création, représentation, modélisation, analyse et acquisition de formes géométriques 3D (courbes et surfaces, maillages, nuages de points et volumes, domaines discret, continu et semi-continu, analyse de formes, descripteurs).
