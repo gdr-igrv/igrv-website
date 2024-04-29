@@ -32,8 +32,8 @@ Un groupe de rédacteurs scientifiques a été mis en place pour la diffusion de
 
 
 **Anciens membres (2022-...)**
+* Loïc Barthe
 * Géraldine Morin
-* Julien Tierny
 * Dmitry Sokolov
 * Julien Tierny
 * Nicolas Passat
