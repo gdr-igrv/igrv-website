@@ -46,6 +46,8 @@ http://www.i3s.unice.fr/~fpayan/gdr-isis.php
 
 ## En collaboration avec le GdR MAGIS
 
+* Journées ["Journées Territoires et Immersion(s) 2024 - Lyon"](http://gdr-igrv.fr/event/journee-territoires-immersions-2024/)
+* Journées ["Journée Territoires et Immersion(s) 2023 - Nantes"](https://gdr-igrv.fr/event/journee-territoires-immersions-2023/)
 *  Série de webinars "Autour de la 3D", [programme 2021-2022 détaillé et les présentations 2020-2021](https://github.com/VCityTeam/MAGIS-AP3D/blob/master/Media/README.md).  
 * « 3D et géospatial », prévue en 2021.
 * « Visualisation & HCI for Crowd-Sourcing », mardi 25 juin 2019 à Clermont-Ferrand, en collaboration avec le GdR MAGIS.

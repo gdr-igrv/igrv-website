@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Événements
+title: Prochains événements
 subtitle:
 
 content:
@@ -13,11 +13,11 @@ content:
     author: ""
     category: ""
     exclude_featured: false
-    exclude_past: false
+    exclude_past: true
     publication_type: ""
     tag: ""
   offset: 0
-  order: desc
+  order: asc
   page_type: event
 design:
   view: 2
