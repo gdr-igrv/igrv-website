@@ -11,7 +11,7 @@ design:
   columns: '1'
 ---
 
-Depuis de 2017, le GdR IG-RV organise un prix de thèse IGRV avec le soutien des associations [AFIG](https://www.asso-afig.fr/site/) et [EGFR](https://projet.liris.cnrs.fr/egfr/). 
+Depuis 2017, le GdR IG-RV organise un prix de thèse IGRV avec le soutien des associations [AFIG](https://www.asso-afig.fr/site/) et [EGFR](https://projet.liris.cnrs.fr/egfr/). 
 <table><tr><td><a href="https://www.asso-afig.fr/site/"><img src="img/logoAFIG.jpg" width="100%"></a></td> <td><a href="https://projet.liris.cnrs.fr/egfr/"><img src="img/logoEGFR.png" width="30%"></a></td></tr></table>
 
 
