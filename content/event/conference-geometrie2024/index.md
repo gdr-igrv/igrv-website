@@ -52,4 +52,15 @@ slides:
 projects:
 ---
 
-Plus d'informations : https://conferences.cirm-math.fr/3128.html
+
+Dans le cadre de l'année thématique Géométrie soutenue par les GdRs IM et IG-RV, vous êtes conviés à assister à la conférence "Géométrie & Informatique", qui aura lieu au CIRM (Marseille, France) du 21 au 25 octobre 2024.
+
+https://geocomp2024.sciencesconf.org/
+
+La conférence propose 25 exposés invités donnés par des experts renommés du domaine. Les participants ont aussi l'opportunité de présenter un poster pendant la semaine. La conférence hébergera aussi les réunions annuelles des 3 GT géométries des GdR IFM et IG-RV (GT GéoAlgo, MG et DGMM).
+
+Nous encourageons la participation des jeunes chercheurs avec des financements possibles. L'inscription est ouverte jusqu'au 8 juillet.
+
+Sincèrement
+Les organisateurs
+
