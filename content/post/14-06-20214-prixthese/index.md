@@ -28,5 +28,5 @@ Nous tenons à remercier l’ensemble des candidats pour leur participation,
 
 Bien cordialement
 
-Les animateurs du prix de thèse 2023,
-Guillaume Cordonnier et Loïc Barthe
+Les animateurs du prix de thèse 2024,
+Guillaume Cordonnier et Georges-Pierre Bonneau
