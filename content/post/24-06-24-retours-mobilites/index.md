@@ -7,7 +7,7 @@ authors:
   - Etienne Peillard
 ---
 
-*L'action de mobilité entre laboratoires français via le financement de court séjour d'un doctorant ou d'un enseignant-chercheur/chercheur du GdR a permis la réalisation de 2 mobilités en 2023 (1er appel).*
+*L'action de mobilité entre laboratoires français via le financement de court séjour d'un doctorant ou d'un enseignant-chercheur/chercheur du GdR a permis la réalisation de 2 mobilités en 2023 (2ème appel).*
 
 ### Clément Poull - LIB (Dijon) / XLIM (Poitiers) - Décembre 2023
 
