@@ -7,7 +7,43 @@ authors:
   - Etienne Peillard
 ---
 
-*L'action de mobilité entre laboratoires français via le financement de court séjour d'un doctorant ou d'un enseignant-chercheur/chercheur du GdR a permis la réalisation de 2 mobilités en 2023 (1er appel).*
+*L'action de mobilité entre laboratoires français via le financement de court séjour d'un doctorant ou d'un enseignant-chercheur/chercheur du GdR a permis la réalisation de 7 mobilités en 2023.*
+
+### Thierry Bay – CERAMATHS (Hauts-de-France) / IRIT (Toulouse) et XLIM (Poitiers) – 2023
+
+Thierry Bay, du Département Mathématiques du CERAMATHS, a réalisé une mobilité inter-laboratoires pour collaborer avec Laura Saini (CERAMATHS), Géraldine Morin (IRIT, Toulouse), et Samuel Peltier (XLIM, Poitiers). L'objectif était d'utiliser les courbes Algébriques Trigonométriques à Hodographe Pythagorien (ATPH) pour développer des modèles 3D à partir de squelettes.
+
+Les courbes ATPH permettent de modéliser précisément des formes circulaires et leurs offsets, offrant une représentation paramétrique exacte. Le projet a débuté par la création de formes 2D paramétrées par des courbes ATPH, permettant de calculer explicitement la longueur d'arc. Ensuite, l'équipe a étendu ces travaux en 3D et aux surfaces, en utilisant des espaces algébriques trigonométriques.
+
+La mission a permis de renforcer les collaborations existantes, d'explorer de nouvelles méthodes de modélisation géométrique, et de poser les bases pour des généralisations futures des modèles splines, polynomiaux et ATPH.
+
+### Deise Santana – CRIStAL (Lille) / ESIEE (Paris) – 2023
+
+Deise Santana, chercheuse en informatique à l’université de Lille et membre du laboratoire CRIStAL (UMR 9189), a effectué une mission de deux semaines à ESIEE Paris pour collaborer sur un projet de recherche portant sur le calcul des lignes de partage des eaux hiérarchiques dans le cadre de graphes pondérés. 
+
+### Marc Hartley – LIRMM (Montpellier) / ESIEE (Paris) – 2023
+
+Marc Hartley, doctorant au LIRMM, a réalisé une mission de recherche à ESIEE Paris, portant sur le développement d'un simulateur d'environnements sous-marins. Ce projet international et interdisciplinaire vise à évaluer et améliorer les protocoles d'observation de la biodiversité et à valider des systèmes robotiques sous-marins.
+
+Durant son séjour, Marc Hartley a collaboré étroitement avec les chercheurs d'ESIEE Paris pour avancer sur la génération procédurale d'environnements sous-marins. Son travail a porté sur la création de fonds marins, adaptés aux scénarios de validation des missions robotiques. Il a particulièrement exploré la modélisation des bordures d'îles coralliennes et des réseaux karstiques.
+
+La mission a permis de développer des méthodes procédurales contrôlables pour générer des environnements réalistes, intégrant des obstacles et des caractéristiques topologiques spécifiques. 
+
+### Romain Pascual – MICS (CentraleSupélec) / LIRIS (Lyon) – 22-24 mai 2023
+
+Romain Pascual, ATER au laboratoire MICS de CentraleSupélec, a effectué une mission de trois jours au LIRIS de Lyon, du 22 au 24 mai 2023, afin d'initier une collaboration prometteuse autour de l'utilisation de signatures topologiques pour des opérations d'édition de maillages volumiques.
+
+Durant son séjour, Romain Pascual a travaillé étroitement avec Guillaume Damiand, Vincent Nivoliers, et Romain Pascual du LIRIS. Leur objectif commun était d'explorer l'application des techniques de réécriture de graphes pour la modélisation géométrique, en s'inspirant des méthodes de cherche-remplace sur les cartes combinatoires développées par leurs homologues lyonnais.
+
+Cette collaboration a permis de poser les bases d'un projet visant à étendre la représentation des signatures de la méthode cherche-remplace en intégrant des idées issues des techniques de réécriture. L'approche proposée cherche à appliquer cette méthode à plusieurs cellules topologiques, ouvrant ainsi de nouvelles perspectives pour la modélisation géométrique basée sur des graphes.
+
+### Flavien Lécuyer - ICube (Strasbourg) / Inria (Rennes) – 2023
+
+Dans le cadre de leurs travaux sur l'influence des émotions sur le sentiment d'incarnation en réalité virtuelle, les chercheurs de Strasbourg ont initié une collaboration avec l'équipe Hybrid de l'INRIA Rennes. Cette mission a impliqué Flavien Lécuyer, jeune maître de conférences, et Benjamin Freeling, doctorant, dans le but de définir les contours d'une étude conjointe.
+
+Pendant leur visite à Rennes, les chercheurs ont rencontré Ferran Argelaguet et discuté des recherches complémentaires menées au laboratoire IRISA/Inria Rennes. Ensemble, ils ont exploré les facteurs permettant l'incarnation des avatars virtuels et ont envisagé des solutions innovantes pour améliorer les simulations de réalité virtuelle. Cette collaboration vise à comparer le sentiment d'incarnation dans des contextes applicatifs similaires, en utilisant des casques de réalité virtuelle standard et un environnement de type Cave, tel que celui de la plateforme Immersia.
+
+Les discussions ont mis en lumière le potentiel de l'analyse en temps réel de l'implication émotionnelle des utilisateurs, offrant ainsi de nouvelles perspectives pour évaluer l'incarnation virtuelle. Cette approche pourrait surmonter les limites des questionnaires post-expérience actuellement utilisés pour mesurer l'incarnation virtuelle.
 
 ### Clément Poull - LIB (Dijon) / XLIM (Poitiers) - Décembre 2023
 
