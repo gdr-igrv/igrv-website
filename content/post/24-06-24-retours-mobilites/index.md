@@ -1,17 +1,20 @@
 ---
 title: "Retour mobilités inter-laboratoires 2023"
-date: 2024-06-24
+date: 2024-07-29
 categories:
-draft: true
 authors:
   - Etienne Peillard
 ---
+
+{{% toc %}}
 
 *L'action de mobilité entre laboratoires français via le financement de court séjour d'un doctorant ou d'un enseignant-chercheur/chercheur du GdR a permis la réalisation de 7 mobilités en 2023.*
 
 ### Thierry Bay – CERAMATHS (Hauts-de-France) / IRIT (Toulouse) et XLIM (Poitiers) – 2023
 
-Thierry Bay, du Département Mathématiques du CERAMATHS, a réalisé une mobilité inter-laboratoires pour collaborer avec Laura Saini (CERAMATHS), Géraldine Morin (IRIT, Toulouse), et Samuel Peltier (XLIM, Poitiers). L'objectif était d'utiliser les courbes Algébriques Trigonométriques à Hodographe Pythagorien (ATPH) pour développer des modèles 3D à partir de squelettes.
+{{< figure src="thierry1.png" caption="Courbes Algébriques Trigonométriques à Hodographe Pythagorien (ATPH): surface trigonométrique à partir de laquelle les données ont été échantillonnées et la courbe ATPH spatiale reconstruite.">}}
+
+Thierry Bay, du Département Mathématiques du CERAMATHS à Valenciennes, a réalisé une mobilité inter-laboratoires pour collaborer avec Laura Saini (CERAMATHS), Géraldine Morin (IRIT, Toulouse), et Samuel Peltier (XLIM, Poitiers). L'objectif était d'utiliser les courbes Algébriques Trigonométriques à Hodographe Pythagorien (ATPH) pour développer des modèles 3D à partir de squelettes.
 
 Les courbes ATPH permettent de modéliser précisément des formes circulaires et leurs offsets, offrant une représentation paramétrique exacte. Le projet a débuté par la création de formes 2D paramétrées par des courbes ATPH, permettant de calculer explicitement la longueur d'arc. Ensuite, l'équipe a étendu ces travaux en 3D et aux surfaces, en utilisant des espaces algébriques trigonométriques.
 
@@ -19,29 +22,37 @@ La mission a permis de renforcer les collaborations existantes, d'explorer de no
 
 ### Deise Santana – CRIStAL (Lille) / ESIEE (Paris) – 2023
 
+{{< figure src="deise1.png" caption="Illustration d'un image, de son gradient, et de diverses cartes de saillance et de partitions basées sur les bassins versants hiérarchiques et les attributs de circularité">}}
+
 Deise Santana, chercheuse en informatique à l’université de Lille et membre du laboratoire CRIStAL (UMR 9189), a effectué une mission de deux semaines à ESIEE Paris pour collaborer sur un projet de recherche portant sur le calcul des lignes de partage des eaux hiérarchiques dans le cadre de graphes pondérés. 
 
 ### Marc Hartley – LIRMM (Montpellier) / ESIEE (Paris) – 2023
 
-Marc Hartley, doctorant au LIRMM, a réalisé une mission de recherche à ESIEE Paris, portant sur le développement d'un simulateur d'environnements sous-marins. Ce projet international et interdisciplinaire vise à évaluer et améliorer les protocoles d'observation de la biodiversité et à valider des systèmes robotiques sous-marins.
+{{< figure src="marc1.jpg" caption="Environnement sous-marins simulés <br>*Virtual Worlds for Testing Robot Navigation: a Study on the Difficulty Level. Thierry Sotiropoulos, Jérémie Guiochet, Félix Ingrand, Hélène Waeselynck. In Proceedings of the European Dependable Computing Conference (EDCC 2016).*">}}
 
-Durant son séjour, Marc Hartley a collaboré étroitement avec les chercheurs d'ESIEE Paris pour avancer sur la génération procédurale d'environnements sous-marins. Son travail a porté sur la création de fonds marins, adaptés aux scénarios de validation des missions robotiques. Il a particulièrement exploré la modélisation des bordures d'îles coralliennes et des réseaux karstiques.
+Marc Hartley, doctorant au LIRMM à Montpellier, a réalisé une mission de recherche à ESIEE Paris, portant sur le développement d'un simulateur d'environnements sous-marins. Ce projet international et interdisciplinaire vise à évaluer et améliorer les protocoles d'observation de la biodiversité et à valider des systèmes robotiques sous-marins.
+
+Durant son séjour, Marc Hartley a collaboré avec les chercheurs d'ESIEE Paris pour avancer sur la génération procédurale d'environnements sous-marins. Son travail a porté sur la création de fonds marins, adaptés aux scénarios de validation des missions robotiques. Il a particulièrement exploré la modélisation des bordures d'îles coralliennes et des réseaux karstiques.
 
 La mission a permis de développer des méthodes procédurales contrôlables pour générer des environnements réalistes, intégrant des obstacles et des caractéristiques topologiques spécifiques. 
 
 ### Romain Pascual – MICS (CentraleSupélec) / LIRIS (Lyon) – 22-24 mai 2023
 
-Romain Pascual, ATER au laboratoire MICS de CentraleSupélec, a effectué une mission de trois jours au LIRIS de Lyon, du 22 au 24 mai 2023, afin d'initier une collaboration prometteuse autour de l'utilisation de signatures topologiques pour des opérations d'édition de maillages volumiques.
+{{< figure src="romain1.png" caption="G-carte associée à un objet géométrique <br>*Romain Pascual, Pascale Le Gall, Hakim Belhaouari, Agnès Arnould. Une approche pour inférer les expressions de calcul géométrique en modélisation à base topologique. 22ème Journées des Approches Formelles dans l’Assistance au Développement de Logiciels, AFADL’23., Jun 2023, Rennes, France.*">}}
 
-Durant son séjour, Romain Pascual a travaillé étroitement avec Guillaume Damiand, Vincent Nivoliers, et Romain Pascual du LIRIS. Leur objectif commun était d'explorer l'application des techniques de réécriture de graphes pour la modélisation géométrique, en s'inspirant des méthodes de cherche-remplace sur les cartes combinatoires développées par leurs homologues lyonnais.
+Romain Pascual, ATER au laboratoire MICS de CentraleSupélec, a effectué une mission de trois jours au LIRIS de Lyon afin d'initier une collaboration autour de l'utilisation de signatures topologiques pour des opérations d'édition de maillages volumiques.
+
+Durant son séjour, Romain Pascual a travaillé étroitement avec Guillaume Damiand et Vincent Nivoliers du LIRIS. Leur objectif commun était d'explorer l'application des techniques de réécriture de graphes pour la modélisation géométrique, en s'inspirant des méthodes de cherche-remplace sur les cartes combinatoires développées par leurs homologues lyonnais.
 
 Cette collaboration a permis de poser les bases d'un projet visant à étendre la représentation des signatures de la méthode cherche-remplace en intégrant des idées issues des techniques de réécriture. L'approche proposée cherche à appliquer cette méthode à plusieurs cellules topologiques, ouvrant ainsi de nouvelles perspectives pour la modélisation géométrique basée sur des graphes.
 
 ### Flavien Lécuyer - ICube (Strasbourg) / Inria (Rennes) – 2023
 
+{{< figure src="flavien1.jpg" caption="Environnement virtuel pour une thérapie en Réalité Virtuelle <br>*Thomas Lehoux, Christelle Nithart Porche, Antonio Capobianco, Miguel Gervilla, Flavien Lecuyer, et al.. Towards virtual reality exposure therapy for cocaine use disorder: A feasibility study of inducing cocaine craving through virtual reality. Addictive Behaviors Reports, 2024, 19, pp.100549.*">}}
+
 Dans le cadre de leurs travaux sur l'influence des émotions sur le sentiment d'incarnation en réalité virtuelle, les chercheurs de Strasbourg ont initié une collaboration avec l'équipe Hybrid de l'INRIA Rennes. Cette mission a impliqué Flavien Lécuyer, jeune maître de conférences, et Benjamin Freeling, doctorant, dans le but de définir les contours d'une étude conjointe.
 
-Pendant leur visite à Rennes, les chercheurs ont rencontré Ferran Argelaguet et discuté des recherches complémentaires menées au laboratoire IRISA/Inria Rennes. Ensemble, ils ont exploré les facteurs permettant l'incarnation des avatars virtuels et ont envisagé des solutions innovantes pour améliorer les simulations de réalité virtuelle. Cette collaboration vise à comparer le sentiment d'incarnation dans des contextes applicatifs similaires, en utilisant des casques de réalité virtuelle standard et un environnement de type Cave, tel que celui de la plateforme Immersia.
+Pendant leur visite à Rennes, les chercheurs ont rencontré Ferran Argelaguet et discuté des recherches complémentaires menées au laboratoire IRISA/Inria Rennes. Ensemble, ils ont exploré les facteurs permettant l'incarnation des avatars virtuels et ont envisagé des solutions innovantes pour améliorer les simulations de réalité virtuelle. Cette collaboration vise à comparer le sentiment d'incarnation dans des contextes applicatifs similaires, en utilisant des casques de réalité virtuelle standard et un environnement de type CAVE, tel que celui de la plateforme Immersia.
 
 Les discussions ont mis en lumière le potentiel de l'analyse en temps réel de l'implication émotionnelle des utilisateurs, offrant ainsi de nouvelles perspectives pour évaluer l'incarnation virtuelle. Cette approche pourrait surmonter les limites des questionnaires post-expérience actuellement utilisés pour mesurer l'incarnation virtuelle.
 
@@ -57,7 +68,7 @@ Clément Poull travaille sur la définition d'un modèle mathématique fractal d
 
 ### Julien Mendes Forte - GREYC (Caen) / LIGM (Champs-sur-Marne) - 20-24 novembre 2023
 
-{{< figure src="julien1.png" caption="(a) Une image F (haut) et ses ensembles de seuils supérieur (blanc) et inférieur (noir) (bas). <br>(b) L'arbre complet des formes de F représente l'inclusion (arcs verts) ou l'imbrication (arcs rouges) des composantes connexes des ensembles de seuils de F. <br>(c) L'arbre topologique des formes de F compresse les nœuds de l'arbre complet des formes en fonction de leur relation topologique (forte supprimabilité). <br>(d) L'arbre des formes de F représente l'imbrication des contours extérieurs des ensembles de seuils de F. L'arbre topologique des formes et l'arbre des formes sont obtenus par une homéomorphie décroissante de l'arbre complet des formes">}}
+{{< figure src="julien1.png" caption="Analyse topologique d'une image F et ses ensembles de seuils, où les arbres des formes et les arbres topologiques des formes représentent les relations d'inclusion et d'imbrication des composantes connexes des seuils de F">}}
 
 Julien Mendes Forte, doctorant au sein de l'équipe Image du laboratoire GREYC à Caen, a effectué une mobilité au Laboratoire d’Informatique Gaspard Monge (LIGM) à Champs-sur-Marne du 20 au 24 novembre 2023. Il a été accueilli par l'équipe A3SI pour travailler sur le sujet de l'Arbre Topologique des Formes (ATdF).
 
