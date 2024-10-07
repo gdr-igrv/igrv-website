@@ -5,7 +5,7 @@ title: "Réunion 'Compression et évaluation de la qualité des nuages de points
 event: "Compression et évaluation de la qualité des nuages de points"
 event_url: https://gdr-iasis.cnrs.fr/reunion/536/
 
-location: "Lyon"
+location: "Paris - Villejuif"
 
 summary:  'Réunion Compression et évaluation de la qualité des nuages de points (GdR IASIS - GdR IG-RV)'
 abstract: ""
