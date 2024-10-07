@@ -72,5 +72,5 @@ Le programme inclura des présentations, seniors et juniors, pour lesquelles un 
 
 # Orateurs invités
 * Fernando Pereira (Instituto de Telecomunicações - Lisbonne - Portugal) : "Learning-based point cloud coding: unifying man and machine representations"
-* Nicolas Mellado (IRIT, CNRS)
+* Nicolas Mellado (IRIT, CNRS) : "TBA" 
 * ...
