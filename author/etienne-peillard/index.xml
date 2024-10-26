@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Etienne Peillard | GdR IG-RV</title><link>https://gdr-igrv.fr/author/etienne-peillard/</link><atom:link href="https://gdr-igrv.fr/author/etienne-peillard/index.xml" rel="self" type="application/rss+xml"/><description>Etienne Peillard</description><generator>Wowchemy (https://wowchemy.com)</generator><language>fr-fr</language><image><url>https://gdr-igrv.fr/author/etienne-peillard/avatar_huc85f83f9765b1cfb0b0454c3039f3245_756058_270x270_fill_q75_lanczos_center.jpg</url><title>Etienne Peillard</title><link>https://gdr-igrv.fr/author/etienne-peillard/</link></image><item><title>Retour mobilités inter-laboratoires 2023</title><link>https://gdr-igrv.fr/post/24-06-24-retours-mobilites/</link><pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/post/24-06-24-retours-mobilites/</guid><description>&lt;details class="toc-inpage d-print-none " open>
+&lt;summary class="font-weight-bold">Table des matières&lt;/summary>
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>
+&lt;ul>
+&lt;li>&lt;a href="#thierry-bay--ceramaths-hauts-de-france--irit-toulouse-et-xlim-poitiers--2023">Thierry Bay – CERAMATHS (Hauts-de-France) / IRIT (Toulouse) et XLIM (Poitiers) – 2023&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#deise-santana--cristal-lille--esiee-paris--2023">Deise Santana – CRIStAL (Lille) / ESIEE (Paris) – 2023&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#marc-hartley--lirmm-montpellier--esiee-paris--2023">Marc Hartley – LIRMM (Montpellier) / ESIEE (Paris) – 2023&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#romain-pascual--mics-centralesupélec--liris-lyon--22-24-mai-2023">Romain Pascual – MICS (CentraleSupélec) / LIRIS (Lyon) – 22-24 mai 2023&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#flavien-lécuyer---icube-strasbourg--inria-rennes--2023">Flavien Lécuyer - ICube (Strasbourg) / Inria (Rennes) – 2023&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#clément-poull---lib-dijon--xlim-poitiers---décembre-2023">Clément Poull - LIB (Dijon) / XLIM (Poitiers) - Décembre 2023&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#julien-mendes-forte---greyc-caen--ligm-champs-sur-marne---20-24-novembre-2023">Julien Mendes Forte - GREYC (Caen) / LIGM (Champs-sur-Marne) - 20-24 novembre 2023&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;/details>
+&lt;p>&lt;em>L&amp;rsquo;action de mobilité entre laboratoires français via le financement de court séjour d&amp;rsquo;un doctorant ou d&amp;rsquo;un enseignant-chercheur/chercheur du GdR a permis la réalisation de 7 mobilités en 2023.&lt;/em>&lt;/p>
+&lt;h3 id="thierry-bay--ceramaths-hauts-de-france--irit-toulouse-et-xlim-poitiers--2023">Thierry Bay – CERAMATHS (Hauts-de-France) / IRIT (Toulouse) et XLIM (Poitiers) – 2023&lt;/h3>
+&lt;figure id="figure-courbes-algébriques-trigonométriques-à-hodographe-pythagorien-atph-surface-trigonométrique-à-partir-de-laquelle-les-données-ont-été-échantillonnées-et-la-courbe-atph-spatiale-reconstruite">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Courbes Algébriques Trigonométriques à Hodographe Pythagorien (ATPH): surface trigonométrique à partir de laquelle les données ont été échantillonnées et la courbe ATPH spatiale reconstruite." srcset="
+/post/24-06-24-retours-mobilites/thierry1_hu2495901ea778ed007616ceb7e6a997b8_103438_7e15659fdc57dab0c67ae6dae12d08ae.webp 400w,
+/post/24-06-24-retours-mobilites/thierry1_hu2495901ea778ed007616ceb7e6a997b8_103438_ac6bf73083a92f0d4651c10dc18f5b88.webp 760w,
+/post/24-06-24-retours-mobilites/thierry1_hu2495901ea778ed007616ceb7e6a997b8_103438_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/24-06-24-retours-mobilites/thierry1_hu2495901ea778ed007616ceb7e6a997b8_103438_7e15659fdc57dab0c67ae6dae12d08ae.webp"
+width="620"
+height="530"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Courbes Algébriques Trigonométriques à Hodographe Pythagorien (ATPH): surface trigonométrique à partir de laquelle les données ont été échantillonnées et la courbe ATPH spatiale reconstruite.
+&lt;/figcaption>&lt;/figure>
+&lt;p>Thierry Bay, du Département Mathématiques du CERAMATHS à Valenciennes, a réalisé une mobilité inter-laboratoires pour collaborer avec Laura Saini (CERAMATHS), Géraldine Morin (IRIT, Toulouse), et Samuel Peltier (XLIM, Poitiers). L&amp;rsquo;objectif était d&amp;rsquo;utiliser les courbes Algébriques Trigonométriques à Hodographe Pythagorien (ATPH) pour développer des modèles 3D à partir de squelettes.&lt;/p>
+&lt;p>Les courbes ATPH permettent de modéliser précisément des formes circulaires et leurs offsets, offrant une représentation paramétrique exacte. Le projet a débuté par la création de formes 2D paramétrées par des courbes ATPH, permettant de calculer explicitement la longueur d&amp;rsquo;arc. Ensuite, l&amp;rsquo;équipe a étendu ces travaux en 3D et aux surfaces, en utilisant des espaces algébriques trigonométriques.&lt;/p>
+&lt;p>La mission a permis de renforcer les collaborations existantes, d&amp;rsquo;explorer de nouvelles méthodes de modélisation géométrique, et de poser les bases pour des généralisations futures des modèles splines, polynomiaux et ATPH.&lt;/p>
+&lt;h3 id="deise-santana--cristal-lille--esiee-paris--2023">Deise Santana – CRIStAL (Lille) / ESIEE (Paris) – 2023&lt;/h3>
+&lt;figure id="figure-illustration-dun-image-de-son-gradient-et-de-diverses-cartes-de-saillance-et-de-partitions-basées-sur-les-bassins-versants-hiérarchiques-et-les-attributs-de-circularité">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Illustration d&amp;#39;un image, de son gradient, et de diverses cartes de saillance et de partitions basées sur les bassins versants hiérarchiques et les attributs de circularité" srcset="
+/post/24-06-24-retours-mobilites/deise1_hu78911f42bd5b19a46799146f0717a3ae_963130_9990ce655ca72d61bb29865e275284d3.webp 400w,
+/post/24-06-24-retours-mobilites/deise1_hu78911f42bd5b19a46799146f0717a3ae_963130_e71e20de5cbb335dfcf0252a53fdb9f7.webp 760w,
+/post/24-06-24-retours-mobilites/deise1_hu78911f42bd5b19a46799146f0717a3ae_963130_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/24-06-24-retours-mobilites/deise1_hu78911f42bd5b19a46799146f0717a3ae_963130_9990ce655ca72d61bb29865e275284d3.webp"
+width="760"
+height="521"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Illustration d&amp;rsquo;un image, de son gradient, et de diverses cartes de saillance et de partitions basées sur les bassins versants hiérarchiques et les attributs de circularité
+&lt;/figcaption>&lt;/figure>
+&lt;p>Deise Santana, chercheuse en informatique à l’université de Lille et membre du laboratoire CRIStAL (UMR 9189), a effectué une mission de deux semaines à ESIEE Paris pour collaborer sur un projet de recherche portant sur le calcul des lignes de partage des eaux hiérarchiques dans le cadre de graphes pondérés.&lt;/p>
+&lt;h3 id="marc-hartley--lirmm-montpellier--esiee-paris--2023">Marc Hartley – LIRMM (Montpellier) / ESIEE (Paris) – 2023&lt;/h3>
+&lt;figure id="figure-environnement-sous-marins-simulés-virtual-worlds-for-testing-robot-navigation-a-study-on-the-difficulty-level-thierry-sotiropoulos-jérémie-guiochet-félix-ingrand-hélène-waeselynck-in-proceedings-of-the-european-dependable-computing-conference-edcc-2016">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Environnement sous-marins simulés *Virtual Worlds for Testing Robot Navigation: a Study on the Difficulty Level. Thierry Sotiropoulos, Jérémie Guiochet, Félix Ingrand, Hélène Waeselynck. In Proceedings of the European Dependable Computing Conference (EDCC 2016).*" srcset="
+/post/24-06-24-retours-mobilites/marc1_hu81caa448037adfc8e271a9be0543be2e_101753_916adbc22c9b7020d9145c6c78610981.webp 400w,
+/post/24-06-24-retours-mobilites/marc1_hu81caa448037adfc8e271a9be0543be2e_101753_07d29c46948e847ffade6b6faaeba789.webp 760w,
+/post/24-06-24-retours-mobilites/marc1_hu81caa448037adfc8e271a9be0543be2e_101753_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/24-06-24-retours-mobilites/marc1_hu81caa448037adfc8e271a9be0543be2e_101753_916adbc22c9b7020d9145c6c78610981.webp"
+width="760"
+height="262"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Environnement sous-marins simulés &lt;br>&lt;em>Virtual Worlds for Testing Robot Navigation: a Study on the Difficulty Level. Thierry Sotiropoulos, Jérémie Guiochet, Félix Ingrand, Hélène Waeselynck. In Proceedings of the European Dependable Computing Conference (EDCC 2016).&lt;/em>
+&lt;/figcaption>&lt;/figure>
+&lt;p>Marc Hartley, doctorant au LIRMM à Montpellier, a réalisé une mission de recherche à ESIEE Paris, portant sur le développement d&amp;rsquo;un simulateur d&amp;rsquo;environnements sous-marins. Ce projet international et interdisciplinaire vise à évaluer et améliorer les protocoles d&amp;rsquo;observation de la biodiversité et à valider des systèmes robotiques sous-marins.&lt;/p>
+&lt;p>Durant son séjour, Marc Hartley a collaboré avec les chercheurs d&amp;rsquo;ESIEE Paris pour avancer sur la génération procédurale d&amp;rsquo;environnements sous-marins. Son travail a porté sur la création de fonds marins, adaptés aux scénarios de validation des missions robotiques. Il a particulièrement exploré la modélisation des bordures d&amp;rsquo;îles coralliennes et des réseaux karstiques.&lt;/p>
+&lt;p>La mission a permis de développer des méthodes procédurales contrôlables pour générer des environnements réalistes, intégrant des obstacles et des caractéristiques topologiques spécifiques.&lt;/p>
+&lt;h3 id="romain-pascual--mics-centralesupélec--liris-lyon--22-24-mai-2023">Romain Pascual – MICS (CentraleSupélec) / LIRIS (Lyon) – 22-24 mai 2023&lt;/h3>
+&lt;figure id="figure-g-carte-associée-à-un-objet-géométrique-romain-pascual-pascale-le-gall-hakim-belhaouari-agnès-arnould-une-approche-pour-inférer-les-expressions-de-calcul-géométrique-en-modélisation-à-base-topologique-22ème-journées-des-approches-formelles-dans-lassistance-au-développement-de-logiciels-afadl23-jun-2023-rennes-france">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="G-carte associée à un objet géométrique *Romain Pascual, Pascale Le Gall, Hakim Belhaouari, Agnès Arnould. Une approche pour inférer les expressions de calcul géométrique en modélisation à base topologique. 22ème Journées des Approches Formelles dans l’Assistance au Développement de Logiciels, AFADL’23., Jun 2023, Rennes, France.*" srcset="
+/post/24-06-24-retours-mobilites/romain1_hudec8a329174fc37849e265970269706a_52664_94624722607d55fd92a89dc65a4344d3.webp 400w,
+/post/24-06-24-retours-mobilites/romain1_hudec8a329174fc37849e265970269706a_52664_986e88e6ab2851638931e8d3f2020bd0.webp 760w,
+/post/24-06-24-retours-mobilites/romain1_hudec8a329174fc37849e265970269706a_52664_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/24-06-24-retours-mobilites/romain1_hudec8a329174fc37849e265970269706a_52664_94624722607d55fd92a89dc65a4344d3.webp"
+width="760"
+height="159"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+G-carte associée à un objet géométrique &lt;br>&lt;em>Romain Pascual, Pascale Le Gall, Hakim Belhaouari, Agnès Arnould. Une approche pour inférer les expressions de calcul géométrique en modélisation à base topologique. 22ème Journées des Approches Formelles dans l’Assistance au Développement de Logiciels, AFADL’23., Jun 2023, Rennes, France.&lt;/em>
+&lt;/figcaption>&lt;/figure>
+&lt;p>Romain Pascual, ATER au laboratoire MICS de CentraleSupélec, a effectué une mission de trois jours au LIRIS de Lyon afin d&amp;rsquo;initier une collaboration autour de l&amp;rsquo;utilisation de signatures topologiques pour des opérations d&amp;rsquo;édition de maillages volumiques.&lt;/p>
+&lt;p>Durant son séjour, Romain Pascual a travaillé étroitement avec Guillaume Damiand et Vincent Nivoliers du LIRIS. Leur objectif commun était d&amp;rsquo;explorer l&amp;rsquo;application des techniques de réécriture de graphes pour la modélisation géométrique, en s&amp;rsquo;inspirant des méthodes de cherche-remplace sur les cartes combinatoires développées par leurs homologues lyonnais.&lt;/p>
+&lt;p>Cette collaboration a permis de poser les bases d&amp;rsquo;un projet visant à étendre la représentation des signatures de la méthode cherche-remplace en intégrant des idées issues des techniques de réécriture. L&amp;rsquo;approche proposée cherche à appliquer cette méthode à plusieurs cellules topologiques, ouvrant ainsi de nouvelles perspectives pour la modélisation géométrique basée sur des graphes.&lt;/p>
+&lt;h3 id="flavien-lécuyer---icube-strasbourg--inria-rennes--2023">Flavien Lécuyer - ICube (Strasbourg) / Inria (Rennes) – 2023&lt;/h3>
+&lt;figure id="figure-environnement-virtuel-pour-une-thérapie-en-réalité-virtuelle-thomas-lehoux-christelle-nithart-porche-antonio-capobianco-miguel-gervilla-flavien-lecuyer-et-al-towards-virtual-reality-exposure-therapy-for-cocaine-use-disorder-a-feasibility-study-of-inducing-cocaine-craving-through-virtual-reality-addictive-behaviors-reports-2024-19-pp100549">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Environnement virtuel pour une thérapie en Réalité Virtuelle *Thomas Lehoux, Christelle Nithart Porche, Antonio Capobianco, Miguel Gervilla, Flavien Lecuyer, et al.. Towards virtual reality exposure therapy for cocaine use disorder: A feasibility study of inducing cocaine craving through virtual reality. Addictive Behaviors Reports, 2024, 19, pp.100549.*" srcset="
+/post/24-06-24-retours-mobilites/flavien1_hu6a0621bc777fb7a9da9ff6d21ac20822_66069_a45d3433a171ede714a77230e2f0d486.webp 400w,
+/post/24-06-24-retours-mobilites/flavien1_hu6a0621bc777fb7a9da9ff6d21ac20822_66069_6659d451b3092652cb9e7d0b65791aef.webp 760w,
+/post/24-06-24-retours-mobilites/flavien1_hu6a0621bc777fb7a9da9ff6d21ac20822_66069_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/24-06-24-retours-mobilites/flavien1_hu6a0621bc777fb7a9da9ff6d21ac20822_66069_a45d3433a171ede714a77230e2f0d486.webp"
+width="760"
+height="323"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Environnement virtuel pour une thérapie en Réalité Virtuelle &lt;br>&lt;em>Thomas Lehoux, Christelle Nithart Porche, Antonio Capobianco, Miguel Gervilla, Flavien Lecuyer, et al.. Towards virtual reality exposure therapy for cocaine use disorder: A feasibility study of inducing cocaine craving through virtual reality. Addictive Behaviors Reports, 2024, 19, pp.100549.&lt;/em>
+&lt;/figcaption>&lt;/figure>
+&lt;p>Dans le cadre de leurs travaux sur l&amp;rsquo;influence des émotions sur le sentiment d&amp;rsquo;incarnation en réalité virtuelle, les chercheurs de Strasbourg ont initié une collaboration avec l&amp;rsquo;équipe Hybrid de l&amp;rsquo;INRIA Rennes. Cette mission a impliqué Flavien Lécuyer, jeune maître de conférences, et Benjamin Freeling, doctorant, dans le but de définir les contours d&amp;rsquo;une étude conjointe.&lt;/p>
+&lt;p>Pendant leur visite à Rennes, les chercheurs ont rencontré Ferran Argelaguet et discuté des recherches complémentaires menées au laboratoire IRISA/Inria Rennes. Ensemble, ils ont exploré les facteurs permettant l&amp;rsquo;incarnation des avatars virtuels et ont envisagé des solutions innovantes pour améliorer les simulations de réalité virtuelle. Cette collaboration vise à comparer le sentiment d&amp;rsquo;incarnation dans des contextes applicatifs similaires, en utilisant des casques de réalité virtuelle standard et un environnement de type CAVE, tel que celui de la plateforme Immersia.&lt;/p>
+&lt;p>Les discussions ont mis en lumière le potentiel de l&amp;rsquo;analyse en temps réel de l&amp;rsquo;implication émotionnelle des utilisateurs, offrant ainsi de nouvelles perspectives pour évaluer l&amp;rsquo;incarnation virtuelle. Cette approche pourrait surmonter les limites des questionnaires post-expérience actuellement utilisés pour mesurer l&amp;rsquo;incarnation virtuelle.&lt;/p>
+&lt;h3 id="clément-poull---lib-dijon--xlim-poitiers---décembre-2023">Clément Poull - LIB (Dijon) / XLIM (Poitiers) - Décembre 2023&lt;/h3>
+&lt;figure id="figure-rendu-de-sphères-en-verre-gravé-globe-en-métal-milieu-et-en-verre-droite-scintillants-walter-b-marschner-sr-li-h-torrance-ke-microfacet-models-for-refraction-through-rough-surfaces-egsr-2007-pp-195206-and-chermain-x-sauvage-b-dischler-j-m-dachsbacher-c-importance-sampling-of-glittering-bsdfs-based-on-finite-mixture-distributions-egsr-2021">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Rendu de sphères en verre gravé (globe), en métal (milieu) et en verre (droite) scintillants. *Walter B., Marschner S.R., Li H., Torrance K.E.: Microfacet models for refraction through rough surfaces (EGSR 2007, pp. 195–206)* and *Chermain X., Sauvage B., Dischler J.-M., Dachsbacher C.: Importance sampling of glittering BSDFs based on finite mixture distributions. (EGSR 2021)*" srcset="
+/post/24-06-24-retours-mobilites/clement1_huf9a5e1308a8a8fed9144796e965c919d_558143_ecb363e3142dccb22a28a87b11a7e340.webp 400w,
+/post/24-06-24-retours-mobilites/clement1_huf9a5e1308a8a8fed9144796e965c919d_558143_b11df375001e27658177c2bc6fa599ed.webp 760w,
+/post/24-06-24-retours-mobilites/clement1_huf9a5e1308a8a8fed9144796e965c919d_558143_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/24-06-24-retours-mobilites/clement1_huf9a5e1308a8a8fed9144796e965c919d_558143_ecb363e3142dccb22a28a87b11a7e340.webp"
+width="760"
+height="259"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Rendu de sphères en verre gravé (globe), en métal (milieu) et en verre (droite) scintillants. &lt;br>&lt;em>Walter B., Marschner S.R., Li H., Torrance K.E.: Microfacet models for refraction through rough surfaces (EGSR 2007, pp. 195–206)&lt;/em> and &lt;em>Chermain X., Sauvage B., Dischler J.-M., Dachsbacher C.: Importance sampling of glittering BSDFs based on finite mixture distributions. (EGSR 2021)&lt;/em>
+&lt;/figcaption>&lt;/figure>
+&lt;p>Clément Poull, doctorant au sein de l&amp;rsquo;équipe Modélisation Géométrique (MG) du Laboratoire d&amp;rsquo;Informatique de Bourgogne (LIB), a effectué une mobilité d&amp;rsquo;une semaine en décembre 2023 à l&amp;rsquo;équipe Informatique Graphique (IG) du laboratoire XLIM à Poitiers. Cette mobilité s&amp;rsquo;inscrit dans le cadre du projet ANR JCJC FRACLETTES, dont l&amp;rsquo;objectif est la représentation, l&amp;rsquo;analyse et la caractérisation de surfaces rugueuses pour la simulation numérique.&lt;/p>
+&lt;p>Les objectifs de cette mobilité étaient de formaliser les discussions entre les équipes MG et IG sur l&amp;rsquo;utilisation de modèles fractals pour la simulation d&amp;rsquo;éclairage et de préparer un travail de fond sur le contrôle de la distribution des normales aux microfacettes pour la plausibilité physique des calculs de simulation d’éclairage.&lt;/p>
+&lt;p>Clément Poull travaille sur la définition d&amp;rsquo;un modèle mathématique fractal déterministe pour le contrôle géométrique de la rugosité. L&amp;rsquo;équipe IG du XLIM s&amp;rsquo;intéresse à la représentation, la synthèse et l&amp;rsquo;animation de structures géométriques complexes, ainsi qu&amp;rsquo;à la gestion de leur apparence en simulation d’éclairage. Les modèles fractals développés par Clément Poull pourraient être utilisés pour contrôler la distribution des normales aux microfacettes, améliorant ainsi le réalisme des simulations d&amp;rsquo;éclairage.&lt;/p>
+&lt;h3 id="julien-mendes-forte---greyc-caen--ligm-champs-sur-marne---20-24-novembre-2023">Julien Mendes Forte - GREYC (Caen) / LIGM (Champs-sur-Marne) - 20-24 novembre 2023&lt;/h3>
+&lt;figure id="figure-analyse-topologique-dune-image-f-et-ses-ensembles-de-seuils-où-les-arbres-des-formes-et-les-arbres-topologiques-des-formes-représentent-les-relations-dinclusion-et-dimbrication-des-composantes-connexes-des-seuils-de-f">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Analyse topologique d&amp;#39;une image F et ses ensembles de seuils, où les arbres des formes et les arbres topologiques des formes représentent les relations d&amp;#39;inclusion et d&amp;#39;imbrication des composantes connexes des seuils de F" srcset="
+/post/24-06-24-retours-mobilites/julien1_hua2bb820b2a25709951d08af30cb1c715_61928_209c210ea143c9c671a354abf859b106.webp 400w,
+/post/24-06-24-retours-mobilites/julien1_hua2bb820b2a25709951d08af30cb1c715_61928_e2bf4ab7e5d0b11b90410022b20d33e3.webp 760w,
+/post/24-06-24-retours-mobilites/julien1_hua2bb820b2a25709951d08af30cb1c715_61928_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/24-06-24-retours-mobilites/julien1_hua2bb820b2a25709951d08af30cb1c715_61928_209c210ea143c9c671a354abf859b106.webp"
+width="760"
+height="393"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Analyse topologique d&amp;rsquo;une image F et ses ensembles de seuils, où les arbres des formes et les arbres topologiques des formes représentent les relations d&amp;rsquo;inclusion et d&amp;rsquo;imbrication des composantes connexes des seuils de F
+&lt;/figcaption>&lt;/figure>
+&lt;p>Julien Mendes Forte, doctorant au sein de l&amp;rsquo;équipe Image du laboratoire GREYC à Caen, a effectué une mobilité au Laboratoire d’Informatique Gaspard Monge (LIGM) à Champs-sur-Marne du 20 au 24 novembre 2023. Il a été accueilli par l&amp;rsquo;équipe A3SI pour travailler sur le sujet de l&amp;rsquo;Arbre Topologique des Formes (ATdF).&lt;/p>
+&lt;p>Les objectifs de cette mobilité étaient de discuter avec Benjamin Perret, développeur de la bibliothèque Higra, de l&amp;rsquo;intégration de l&amp;rsquo;ATdF dans la bibliothèque et d&amp;rsquo;explorer l&amp;rsquo;utilisation de l&amp;rsquo;ATdF comme moyen de guider l&amp;rsquo;apprentissage des réseaux de neurones grâce à la définition d’une fonction de perte basée sur la structure.&lt;/p>
+&lt;p>Julien Mendes Forte travaille sur l&amp;rsquo;analyse structurelle d&amp;rsquo;images pour l&amp;rsquo;extraction et la mesure de l&amp;rsquo;information topologique. Il a notamment développé un nouveau descripteur topologique d&amp;rsquo;images basé sur l&amp;rsquo;ATdF. L&amp;rsquo;intégration de l&amp;rsquo;ATdF dans la bibliothèque Higra permettrait de diffuser cet outil et de faciliter son utilisation. L&amp;rsquo;utilisation de l&amp;rsquo;ATdF pour guider l&amp;rsquo;apprentissage des réseaux de neurones est une piste prometteuse pour améliorer la précision des segmentations d&amp;rsquo;images.&lt;/p></description></item><item><title>Des contributions françaises à SIGGRAPH 2023</title><link>https://gdr-igrv.fr/post/23-07-31-siggraph2023/</link><pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/post/23-07-31-siggraph2023/</guid><description>&lt;p>N&amp;rsquo;hésitez pas à nous signaler tout oubli.&lt;/p>
+&lt;details class="toc-inpage d-print-none " open>
+&lt;summary class="font-weight-bold">Table des matières&lt;/summary>
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#building-a-virtual-weakly-compressible-wind-tunnel-testing-facility">Building a Virtual Weakly-compressible Wind Tunnel Testing Facility&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#patternshop-editing-point-patterns-by-image-manipulation">Patternshop: Editing Point Patterns by Image Manipulation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#a-sparse-non-parametric-brdf-model">A Sparse Non-parametric BRDF Model&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#videodoodles-hand-drawn-animations-on-videos-with-scene-aware-canvases">VideoDoodles: Hand-drawn Animations on Videos With Scene-aware Canvases&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#large-scale-terrain-authoring-through-interactive-erosion-simulation">Large-scale Terrain Authoring Through Interactive Erosion Simulation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#forming-terrains-by-glacial-erosion">Forming Terrains by Glacial Erosion&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#contesse-accurate-occluding-contours-for-subdivision-surfaces">ConTesse: Accurate Occluding Contours for Subdivision Surfaces&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#polynomial-2d-green-coordinates-for-polygonal-cages">Polynomial 2D Green Coordinates for Polygonal Cages&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#orientable-dense-cyclic-infill-for-anisotropic-appearance-fabrication">Orientable Dense Cyclic Infill for Anisotropic Appearance Fabrication&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#complex-wrinkle-field-evolution">Complex Wrinkle Field Evolution&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#coupling-conduction-convection-and-radiative-transfer-in-a-single-path-space-application-to-infrared-rendering">Coupling Conduction, Convection and Radiative Transfer in a Single Path-Space: Application to Infrared Rendering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#textured-mesh-quality-assessment-large-scale-dataset-and-deep-learning-based-quality-metric">Textured Mesh Quality Assessment: Large-scale Dataset and Deep Learning-based Quality Metric&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#variational-shape-reconstruction-via-quadric-error-metrics">Variational Shape Reconstruction via Quadric Error Metrics&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#somigliana-coordinates-an-elasticity-derived-approach-for-cage-deformation">Somigliana Coordinates: An Elasticity-derived Approach for Cage Deformation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#constraint-based-simulation-of-passive-suction-cups">Constraint-based Simulation of Passive Suction Cups&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#mesogen-designing-procedural-on-surface-stranded-mesostructures">MesoGen: Designing Procedural On-surface Stranded Mesostructures&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#fluid-solid-coupling-in-kinetic-two-phase-flow-simulation">Fluid-solid Coupling in Kinetic Two-phase Flow Simulation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#greil-crowds-crowd-simulation-with-deep-reinforcement-learning-and-examples">GREIL-Crowds: Crowd Simulation With Deep Reinforcement Learning and Examples&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#3d-gaussian-splatting-for-real-time-radiance-field-rendering">3D Gaussian Splatting for Real-Time Radiance Field Rendering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#pcbend-light-up-your-3d-shapes-with-foldable-circuit-boards">PCBend: Light Up Your 3D Shapes With Foldable Circuit Boards&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#fast-gpu-based-two-way-continuous-collision-handling">Fast GPU-based Two-way Continuous Collision Handling&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;/details>
+&lt;h2 id="building-a-virtual-weakly-compressible-wind-tunnel-testing-facility">Building a Virtual Weakly-compressible Wind Tunnel Testing Facility&lt;/h2>
+&lt;p>&lt;em>Chaoyang Lyu (ShanghaiTech University / SIMIT / UCAS), Kai Bai (ShanghaiTech University / AEROCAE Digital Ltd.), Yiheng Wu (ShanghaiTech University), Mathieu Desbrun (Inria and Ecole Polytechnique), Changxi Zheng (Tencent Pixel Lab and Columbia University), Xiaopei Liu (ShanghaiTech University)&lt;/em>&lt;/p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-07-31-siggraph2023/windTunnel2023_hu2d9686d9240c9a987dd2062745f588e6_62179_8fff236cd3acb2de842d10cbcb75af86.webp 400w,
+/post/23-07-31-siggraph2023/windTunnel2023_hu2d9686d9240c9a987dd2062745f588e6_62179_65ae865b18131d2f96d1cd959b0983d4.webp 760w,
+/post/23-07-31-siggraph2023/windTunnel2023_hu2d9686d9240c9a987dd2062745f588e6_62179_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/windTunnel2023_hu2d9686d9240c9a987dd2062745f588e6_62179_8fff236cd3acb2de842d10cbcb75af86.webp"
+width="313"
+height="195"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>Virtual wind tunnel testing is a key ingredient in the engineering design process for the automotive and aeronautical industries as well as for urban planning: through visualization and analysis of the simulation data, it helps optimize lift and drag coefficients, increase peak speed, detect high pressure zones, and reduce wind noise at low cost prior to manufacturing. In this paper, we develop an efficient and accurate virtual wind tunnel system based on recent contributions from both computer graphics and computational fluid dynamics in high-performance kinetic solvers. Running on one or multiple GPUs, our massively-parallel lattice Boltzmann model meets industry standards for accuracy and consistency while exceeding current mainstream industrial solutions in terms of efficiency Ð especially for unsteady turbulent flow simulation at very high Reynolds number (on the order of 10^7) &amp;ndash; due to key contributions in improved collision modeling and boundary treatment, automatic construction of multiresolution grids for complex models, as well as performance optimization. We demonstrate the efficacy and reliability of our virtual wind tunnel testing facility through comparisons of our results to multiple benchmark tests, showing an increase in both accuracy and efficiency compared to state-of-the-art industrial solutions. We also illustrate the fine turbulence structures that our system can capture, indicating the relevance of our solver for both VFX and industrial product design.&lt;/p>
+&lt;video controls >
+&lt;source src="http://www.geometry.caltech.edu/Movies/LBWD&amp;#43;23.mp4" type="video/mp4">
+&lt;/video>
+&lt;h2 id="patternshop-editing-point-patterns-by-image-manipulation">Patternshop: Editing Point Patterns by Image Manipulation&lt;/h2>
+&lt;p>&lt;em>Xingchang Huang (Max Planck Institute for Informatics), Tobias Ritschel (University College London), Hans-Peter Seidel (Max Planck Institute for Informatics), Pooran Memari (LIX-Inria), Gurprit Singh (Max Planck Institute for Informatics)&lt;/em>&lt;/p>
+&lt;figure id="figure-our-framework-facilitate-point-pattern-design-by-representing-both-density-and-correlation-as-a-three-channel-raster-image-a-these-images-can-be-edited-c-in-terms-of-their-density-or-correlation-using-off-the-shelf-image-manipulation-software-the-resulting-point-patterns-are-shown-before-b-and-after-the-edits-d-please-see-the-accompanied-supplemental-material-for-vector-graphic-images">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Our framework facilitate point pattern design by representing both density and correlation as a three-channel raster image (a). These images can be edited (c) in terms of their density or correlation using off-the-shelf image manipulation software. The resulting point patterns are shown before (b) and after the edits (d). Please see the accompanied supplemental material for vector graphic images." srcset="
+/post/23-07-31-siggraph2023/Huang2023_hub913d5f797897cd9e2b8611f3f4630bc_441127_e6f2b232f3683b0f9b166032b45a887b.webp 400w,
+/post/23-07-31-siggraph2023/Huang2023_hub913d5f797897cd9e2b8611f3f4630bc_441127_19bb6c8269387816e94a57c4a55291f0.webp 760w,
+/post/23-07-31-siggraph2023/Huang2023_hub913d5f797897cd9e2b8611f3f4630bc_441127_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Huang2023_hub913d5f797897cd9e2b8611f3f4630bc_441127_e6f2b232f3683b0f9b166032b45a887b.webp"
+width="760"
+height="207"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Our framework facilitate point pattern design by representing both density and correlation as a three-channel raster image (a). These images can be edited (c) in terms of their density or correlation using off-the-shelf image manipulation software. The resulting point patterns are shown before (b) and after the edits (d). Please see the accompanied supplemental material for vector graphic images.
+&lt;/figcaption>&lt;/figure>
+&lt;p>Point patterns are characterized by their density and correlation. While spatial variation of density is well-understood, analysis and synthesis of spatially-varying correlation is an open challenge. No tools are available to intuitively edit such point patterns, primarily due to the lack of a compact representation for spatially varying correlation. We propose a low-dimensional perceptual embedding for point correlations. This embedding can map point patterns to common three-channel raster images, enabling manipulation with off-the-shelf image editing software. To synthesize back point patterns, we propose a novel edge-aware objective that carefully handles sharp variations in density and correlation. The resulting framework allows intuitive and backward-compatible manipulation of point patterns, such as recoloring, relighting to even texture synthesis that have not been available to 2D point pattern design before. Effectiveness of our approach is tested in several user experiments. Code is available at &lt;a href="https://github.com/xchhuang/patternshop" target="_blank" rel="noopener">https://github.com/xchhuang/patternshop&lt;/a>.&lt;/p>
+&lt;p>&lt;a href="https://xchhuang.github.io/patternshop/" target="_blank" rel="noopener">&lt;em>Page projet&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="a-sparse-non-parametric-brdf-model">A Sparse Non-parametric BRDF Model&lt;/h2>
+&lt;p>&lt;em>Tanaboon Tongbuasirilai, Jonas Unger (Linkoping University), Christine Guillemot (INRIA), Ehsan Miandji (Linkoping University)&lt;/em>&lt;/p>
+&lt;figure id="figure-an-overview-of-the-proposed-framework-for-learning-accurate-representations-and-sparse-data-driven-brdf-models-through-analysis-of-the-space-of-brdfs-the-brdf-dictionary-ensemble-is-trained-once-and-can-accurately-represent-a-wide-range-of-previously-unseen-materials">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="An overview of the proposed framework for learning accurate representations and sparse data-driven BRDF models through analysis of the space of BRDFs. The BRDF dictionary ensemble is trained once and can accurately represent a wide range of previously unseen materials." srcset="
+/post/23-07-31-siggraph2023/Tongbuasirilai2023_hua36147e27d19343525cc8ffe3f476577_106446_dcd635af33beb48d29efc6cca2115be8.webp 400w,
+/post/23-07-31-siggraph2023/Tongbuasirilai2023_hua36147e27d19343525cc8ffe3f476577_106446_a7a2990d988acf85350ef90e89ad92f3.webp 760w,
+/post/23-07-31-siggraph2023/Tongbuasirilai2023_hua36147e27d19343525cc8ffe3f476577_106446_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Tongbuasirilai2023_hua36147e27d19343525cc8ffe3f476577_106446_dcd635af33beb48d29efc6cca2115be8.webp"
+width="760"
+height="200"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+An overview of the proposed framework for learning accurate representations and sparse data-driven BRDF models through analysis of the space of BRDFs. The BRDF dictionary ensemble is trained once and can accurately represent a wide range of previously unseen materials.
+&lt;/figcaption>&lt;/figure>
+&lt;p>This paper presents a novel sparse non-parametric BRDF model derived using a machine learning approach to represent the space of possible BRDFs using a set of multidimensional sub-spaces, or dictionaries. By training the dictionaries under a sparsity constraint, the model guarantees high quality representations with minimal storage requirements and an inherent clustering of the BDRF-space. The model can be trained once and then reused to represent a wide variety of measured BRDFs. Moreover, the proposed method is flexible to incorporate new unobserved data sets, parameterizations, and transformations. In addition, we show that any two, or more, BRDFs can be smoothly interpolated in the coefficient space of the model rather than the significantly higher-dimensional BRDF space. The proposed sparse BRDF model is evaluated using the MERL, DTU and RGL-EPFL BRDF databases. Experimental results show that the proposed approach results in about 9.75dB higher SNR on average for rendered images as compared to current state-of-the-art models.&lt;/p>
+&lt;p>&lt;a href="https://hal.science/hal-03654734/" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="videodoodles-hand-drawn-animations-on-videos-with-scene-aware-canvases">VideoDoodles: Hand-drawn Animations on Videos With Scene-aware Canvases&lt;/h2>
+&lt;p>&lt;em>Emilie Yu (Centre Inria d&amp;rsquo;Universite Cote d&amp;rsquo;Azur), Kevin Matzen, Cuong Nguyen, Oliver Wang, Rubaiat Habib Kazi (Adobe), Adrien Bousseau (Centre Inria d&amp;rsquo;Universite Cote d&amp;rsquo;Azur and TU Delft)&lt;/em>&lt;/p>
+&lt;figure id="figure-video-doodles-combine-hand-drawn-animations-with-video-footage-our-interactive-system-eases-the-creation-of-this-mixed-media-art-by-letting-users-place-planar-canvases-in-the-scene-which-are-then-tracked-in-3d-in-this-example-the-inserted-rainbow-bridge-exhibits-correct-perspective-and-occlusions-and-the-characters-face-and-arms-follow-the-tram-as-it-runs-towards-the-camera">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Video doodles combine hand-drawn animations with video footage. Our interactive system eases the creation of this mixed media art by letting users place planar canvases in the scene which are then tracked in 3D. In this example, the inserted rainbow bridge exhibits correct perspective and occlusions, and the character’s face and arms follow the tram as it runs towards the camera." srcset="
+/post/23-07-31-siggraph2023/Yu2023_hue8dae0495c45bedbccd3c7a8dc80448c_1188849_505a82327c9e5f44bedcd333f1ca82b4.webp 400w,
+/post/23-07-31-siggraph2023/Yu2023_hue8dae0495c45bedbccd3c7a8dc80448c_1188849_28cbdf70130e3e95c8f68f7c7da0a145.webp 760w,
+/post/23-07-31-siggraph2023/Yu2023_hue8dae0495c45bedbccd3c7a8dc80448c_1188849_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Yu2023_hue8dae0495c45bedbccd3c7a8dc80448c_1188849_505a82327c9e5f44bedcd333f1ca82b4.webp"
+width="760"
+height="141"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Video doodles combine hand-drawn animations with video footage. Our interactive system eases the creation of this mixed media art by letting users place planar canvases in the scene which are then tracked in 3D. In this example, the inserted rainbow bridge exhibits correct perspective and occlusions, and the character’s face and arms follow the tram as it runs towards the camera.
+&lt;/figcaption>&lt;/figure>
+&lt;p>We present an interactive system to ease the creation of so-called video doodles – videos on which artists insert hand-drawn animations for entertainment or educational purposes. Video doodles are challenging to create because to be convincing, the inserted drawings must appear as if they were part of the captured scene. In particular, the drawings should undergo tracking, perspective deformations and occlusions as they move with respect to the camera and to other objects in the scene – visual effects that are difficult to reproduce with existing 2D video editing software. Our system supports these effects by relying on planar canvases that users position in a 3D scene reconstructed from the video. Furthermore, we present a custom tracking algorithm that allows users to anchor canvases to static or dynamic objects in the scene, such that the canvases move and rotate to follow the position and direction of these objects. When testing our system, novices could create a variety of short animated clips in a dozen of minutes, while professionals praised its speed and ease of use compared to existing tools.&lt;/p>
+&lt;video controls >
+&lt;source src="https://em-yu.github.io/media/figures/VideoDoodles/RESULTS_ours.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>&lt;a href="https://em-yu.github.io/research/videodoodles/" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="large-scale-terrain-authoring-through-interactive-erosion-simulation">Large-scale Terrain Authoring Through Interactive Erosion Simulation&lt;/h2>
+&lt;p>&lt;em>Hugo Schott, Axel Paris, Lucie Fournier, Eric Guerin, Eric Galin (Univ Lyon / INSA Lyon / CNRS / UCBL / LIRIS / UMR5205)&lt;/em>&lt;/p>
+&lt;figure id="figure-given-an-input-uplift-field-we-automatically-generate-the-large-scale-terrain-elevation-by-simulating-stream-power-erosion-using-a-parallel-drainage-area-algorithm-inlined-in-the-simulation-the-user-may-define-the-uplift-field-providing-ridge-and-river-networks-or-using-inverse-procedural-modeling-by-computing-the-uplift-from-an-input-digital-elevation-model">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Given an input uplift field, we automatically generate the large-scale terrain elevation by simulating stream power erosion using a parallel drainage area algorithm inlined in the simulation. The user may define the uplift field, providing ridge and river networks, or using inverse procedural modeling by computing the uplift from an input digital elevation model." srcset="
+/post/23-07-31-siggraph2023/Schott2023_hu42c68a5fabc66b4348f4f85244181c2e_387504_b89d7b0a5cd66d972f088d7668fbf4b6.webp 400w,
+/post/23-07-31-siggraph2023/Schott2023_hu42c68a5fabc66b4348f4f85244181c2e_387504_adee5beb6d3ae8da36b781d57687d5c6.webp 760w,
+/post/23-07-31-siggraph2023/Schott2023_hu42c68a5fabc66b4348f4f85244181c2e_387504_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Schott2023_hu42c68a5fabc66b4348f4f85244181c2e_387504_b89d7b0a5cd66d972f088d7668fbf4b6.webp"
+width="760"
+height="151"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Given an input uplift field, we automatically generate the large-scale terrain elevation by simulating stream power erosion using a parallel drainage area algorithm inlined in the simulation. The user may define the uplift field, providing ridge and river networks, or using inverse procedural modeling by computing the uplift from an input digital elevation model.
+&lt;/figcaption>&lt;/figure>
+&lt;p>Large-scale terrains are essential in the definition of virtual worlds. Given the diversity of landforms and the geomorphological complexity, there is a need for authoring techniques offering hydrological consistency without sacrificing user control. In this paper, we bridge the gap between large-scale erosion simulation and authoring into an efficient framework. We set aside modeling in the elevation domain in favour of the uplift domain, and compute emerging reliefs by simulating the stream power erosion. Our simulation relies on a fast yet accurate approximation of drainage area and flow routing to compute the erosion interactively, which allows for incremental authoring. Our model provides landscape artists with tools for shaping mountain ranges and valleys, such as copy-and-paste operations; warping for imitating folds and faults; point and curve elevation constraints to precisely sculpt ridges or carve river networks. It also lends itself to inverse procedural modeling by reconstructing the uplift from an input digital elevation model and allows hydrologically consistent blending between terrain patches.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/gCP7jzcPLyQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;a href="https://hal.archives-ouvertes.fr/hal-04049125/" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="forming-terrains-by-glacial-erosion">Forming Terrains by Glacial Erosion&lt;/h2>
+&lt;p>&lt;em>Guillaume Cordonnier (Inria and Universite Cote d&amp;rsquo;Azur), Guillaume Jouvet (University of Lausanne), Adrien Peytavie (Univ Lyon / INSA Lyon / CNRS / UCBL / LIRIS / UMR5205), Jean Braun (Helmholtz Centre Potsdam and University of Potsdam), Marie-Paule Cani (Ecole Polytechnique), Bedrich Benes (Purdue University), Eric Galin, Eric Guerin (Univ Lyon / INSA Lyon / CNRS / UCBL / LIRIS / UMR5205), James Gain (University of Cape Town)&lt;/em>&lt;/p>
+&lt;figure id="figure-a-landscape-carved-by-our-simulated-glacier-specific-landforms-are-1-u-shaped-valleys-2-hanging-valleys-3-a-glacial-cirque-overhung-by-arêtes-and-horns-4-a-pass-and-5-highaltitude-lakes">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="A landscape carved by our simulated glacier. Specific landforms are (1) U-shaped valleys, (2) hanging valleys, (3) a glacial cirque overhung by arêtes and horns, (4) a pass, and (5) high–altitude lakes." srcset="
+/post/23-07-31-siggraph2023/Cordonnier2023_hu0e9c5b3ce4c6577c3de3b8d979210db0_152763_1780becfd13c6b355004cd47d9e08edb.webp 400w,
+/post/23-07-31-siggraph2023/Cordonnier2023_hu0e9c5b3ce4c6577c3de3b8d979210db0_152763_0dffbd41210d5e45a516ebc6706fb8c8.webp 760w,
+/post/23-07-31-siggraph2023/Cordonnier2023_hu0e9c5b3ce4c6577c3de3b8d979210db0_152763_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Cordonnier2023_hu0e9c5b3ce4c6577c3de3b8d979210db0_152763_1780becfd13c6b355004cd47d9e08edb.webp"
+width="412"
+height="314"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+A landscape carved by our simulated glacier. Specific landforms are (1) U-shaped valleys, (2) hanging valleys, (3) a glacial cirque overhung by arêtes and horns, (4) a pass, and (5) high–altitude lakes.
+&lt;/figcaption>&lt;/figure>
+&lt;p>We introduce the first solution for simulating the formation and evolution of glaciers, together with their attendant erosive effects, for periods covering the combination of glacial and inter-glacial cycles. Our efficient solution includes both a fast yet accurate deep learning-based estimation of high-order ice flows and a new, multi-scale advection scheme enabling us to account for the distinct time scales at which glaciers reach equilibrium compared to eroding the terrain. We combine the resulting glacial erosion model with finer-scale erosive phenomena to account for the transport of debris flowing from cliffs. This enables us to model the formation of terrain shapes not previously adequately modeled in Computer Graphics, ranging from U-shaped and hanging valleys to fjords and glacial lakes.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/xfk_J4VhdWA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;a href="https://hal.archives-ouvertes.fr/hal-04090644/" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="contesse-accurate-occluding-contours-for-subdivision-surfaces">ConTesse: Accurate Occluding Contours for Subdivision Surfaces&lt;/h2>
+&lt;p>&lt;em>Chenxi Liu (University of British Columbia), Pierre Benard (University of Bordeaux / CNRS / Bordeaux INP / INRIA / LaBRI), Aaron Hertzmann (Adobe Research), Shayan Hoshyari (Adobe)&lt;/em>&lt;/p>
+&lt;figure id="figure-given-a-a-smooth-3d-surface-and-a-camera-viewpoint-our-method-produces-b-a-triangle-mesh-where-the-occluding-contour-of-the-mesh-accurately-approximates-the-occluding-contour-of-the-smooth-surface-standard-algorithms-may-then-be-used-to-extract-c-the-view-map-of-occluding-contours-and-to-d-stylize-them-fertility-courtesy-uu-from-aimshape-visionair-shape-repository">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Given (a) a smooth 3D surface and a camera viewpoint, our method produces (b) a triangle mesh where the occluding contour of the mesh accurately approximates the occluding contour of the smooth surface. Standard algorithms may then be used to extract (c) the view map of occluding contours, and to (d) stylize them. (Fertility courtesy UU from AIM@SHAPE-VISIONAIR Shape Repository). " srcset="
+/post/23-07-31-siggraph2023/Liu2023_hu8cd5e87749f2520bba733f76166d2fcb_237901_ff05ff1039096b189a946f19311ebc07.webp 400w,
+/post/23-07-31-siggraph2023/Liu2023_hu8cd5e87749f2520bba733f76166d2fcb_237901_8765f93cb0a8c9ca08cf8757545148fd.webp 760w,
+/post/23-07-31-siggraph2023/Liu2023_hu8cd5e87749f2520bba733f76166d2fcb_237901_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Liu2023_hu8cd5e87749f2520bba733f76166d2fcb_237901_ff05ff1039096b189a946f19311ebc07.webp"
+width="760"
+height="183"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Given (a) a smooth 3D surface and a camera viewpoint, our method produces (b) a triangle mesh where the occluding contour of the mesh accurately approximates the occluding contour of the smooth surface. Standard algorithms may then be used to extract (c) the view map of occluding contours, and to (d) stylize them. (Fertility courtesy UU from AIM@SHAPE-VISIONAIR Shape Repository).
+&lt;/figcaption>&lt;/figure>
+&lt;p>This paper proposes a method for computing the visible occluding contours of subdivision surfaces. The paper first introduces new theory for contour visibility of smooth surfaces. Necessary and sufficient conditions are introduced for when a sampled occluding contour is valid, that is, when it may be assigned consistent visibility. Previous methods do not guarantee these conditions, which helps explain why smooth contour visibility has been such a challenging problem in the past. The paper then proposes an algorithm that, given a subdivision surface, finds sampled contours satisfying these conditions, and then generates a new triangle mesh matching the given occluding contours. The contours of the output triangle mesh may then be rendered with standard non-photorealistic rendering algorithms, using the mesh for visibility computation. The method can be applied to any triangle mesh, by treating it as the base mesh of a subdivision surface.&lt;/p>
+&lt;p>&lt;a href="https://dgp.toronto.edu/~hertzman/contesse/contesse_arxiv.pdf" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="polynomial-2d-green-coordinates-for-polygonal-cages">Polynomial 2D Green Coordinates for Polygonal Cages&lt;/h2>
+&lt;p>&lt;em>Elie Michel, Jean-Marc Thiery (Adobe Research)&lt;/em>&lt;/p>
+&lt;figure id="figure-top-row-a-input-image-and-an-embedding-polygonal-cage-b-d-deformations-obtained-using-mean-value-coordinates-cubic-mean-value-coordinates-and-green-coordinates-e-our-conformal-deformations-obtained-with-cubic-curves-bottom-row-more-resuls-of-our-approach-using-polynomial-curves-of-various-orders-from-1-to-7">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Top row: (a) input image and an embedding polygonal cage; (b-d) deformations obtained using Mean-Value coordinates, Cubic Mean-Value coordinates, and Green coordinates; (e) our conformal deformations obtained with cubic curves. Bottom row: more resuls of our approach, using polynomial curves of various orders (from 1 to 7)." srcset="
+/post/23-07-31-siggraph2023/Michel2023_huc959bab4be803eed9e21ba0ee506a8ec_189161_ef86e0c3f951e6738d9ef7afb90eea9d.webp 400w,
+/post/23-07-31-siggraph2023/Michel2023_huc959bab4be803eed9e21ba0ee506a8ec_189161_4919a178f9e4a2d872e6b45012955a26.webp 760w,
+/post/23-07-31-siggraph2023/Michel2023_huc959bab4be803eed9e21ba0ee506a8ec_189161_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Michel2023_huc959bab4be803eed9e21ba0ee506a8ec_189161_ef86e0c3f951e6738d9ef7afb90eea9d.webp"
+width="760"
+height="288"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Top row: (a) input image and an embedding polygonal cage; (b-d) deformations obtained using Mean-Value coordinates, Cubic Mean-Value coordinates, and Green coordinates; (e) our conformal deformations obtained with cubic curves. Bottom row: more resuls of our approach, using polynomial curves of various orders (from 1 to 7).
+&lt;/figcaption>&lt;/figure>
+&lt;p>Cage coordinates are a powerful means to define 2D deformation fields from sparse control points. We introduce Conformal polynomial Coordinates for closed polyhedral cages, enabling segments to be transformed into polynomial curves of any order. Extending classical 2D Green coordinates, our coordinates result in conformal harmonic deformations that are cage-aware. We demonstrate the usefulness of our technique on a variety of 2D deformation scenarios where curves allow artists to perform intuitive deformations with few input parameters. Our method combines the texture preservation property of conformal deformations together with the expressiveness offered by Bezier controls.&lt;/p>
+&lt;p>&lt;a href="https://portfolio.exppad.com/documents/2023__Michel__PolynomialGreenCoords.pdf" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="orientable-dense-cyclic-infill-for-anisotropic-appearance-fabrication">Orientable Dense Cyclic Infill for Anisotropic Appearance Fabrication&lt;/h2>
+&lt;p>&lt;em>Xavier Chermain, Cedric Zanni, Jonas MartÃ­nez, Pierre-Alexandre Hugron, Sylvain Lefebvre (Universite de Lorraine / CNRS / Inria)&lt;/em>&lt;/p>
+&lt;figure id="figure-we-develop-an-efficient-algorithm-that-produces-an-orientable-dense-cyclic-infill-by-aligning-a-field-of-periodic-functions-contouring-it-to-obtain-cycles-and-connecting-all-cycles-into-one-we-leverage-this-algorithm-to-print-anisotropic-appearances-using-fused-filament-fabrication-left-the-shape-with-purple-boundaries-is-infilled-with-a-cycle-the-cycles-directions-have-four-modes-parallel-to-the-boundary-red-area-orthogonal-to-the-boundary-blue-area-smoothest-lines-yellow-area-and-constrained-lines-color-gradient-area-our-algorithm-is-very-flexible-allowing-directions-to-be-constrained-everywhere-areas-with-a-color-gradient-in-the-logo-or-only-within-the-vicinity-of-the-boundary-blue-red-and-yellow-areas-alignment-with-boundaries-can-also-be-constrained-as-in-this-example-the-grey-cycle-is-the-output-of-our-algorithm-curve-interspace-objective-25-mm-right-printed-cycle-with-interspace-set-to-04-mm-the-trajectorys-directions-determine-the-appearance-as-extruded-filaments-exhibit-anisotropic-roughness">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="We develop an efficient algorithm that produces an orientable dense cyclic infill by aligning a field of periodic functions, contouring it to obtain cycles, and connecting all cycles into one. We leverage this algorithm to print anisotropic appearances using fused filament fabrication. Left: the shape with purple boundaries is infilled with a cycle. The cycle’s directions have four modes: parallel to the boundary (red area), orthogonal to the boundary (blue area), smoothest lines (yellow area), and constrained lines (color gradient area). Our algorithm is very flexible, allowing directions to be constrained everywhere (areas with a color gradient in the logo) or only within the vicinity of the boundary (blue, red, and yellow areas). Alignment with boundaries can also be constrained, as in this example. The grey cycle is the output of our algorithm (curve interspace objective: 2.5 mm). Right: Printed cycle with interspace set to 0.4 mm. The trajectory’s directions determine the appearance, as extruded filaments exhibit anisotropic roughness." srcset="
+/post/23-07-31-siggraph2023/Chermain2023_hue373d50df52cd9152bf212acc56125b2_855072_4c0a4b50beb7eee86837a2bbf5954390.webp 400w,
+/post/23-07-31-siggraph2023/Chermain2023_hue373d50df52cd9152bf212acc56125b2_855072_8169254fd2858771158ad0bc89a78528.webp 760w,
+/post/23-07-31-siggraph2023/Chermain2023_hue373d50df52cd9152bf212acc56125b2_855072_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Chermain2023_hue373d50df52cd9152bf212acc56125b2_855072_4c0a4b50beb7eee86837a2bbf5954390.webp"
+width="760"
+height="208"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+We develop an efficient algorithm that produces an orientable dense cyclic infill by aligning a field of periodic functions, contouring it to obtain cycles, and connecting all cycles into one. We leverage this algorithm to print anisotropic appearances using fused filament fabrication. Left: the shape with purple boundaries is infilled with a cycle. The cycle’s directions have four modes: parallel to the boundary (red area), orthogonal to the boundary (blue area), smoothest lines (yellow area), and constrained lines (color gradient area). Our algorithm is very flexible, allowing directions to be constrained everywhere (areas with a color gradient in the logo) or only within the vicinity of the boundary (blue, red, and yellow areas). Alignment with boundaries can also be constrained, as in this example. The grey cycle is the output of our algorithm (curve interspace objective: 2.5 mm). Right: Printed cycle with interspace set to 0.4 mm. The trajectory’s directions determine the appearance, as extruded filaments exhibit anisotropic roughness.
+&lt;/figcaption>&lt;/figure>
+&lt;p>We present a method to 3D print surfaces exhibiting a prescribed varying field of anisotropic appearance using only standard fused filament fabrication printers. This enables the fabrication of patterns triggering reflections similar to that of brushed metal with direct control over the directionality of the reflections. Our key insight, on which we ground the method, is that the direction of the deposition paths leads to a certain degree of surface roughness, which yields a visual anisotropic appearance. Therefore, generating dense cyclic infills aligned with a line field allows us to grade the anisotropic appearance of the printed surface. To achieve this, we introduce a highly parallelizable algorithm for optimizing oriented, cyclic paths. Our algorithm outperforms existing approaches regarding efficiency, robustness, and result quality. We demonstrate the effectiveness of our technique in conveying an anisotropic appearance on several challenging test cases, ranging from patterns to photographs reinterpreted as anisotropic appearances.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/aUDzZrlRnNU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;a href="https://xavierchermain.github.io/data/pdf/Chermain2023Orientable.pdf" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="complex-wrinkle-field-evolution">Complex Wrinkle Field Evolution&lt;/h2>
+&lt;p>&lt;em>Zhen Chen (The University of Texas at Austin), Danny Kaufman (Adobe Research), Melina Skouras (Univ. Grenoble Alpes / Inria / CNRS), Etienne Vouga (The University of Texas at Austin)&lt;/em>&lt;/p>
+&lt;figure id="figure-we-propose-complex-wrinkle-fields-cwf-s-a-new-discrete-wrinkle-model-that-enables-the-resolution-of-highly-detailed-wrinkle-patterns-on-coarse-base-mesh-geometry-the-cwf-representation-consists-of-a-positive-number-a-per-vertex-encoding-the-wrinkle-amplitude-a-one-form-ω-per-edge-to-model-wrinkle-frequency-and-a-complex-number-z-per-vertex-to-represent-wrinkle-phase-coupled-via-a-weak-variational-consistency-condition-ensuring-that-z-can-capture-singularities-while-also-being-as-compatible-with-ω-as-possible--31-we-equip-the-cwf-representation-with-a-novel-temporal-interpolation-algorithm--4-and-a-spatial-upsampling-method--5-that-together-allow-for-smooth-interpolation-between-wrinkle-patterns-represented-on-surfaces-by-cwf-s-leftmost-and-rightmost-column-and-base-mesh-independent-rendering-of-arbitrarily-high-resolution-wrinkle-patterns-together-these-contributions-make-it-possible-to-smoothly-evolve-wrinkle-patterns-between-two-prescribed-keyframes-middle-columns-with-automatic-merging-splitting-and-reconnection-of-wrinkles-as-necessary-via-smooth-sliding-of-singularities-across-the-surface-zoomed-in-figures-in-middle-columns">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="We propose Complex Wrinkle Fields (CWF s), a new discrete wrinkle model that enables the resolution of highly detailed wrinkle patterns on coarse base-mesh geometry. The CWF representation consists of a positive number a per vertex encoding the wrinkle amplitude, a one-form ω per edge to model wrinkle frequency, and a complex number ˜z per vertex to represent wrinkle phase, coupled via a weak variational consistency condition ensuring that ˜z can capture singularities while also being as compatible with ω as possible (§ 3.1). We equip the CWF representation with a novel temporal interpolation algorithm (§ 4) and a spatial upsampling method (§ 5) that together allow for smooth interpolation between wrinkle patterns represented on surfaces by CWF s (leftmost and rightmost column), and base-mesh-independent rendering of arbitrarily high-resolution wrinkle patterns. Together these contributions make it possible to smoothly evolve wrinkle patterns between two prescribed keyframes (middle columns) with automatic merging, splitting, and reconnection of wrinkles as necessary via smooth sliding of singularities across the surface (zoomed-in figures in middle columns). " srcset="
+/post/23-07-31-siggraph2023/Chen2023_hu99dd2c25e008671c2d5a5f4a3f46a512_30874_8976b6c9414acc86a60084e3c1fd782c.webp 400w,
+/post/23-07-31-siggraph2023/Chen2023_hu99dd2c25e008671c2d5a5f4a3f46a512_30874_23dacdd406eebdb9fc5e9d5216779463.webp 760w,
+/post/23-07-31-siggraph2023/Chen2023_hu99dd2c25e008671c2d5a5f4a3f46a512_30874_1200x1200_fit_q75_h2_lanczos_2.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Chen2023_hu99dd2c25e008671c2d5a5f4a3f46a512_30874_8976b6c9414acc86a60084e3c1fd782c.webp"
+width="720"
+height="480"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+We propose Complex Wrinkle Fields (CWF s), a new discrete wrinkle model that enables the resolution of highly detailed wrinkle patterns on coarse base-mesh geometry. The CWF representation consists of a positive number a per vertex encoding the wrinkle amplitude, a one-form ω per edge to model wrinkle frequency, and a complex number ˜z per vertex to represent wrinkle phase, coupled via a weak variational consistency condition ensuring that ˜z can capture singularities while also being as compatible with ω as possible (§ 3.1). We equip the CWF representation with a novel temporal interpolation algorithm (§ 4) and a spatial upsampling method (§ 5) that together allow for smooth interpolation between wrinkle patterns represented on surfaces by CWF s (leftmost and rightmost column), and base-mesh-independent rendering of arbitrarily high-resolution wrinkle patterns. Together these contributions make it possible to smoothly evolve wrinkle patterns between two prescribed keyframes (middle columns) with automatic merging, splitting, and reconnection of wrinkles as necessary via smooth sliding of singularities across the surface (zoomed-in figures in middle columns).
+&lt;/figcaption>&lt;/figure>
+&lt;p>We propose a new approach for representing wrinkles, designed to capture complex and detailed wrinkle behavior on coarse triangle meshes, called Complex Wrinkle Fields. Complex Wrinkle Fields consist of an almost-everywhere-unit complex-valued phase function over the surface; a frequency one-form; and an amplitude scalar, with a soft compatibility condition coupling the frequency and phase. We develop algorithms for interpolating between two such wrinkle fields, for visualizing them as displacements of a Loop-subdivided refinement of the base mesh, and for making smooth local edits to the wrinkle amplitude, frequency, and/or orientation. These algorithms make it possible, for the first time, to create and edit animations of wrinkles on triangle meshes that are smooth in space, evolve smoothly through time, include singularities along with their complex interactions, and that represent frequencies far finer than the surface resolution.&lt;/p>
+&lt;p>&lt;a href="https://zhenchen-jay.github.io/uploads/CWF.pdf" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="coupling-conduction-convection-and-radiative-transfer-in-a-single-path-space-application-to-infrared-rendering">Coupling Conduction, Convection and Radiative Transfer in a Single Path-Space: Application to Infrared Rendering&lt;/h2>
+&lt;p>&lt;em>Megane Bati, Stephane Blanco (Univ. Toulouse), Christophe Coustet, Vincent Eymet, Vincent Forest (Meso-Star), Richard Fournier (Univ. Toulouse), Jacques Gautrais (Univ. Toulouse and CNRS), Nicolas Mellado, Mathias Paulin (Univ. Toulouse), Benjamin Piaud (Meso-Star)&lt;/em>&lt;/p>
+&lt;figure id="figure-we-propose-a-monte-carlo-approach-to-tackle-multiple-physics-with-a-single-algorithm-translating-their-coupling-into-a-single-path-space-composed-of-randomly-chained-sub-paths-for-each-physics-application-is-exemplified-with-heat-transfer-a-an-infrared-image-of-a-steady-state-thermal-exchanger-with-temperature-imposed-on-the-left-and-right-walls-b-monte-carlo-paths-alternate-between-heat-transfer-modes-here-conduction-and-radiation-c-a-huge-benefit-is-the-fast-production-of-transient-simulations-at-any-time-using-the-information-gathered-in-a-ie-from-only-one-monte-carlo-run-at-steady-state">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="We propose a Monte Carlo approach to tackle multiple physics with a single algorithm, translating their coupling into a single path-space composed of randomly chained sub-paths for each physics. Application is exemplified with heat transfer. (a) An infrared image of a steady state thermal exchanger, with temperature imposed on the left and right walls. (b) Monte Carlo paths alternate between heat-transfer modes (here conduction and radiation). (c) A huge benefit is the fast production of transient simulations, at any time, using the information gathered in (a), i.e. from only one Monte Carlo run at steady state. " srcset="
+/post/23-07-31-siggraph2023/Bati2023_hu84965310d0506e2d17a54baf42b38b68_243366_e08d4c4b6c16bacfcae2a09910b4af2e.webp 400w,
+/post/23-07-31-siggraph2023/Bati2023_hu84965310d0506e2d17a54baf42b38b68_243366_be96c724bf2390c9521759a5b504ac12.webp 760w,
+/post/23-07-31-siggraph2023/Bati2023_hu84965310d0506e2d17a54baf42b38b68_243366_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Bati2023_hu84965310d0506e2d17a54baf42b38b68_243366_e08d4c4b6c16bacfcae2a09910b4af2e.webp"
+width="760"
+height="211"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+We propose a Monte Carlo approach to tackle multiple physics with a single algorithm, translating their coupling into a single path-space composed of randomly chained sub-paths for each physics. Application is exemplified with heat transfer. (a) An infrared image of a steady state thermal exchanger, with temperature imposed on the left and right walls. (b) Monte Carlo paths alternate between heat-transfer modes (here conduction and radiation). (c) A huge benefit is the fast production of transient simulations, at any time, using the information gathered in (a), i.e. from only one Monte Carlo run at steady state.
+&lt;/figcaption>&lt;/figure>
+&lt;p>In the past decades, Monte Carlo methods have shown their ability to solve PDEs, independently of the dimensionality of the integration domain and for different use-cases (e.g. light transport, geometry processing, physics simulation). Specifically, the path-space formulation of transport equations is a key ingredient to define tractable and scalable solvers, and we observe nowadays a strong interest in the definition of simulation systems based on Monte Carlo algorithms. We also observe that, when simulating combined physics (e.g. thermal rendering from a heat transfer simulation), there is a lack of coupled Monte Carlo algorithms allowing to solve all the physics at once, in the same path space, rather than combining several independent MC estimators, a combination that would make the global solver critically sensitive to the complexity of each simulation space. This brings to our proposal: a coupled, single path-space, Monte Carlo algorithm for efficient multi-physics problems solving. In this work, we combine our understanding and knowledge of Physics and Computer Graphics to demonstrate how to formulate and arrange different simulation spaces into a single path space. We define a tractable formalism for coupled heat transfer simulation using Monte Carlo, and we leverage the path-space construction to interactively compute multiple simulations with different conditions in the same scene, in terms of boundary conditions and observation time. We validate our proposal in the context of infrared rendering with different thermal simulation scenarios: e.g., room temperature simulation, visualization of heat paths within materials (detection of thermal bridges), heat diffusion capacity of thermal exchanger. We expect that our theoretical framework will foster collaboration and multidisciplinary studies. The perspectives this framework opens are detailed and we suggest a research agenda towards the resolution of coupled PDEs at the interface of Physics and Computer Graphics.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/UIjgiNymjyw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;a href="https://hal.science/hal-04090428" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="textured-mesh-quality-assessment-large-scale-dataset-and-deep-learning-based-quality-metric">Textured Mesh Quality Assessment: Large-scale Dataset and Deep Learning-based Quality Metric&lt;/h2>
+&lt;p>&lt;em>Yana Nehme, Johanna Delanoy, Florent Dupont, Jean-Philippe Farrugia (Univ Lyon, UCBL, CNRS, INSA Lyon, LIRIS, UMR5205), Patrick Le Callet (Nantes Universite, Ecole Centrale Nantes, CNRS, LS2N, UMR 6004), Guillaume Lavoue (Univ Lyon, Centrale Lyon, CNRS, INSA Lyon, UCBL, LIRIS, UMR5205, ENISE)&lt;/em>&lt;/p>
+&lt;figure id="figure-a-geometry-and-color-spatial-information-and-b-visual-attention-complexity-for-the-selected-source-models">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="(a) Geometry and color spatial information and (b) visual attention complexity for the selected source models. " srcset="
+/post/23-07-31-siggraph2023/Nehme2023_hub855d19a346a83ffc1b6f6e9abe80016_324891_7bc39a1ff4f61a485311b010e1c8ee12.webp 400w,
+/post/23-07-31-siggraph2023/Nehme2023_hub855d19a346a83ffc1b6f6e9abe80016_324891_4f9ef59a8df25bf3dddd11c0d5c08b9e.webp 760w,
+/post/23-07-31-siggraph2023/Nehme2023_hub855d19a346a83ffc1b6f6e9abe80016_324891_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Nehme2023_hub855d19a346a83ffc1b6f6e9abe80016_324891_7bc39a1ff4f61a485311b010e1c8ee12.webp"
+width="760"
+height="357"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+(a) Geometry and color spatial information and (b) visual attention complexity for the selected source models.
+&lt;/figcaption>&lt;/figure>
+&lt;p>Over the past decade, 3D graphics have become highly detailed to mimic the real world, exploding their size and complexity. Certain applications and device constraints necessitate their simplification and/or lossy compression, which can degrade their visual quality. Thus, to ensure the best Quality of Experience (QoE), it is important to evaluate the visual quality to accurately drive the compression and find the right compromise between visual quality and data size. In this work, we focus on subjective and objective quality assessment of textured 3D meshes. We first establish a large-scale dataset, which includes 55 source models quantitatively characterized in terms of geometric, color, and semantic complexity, and corrupted by combinations of 5 types of compression-based distortions applied on the geometry, texture mapping and texture image of the meshes. This dataset contains over 343k distorted stimuli. We propose an approach to select a challenging subset of 3000 stimuli for which we collected 148929 quality judgments from over 4500 participants in a large-scale crowdsourced subjective experiment. Leveraging our subject-rated dataset, a learning-based quality metric for 3D graphics was proposed. Our metric demonstrates state-of-the-art results on our dataset of textured meshes and on a dataset of distorted meshes with vertex colors. Finally, we present an application of our metric and dataset to explore the influence of distortion interactions and content characteristics on the perceived quality of compressed textured meshes.&lt;/p>
+&lt;p>&lt;a href="https://arxiv.org/abs/2202.02397" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="variational-shape-reconstruction-via-quadric-error-metrics">Variational Shape Reconstruction via Quadric Error Metrics&lt;/h2>
+&lt;p>&lt;em>Tong Zhao (Inria Sophia-Antipolis / Universite Cote d&amp;rsquo;Azur / LTCI, Telecom Paris), Laurent Buse, David Cohen-Steiner (Inria Sophia-Antipolis and Universite Cote d&amp;rsquo;Azur), Tamy Boubekeur, Jean-Marc Thiery (Adobe Research), Pierre Alliez (Inria Sophia-Antipolis and Universite Cote d&amp;rsquo;Azur)&lt;/em>&lt;/p>
+&lt;figure id="figure-variational-shape-reconstruction-the-clustering-of-the-points-is-randomly-initialized-then-alternates-partitioning-and-generator-updating-some-generators-relocate-to-sharp-features-after-one-iteration-new-generators-are-then-added-the-clustering-converges-after-five-iterations-a-set-of-candidate-edges-is-derived-from-the-adjacency-between-clusters-and-candidate-facets-red-are-generated-the-output-mesh-is-reconstructed-via-a-constrained-binary-solver-that-selects-a-subset-of-the-red-facets">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Variational shape reconstruction. The clustering of the points is randomly initialized, then alternates partitioning and generator updating. Some generators relocate to sharp features after one iteration. New generators are then added. The clustering converges after five iterations. A set of candidate edges is derived from the adjacency between clusters, and candidate facets (red) are generated. The output mesh is reconstructed via a constrained binary solver that selects a subset of the red facets." srcset="
+/post/23-07-31-siggraph2023/Zhao2023_hu42af5ecf5f79dbe7dfdad4aa9dd341cb_168617_e4a9ba29ac1bf8ebc6e22e86840c41b5.webp 400w,
+/post/23-07-31-siggraph2023/Zhao2023_hu42af5ecf5f79dbe7dfdad4aa9dd341cb_168617_c15cb938484df3342f21a08cd5673d28.webp 760w,
+/post/23-07-31-siggraph2023/Zhao2023_hu42af5ecf5f79dbe7dfdad4aa9dd341cb_168617_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Zhao2023_hu42af5ecf5f79dbe7dfdad4aa9dd341cb_168617_e4a9ba29ac1bf8ebc6e22e86840c41b5.webp"
+width="530"
+height="442"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Variational shape reconstruction. The clustering of the points is randomly initialized, then alternates partitioning and generator updating. Some generators relocate to sharp features after one iteration. New generators are then added. The clustering converges after five iterations. A set of candidate edges is derived from the adjacency between clusters, and candidate facets (red) are generated. The output mesh is reconstructed via a constrained binary solver that selects a subset of the red facets.
+&lt;/figcaption>&lt;/figure>
+&lt;p>Inspired by the strengths of quadric error metrics initially designed for mesh decimation, we propose a concise mesh reconstruction approach for 3D point clouds. Our approach proceeds by clustering the input points enriched with quadric error metrics, where the generator of each cluster is the optimal 3D point for the sum of its quadric error metrics. This approach favors the placement of generators on sharp features, and tends to equidistribute the error among clusters. We reconstruct the output surface mesh from the adjacency between clusters and a constrained binary solver. We combine our clustering process with an adaptive refinement driven by the error. Compared to prior art, our method avoids dense reconstruction prior to simplification and produces immediately an optimized mesh.&lt;/p>
+&lt;p>&lt;a href="https://hal.science/3IA-COTEDAZUR/hal-04131765v1" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="somigliana-coordinates-an-elasticity-derived-approach-for-cage-deformation">Somigliana Coordinates: An Elasticity-derived Approach for Cage Deformation&lt;/h2>
+&lt;p>&lt;em>Jiong Chen (Ecole Polytechnique), Fernando de Goes (Pixar Animation Studios), Mathieu Desbrun (Inria and Ecole Polytechnique)&lt;/em>&lt;/p>
+&lt;figure id="figure-somigliana-coordinates-given-an-initial-cage-top-inset-and-its-deformed-pose-our-novel-cage-deformer-promotes-a-more-elastic-behavior-of-the-cage-deformation-than-previous-works-by-leveraging-an-elasticity-derived-matrix-weighted-combination-of-both-vertex-positions-and-face-normals-of-the-cage-a-poisson-ratio-𝜈-and-bulging-scale-𝛾-can-be-adjusted-to-offer-control-over-local-and-global-volume-change">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Somigliana coordinates. Given an initial cage (top inset) and its deformed pose, our novel cage deformer promotes a more elastic behavior of the cage deformation than previous works by leveraging an elasticity-derived matrix-weighted combination of both vertex positions and face normals of the cage. A Poisson ratio 𝜈 and bulging scale 𝛾 can be adjusted to offer control over local and global volume change." srcset="
+/post/23-07-31-siggraph2023/Chen2023_hu0adf2dcb2860ad037672cb1a8b05efab_195171_23a0a4e89e3c5b74157bd83b6823ae2b.webp 400w,
+/post/23-07-31-siggraph2023/Chen2023_hu0adf2dcb2860ad037672cb1a8b05efab_195171_5d59cb19498097398a7b0c91193e1311.webp 760w,
+/post/23-07-31-siggraph2023/Chen2023_hu0adf2dcb2860ad037672cb1a8b05efab_195171_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Chen2023_hu0adf2dcb2860ad037672cb1a8b05efab_195171_23a0a4e89e3c5b74157bd83b6823ae2b.webp"
+width="520"
+height="537"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Somigliana coordinates. Given an initial cage (top inset) and its deformed pose, our novel cage deformer promotes a more elastic behavior of the cage deformation than previous works by leveraging an elasticity-derived matrix-weighted combination of both vertex positions and face normals of the cage. A Poisson ratio 𝜈 and bulging scale 𝛾 can be adjusted to offer control over local and global volume change.
+&lt;/figcaption>&lt;/figure>
+&lt;p>In this paper, we present a novel cage deformer based on elasticity-derived matrix-valued coordinates. In order to bypass the typical shearing artifacts and lack of volume control of existing cage deformers, we promote a more elastic behavior of the cage deformation by deriving our coordinates from the Somigliana identity, a boundary integral formulation based on the fundamental solution of linear elasticity. Given an initial cage and its deformed pose, the deformation of the cage interior is deduced from these Somigliana coordinates via a corotational scheme, resulting in a matrix-weighted combination of both vertex positions and face normals of the cage. Our deformer thus generalizes Green coordinates, while producing physically-plausible spatial deformations that are invariant under similarity transformations and with interactive bulging control. We demonstrate the efficiency and versatility of our method through a series of examples in 2D and 3D.&lt;/p>
+&lt;video controls >
+&lt;source src="https://jiongchen.github.io/files/somi-video.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>&lt;a href="https://jiongchen.github.io/files/somi-paper.pdf" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="constraint-based-simulation-of-passive-suction-cups">Constraint-based Simulation of Passive Suction Cups&lt;/h2>
+&lt;p>&lt;em>Antonin Bernardin, Univ. Rennes / INSA / IRISA / Inria), Paul Kry (McGill University), Sheldon Andrews (Ecole de technologie superieure), Christian Duriez (Inria / Univ. Lille / CNRS), Maud Marchal (Univ. Rennes / INSA / IRISA / Inria)&lt;/em>&lt;/p>
+&lt;figure id="figure-the-monster-pop-up-toy-sticks-to-its-base-until-the-spring-forces-release-it-due-to-air-leakage-making-the-whole-structure-to-jump">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="The Monster pop-up toy sticks to its base until the spring forces release it due to air leakage, making the whole structure to jump." srcset="
+/post/23-07-31-siggraph2023/Bernardin2023_hu1ef156b0be57381ad4a03fb9d01dabfd_172949_6848ed7477bd4084947563a4ba38779b.webp 400w,
+/post/23-07-31-siggraph2023/Bernardin2023_hu1ef156b0be57381ad4a03fb9d01dabfd_172949_65e9441b98ce3af2f21d81153548e4ae.webp 760w,
+/post/23-07-31-siggraph2023/Bernardin2023_hu1ef156b0be57381ad4a03fb9d01dabfd_172949_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Bernardin2023_hu1ef156b0be57381ad4a03fb9d01dabfd_172949_6848ed7477bd4084947563a4ba38779b.webp"
+width="760"
+height="244"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+The Monster pop-up toy sticks to its base until the spring forces release it due to air leakage, making the whole structure to jump.
+&lt;/figcaption>&lt;/figure>
+&lt;p>In this paper, we propose a physics-based model of suction phenomenon to achieve simulation of deformable objects like suction cups. Our model uses a constraint-based formulation to simulate the variations of pressure inside suction cups. The respective internal pressures are represented as pressure constraints which are coupled with anti-interpenetration and friction constraints. Furthermore, our method is able to detect multiple air cavities using information from collision detection. We solve the pressure constraints based on the ideal gas law while considering several cavity states. We test our model with a number of scenarios reflecting a variety of uses, for instance, a spring loaded jumping toy, a manipulator performing a pick and place task, and an octopus tentacle grasping a soda can. We also evaluate the ability of our model to reproduce the physics of suction cups of varying shapes, lifting objects of different masses, and sliding on a slippery surface. The results show promise for various applications such as the simulation in soft robotics and computer animation.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/PSKXglvD77I" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;a href="https://inria.hal.science/hal-03869711/" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="mesogen-designing-procedural-on-surface-stranded-mesostructures">MesoGen: Designing Procedural On-surface Stranded Mesostructures&lt;/h2>
+&lt;p>&lt;em>Elie Michel, Tamy Boubekeur (Adobe Research)&lt;/em>&lt;/p>
+&lt;figure id="figure-we-propose-a-workflow-for-designing-rich-mesostructures-with-self-similarity-but-no-repetition-artifacts-our-method-is-based-on-wang-tiling-to-enable-fast-authoring-and-efficient-real-time-rendering">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="We propose a workflow for designing rich mesostructures, with self-similarity but no repetition artifacts. Our method is based on Wang tiling to enable fast authoring and efficient real-time rendering." srcset="
+/post/23-07-31-siggraph2023/Michel2023_hu234445fd5bf9117d38de5295c8b1e7af_184189_2ada78d3e31abf0ce485db0b2562436e.webp 400w,
+/post/23-07-31-siggraph2023/Michel2023_hu234445fd5bf9117d38de5295c8b1e7af_184189_b3d5cb25393d734eb4a2b16ebd2a8b09.webp 760w,
+/post/23-07-31-siggraph2023/Michel2023_hu234445fd5bf9117d38de5295c8b1e7af_184189_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Michel2023_hu234445fd5bf9117d38de5295c8b1e7af_184189_2ada78d3e31abf0ce485db0b2562436e.webp"
+width="760"
+height="191"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+We propose a workflow for designing rich mesostructures, with self-similarity but no repetition artifacts. Our method is based on Wang tiling to enable fast authoring and efficient real-time rendering.
+&lt;/figcaption>&lt;/figure>
+&lt;p>Three-dimensional mesostructures enrich coarse macrosurfaces with complex features, which are 3D geometry with arbitrary topology in essence, but are expected to be self-similar with no tiling artifacts, just like texture-based material models. This is a challenging task, as no existing modeling tool provides the right constraints in the design phase to ensure such properties while maintaining real-time editing capabilities. In this paper, we propose MesoGen, a novel tile-centric authoring approach for the design of procedural mesostructures featuring non-periodic self-similarity while being represented as a compact and GPU-friendly model. We ensure by construction the continuity of the mesostructure: the user designs a set of atomic tiles by drawing 2D cross-sections on the interfaces between tiles, and selecting pairs of cross-sections to be connected as strands, i.e., 3D sweep surfaces. In parallel, a tiling engine continuously fills the shell space of the macrosurface with the so-defined tile set while ensuring that only matching interfaces are in contact. Moreover, the engine suggests to the user the addition of new tiles whenever the problem happens to be over-constrained. As a result, our method allows for the rapid creation of complex, seamless procedural mesostructure and is particularly adapted for wicker-like ones, often impossible to achieve with scattering-based mesostructure synthesis methods.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/AXDTo-JkECc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;a href="https://eliemichel.github.io/MesoGen/documents/michel23mesogen.pdf" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="fluid-solid-coupling-in-kinetic-two-phase-flow-simulation">Fluid-solid Coupling in Kinetic Two-phase Flow Simulation&lt;/h2>
+&lt;p>&lt;em>Wei Li (Inria and Tencent Lightspeed Studios), Mathieu Desbrun (Inria and Ecole Polytechnique)&lt;/em>&lt;/p>
+&lt;figure id="figure-key-drop-in-this-paper-we-propose-a-stable-and-efficient-kinetic-two-phase-flow-simulator-which-can-handle-complex-fluid-solid-coupling-like-a-skeleton-key-being-dropped-in-water-the-dynamics-of-the-bubbles-entrapped-by-the-fall-is-well-captured-as-the-insets-of-a-real-experiment-demonstrate">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Key Drop. In this paper, we propose a stable and efficient kinetic two-phase flow simulator which can handle complex fluid-solid coupling, like a skeleton key being dropped in water. The dynamics of the bubbles entrapped by the fall is well captured as the insets of a real experiment demonstrate." srcset="
+/post/23-07-31-siggraph2023/Li2023_hu884feca0fdeb785fdf0a7749cd3e433f_151433_8d3af0a36c1f61c865dab29e1467dc82.webp 400w,
+/post/23-07-31-siggraph2023/Li2023_hu884feca0fdeb785fdf0a7749cd3e433f_151433_51446ddf5702eb2350a7b169c4ddf10e.webp 760w,
+/post/23-07-31-siggraph2023/Li2023_hu884feca0fdeb785fdf0a7749cd3e433f_151433_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Li2023_hu884feca0fdeb785fdf0a7749cd3e433f_151433_8d3af0a36c1f61c865dab29e1467dc82.webp"
+width="760"
+height="145"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Key Drop. In this paper, we propose a stable and efficient kinetic two-phase flow simulator which can handle complex fluid-solid coupling, like a skeleton key being dropped in water. The dynamics of the bubbles entrapped by the fall is well captured as the insets of a real experiment demonstrate.
+&lt;/figcaption>&lt;/figure>
+&lt;p>Real-life flows exhibit complex and visually appealing behaviors such as bubbling, splashing, glugging and wetting that simulation techniques in graphics have attempted to capture for years. While early approaches were not capable of reproducing multiphase flow phenomena due to their excessive numerical viscosity and low accuracy, kinetic solvers based on the lattice Boltzmann method have recently demonstrated the ability to simulate water-air interaction at high Reynolds numbers in a massively-parallel fashion. However, robust and accurate handling of fluid-solid coupling has remained elusive: be it for CG or CFD solvers, as soon as the motion of immersed objects is too fast or too sudden, pressures near boundaries and interfacial forces exhibit spurious oscillations leading to blowups. Built upon a phase-field and velocity-distribution based lattice-Boltzmann solver for multiphase flows, this paper spells out a series of numerical improvements in momentum exchange, interfacial forces, and two-way coupling to drastically reduce these typical artifacts, thus significantly expanding the types of fluid-solid coupling that we can efficiently simulate. We highlight the numerical benefits of our solver through various challenging simulation results, including comparisons to previous work and real footage.&lt;/p>
+&lt;video controls >
+&lt;source src="https://pages.saclay.inria.fr/mathieu.desbrun/Movies/LD23.mp4" type="video/mp4">
+&lt;/video>
+&lt;p>&lt;a href="https://pages.saclay.inria.fr/mathieu.desbrun/pubs/LD23.pdf" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="greil-crowds-crowd-simulation-with-deep-reinforcement-learning-and-examples">GREIL-Crowds: Crowd Simulation With Deep Reinforcement Learning and Examples&lt;/h2>
+&lt;p>&lt;em>Panayiotis Charalambous (CYENS - Centre of Excellence), Julien Pettre (Univ Rennes, Inria, CNRS, IRISA), Vassilis Vassiliades (University of Cyprus), Yiorgos Chrysanthou (CYENS - Centre of Excellence and University of Cyprus), Nuria Pelechano (Universitat Politecnica de Catalunya)&lt;/em>&lt;/p>
+&lt;figure id="figure-results-from-the-same-simulation---all-agents-use-the-pedestrian-controller-the-policy-is-able-to-capture-and-simulate-simultaneously-a-d-social-groups-flocks-individuals-mixed-behaviours-e-f-and-various-behaviors-such-as-agents-suddenly-standing-still-joiningleaving-groups-etc">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Results from the same simulation - all agents use the pedestrian controller. The policy is able to capture and simulate simultaneously (a-d) social groups, flocks, individuals, mixed behaviours; (e-f) and various behaviors such as agents suddenly standing still, joining/leaving groups, etc. " srcset="
+/post/23-07-31-siggraph2023/Charalambous2023_hu79748757eaefa5accd1610b59ba6b2df_3266474_2ceab80dd7366ef663b8e2151a161813.webp 400w,
+/post/23-07-31-siggraph2023/Charalambous2023_hu79748757eaefa5accd1610b59ba6b2df_3266474_564c60c79c2a7a2b6d633a14241d80e1.webp 760w,
+/post/23-07-31-siggraph2023/Charalambous2023_hu79748757eaefa5accd1610b59ba6b2df_3266474_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Charalambous2023_hu79748757eaefa5accd1610b59ba6b2df_3266474_2ceab80dd7366ef663b8e2151a161813.webp"
+width="760"
+height="470"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Results from the same simulation - all agents use the pedestrian controller. The policy is able to capture and simulate simultaneously (a-d) social groups, flocks, individuals, mixed behaviours; (e-f) and various behaviors such as agents suddenly standing still, joining/leaving groups, etc.
+&lt;/figcaption>&lt;/figure>
+&lt;p>Simulating crowds with realistic behaviors is a difficult but very important task for a variety of applications. Quantifying how a person balances between different conflicting criteria such as goal seeking,collision avoidance and moving within a group is not intuitive, especially if we consider that behaviors differ largely between people. Inspired by recent advances in Deep Reinforcement Learning, we propose Guided REinforcement Learning (GREIL) Crowds, a method that learns a model for pedestrian behaviors which is guided by reference crowd data. The model successfully captures behaviors such as goal seeking, being part of consistent groups without the need to define explicit relationships and wandering around seemingly without a specific purpose. Two fundamental concepts are important in achieving these results: (a) the per agent state representation and (b) the reward function. The agent state is a temporal representation of the situation around each agent. The reward function is based on the idea that people try to move in situations/states in which they feel comfortable in. Therefore, in order for agents to stay in a comfortable state space, we first obtain a distribution of states extracted from real crowd data; then we evaluate states based on how much of an outlier they are compared to such a distribution. We demonstrate that our system can capture and simulate many complex and subtle crowd interactions in varied scenarios. Additionally, the proposed method generalizes to unseen situations, generates consistent behaviors and does not suffer from the limitations of other data-driven and reinforcement learning approaches.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/VNPUJJW4crM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;a href="https://veupnea.github.io/publication_pages/siggraph23-greil.html" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="3d-gaussian-splatting-for-real-time-radiance-field-rendering">3D Gaussian Splatting for Real-Time Radiance Field Rendering&lt;/h2>
+&lt;p>&lt;em>Bernhard Kerbl, Georgios Kopanas (Inria and Universite Cote d&amp;rsquo;Azur), Thomas Leimkuhler (MPI Informatik), George Drettakis (Inria and Universite Cote d&amp;rsquo;Azur)&lt;/em>&lt;/p>
+&lt;figure id="figure-our-method-achieves-real-time-rendering-of-radiance-fields-with-quality-that-equals-the-previous-method-with-the-best-quality-barron-et-al--2022-while-only-requiring-optimization-times-competitive-with-the-fastest-previous-methods-fridovich-keil-and-yu-et-al--2022-müller-et-al-2022-key-to-this-performance-is-a-novel-3d-gaussian-scene-representation-coupled-with-a-real-time-differentiable-renderer-which-offers-significant-speedup-to-both-scene-optimization-and-novel-view-synthesis-note-that-for-comparable-training-times-to-instantngp-müller-et-al-2022-we-achieve-similar-quality-to-theirs-while-this-is-the-maximum-quality-they-reach-by-training-for-51min-we-achieve-state-of-the-art-quality-even-slightly-better-than-mip-nerf360-barron-et-al--2022">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Our method achieves real-time rendering of radiance fields with quality that equals the previous method with the best quality [Barron et al . 2022], while only requiring optimization times competitive with the fastest previous methods [Fridovich-Keil and Yu et al . 2022; Müller et al. 2022]. Key to this performance is a novel 3D Gaussian scene representation coupled with a real-time differentiable renderer, which offers significant speedup to both scene optimization and novel view synthesis. Note that for comparable training times to InstantNGP [Müller et al. 2022], we achieve similar quality to theirs; while this is the maximum quality they reach, by training for 51min we achieve state-of-the-art quality, even slightly better than Mip-NeRF360 [Barron et al . 2022]." srcset="
+/post/23-07-31-siggraph2023/Kerbl2023_huc22b53f1cf87cbeb04c2739cff4b3c3d_504750_c4fbd3e130d994b2dec9cae0b4a54099.webp 400w,
+/post/23-07-31-siggraph2023/Kerbl2023_huc22b53f1cf87cbeb04c2739cff4b3c3d_504750_dda269068874c0caf8f27acec50b580a.webp 760w,
+/post/23-07-31-siggraph2023/Kerbl2023_huc22b53f1cf87cbeb04c2739cff4b3c3d_504750_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Kerbl2023_huc22b53f1cf87cbeb04c2739cff4b3c3d_504750_c4fbd3e130d994b2dec9cae0b4a54099.webp"
+width="760"
+height="179"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Our method achieves real-time rendering of radiance fields with quality that equals the previous method with the best quality [Barron et al . 2022], while only requiring optimization times competitive with the fastest previous methods [Fridovich-Keil and Yu et al . 2022; Müller et al. 2022]. Key to this performance is a novel 3D Gaussian scene representation coupled with a real-time differentiable renderer, which offers significant speedup to both scene optimization and novel view synthesis. Note that for comparable training times to InstantNGP [Müller et al. 2022], we achieve similar quality to theirs; while this is the maximum quality they reach, by training for 51min we achieve state-of-the-art quality, even slightly better than Mip-NeRF360 [Barron et al . 2022].
+&lt;/figcaption>&lt;/figure>
+&lt;p>Radiance Field methods have recently revolutionized novel-view synthesis of scenes captured with multiple photos or videos. However, achieving high visual quality still requires neural networks that are costly to train and render, while recent faster methods inevitably trade off speed for quality. For unbounded and complete scenes (rather than isolated objects) and 1080p resolution rendering, no current method can achieve real-time display rates.&lt;/p>
+&lt;p>We introduce three key elements that allow us to achieve state-of-the-art visual quality while maintaining competitive training times and importantly allow high-quality real-time (≥ 100 fps) novel-view synthesis at 1080p resolution.&lt;/p>
+&lt;p>First, starting from sparse points produced during camera calibration, we represent the scene with 3D Gaussians that preserve desirable properties of continuous volumetric radiance fields for scene optimization while avoiding unnecessary computation in empty space; Second, we perform interleaved optimization/density control of the 3D Gaussians, notably optimizing anisotropic covariance to achieve an accurate representation of the scene; Third, we develop a fast visibility-aware rendering algorithm that supports anisotropic splatting and both accelerates training and allows realtime rendering. We demonstrate state-of-the-art visual quality and real-time rendering on several established datasets.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/T_kXY43VZnk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;a href="https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/" target="_blank" rel="noopener">&lt;em>Project page&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="pcbend-light-up-your-3d-shapes-with-foldable-circuit-boards">PCBend: Light Up Your 3D Shapes With Foldable Circuit Boards&lt;/h2>
+&lt;p>&lt;em>Marco Freire* (Universite de Lorraine / CNRS / Inria), Manas Bhargava* (ISTA), Camille Schreck, Pierre-Alexandre Hugron (Universite de Lorraine / CNRS / Inria), Bernd Bickel (ISTA), Sylvain Lefebvre (Universite de Lorraine / CNRS / Inria) (* Joint first authors)&lt;/em>&lt;/p>
+&lt;figure id="figure-starting-from-a-3d-mesh-our-method-automatically-generates-design-files-to-produce-an-on-surface-display-composed-of-individually-addressable-rgb-leds-the-circuit-board-is-manufactured-through-standard-pcb-production-services-including-component-soldering-the-user-then-folds-the-fabricated-board-back-onto-a-3d-printed-support-the-final-model-becomes-a-curved-display-onto-which-intricate-light-patterns-can-be-programmed-in-a-shader-like-manner">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Starting from a 3D mesh our method automatically generates design files to produce an on-surface display composed of individually addressable RGB LEDs. The circuit board is manufactured through standard PCB production services, including component soldering. The user then folds the fabricated board back onto a 3D printed support. The final model becomes a curved display, onto which intricate light patterns can be programmed in a shader-like manner." srcset="
+/post/23-07-31-siggraph2023/Freire2023_hu607ffb6b7b8d3832e4c4abdd43f7c096_1579071_72bd301b3ef90bf013071be9ddf286c2.webp 400w,
+/post/23-07-31-siggraph2023/Freire2023_hu607ffb6b7b8d3832e4c4abdd43f7c096_1579071_0841e7f95ef699e33f22341f85bd8147.webp 760w,
+/post/23-07-31-siggraph2023/Freire2023_hu607ffb6b7b8d3832e4c4abdd43f7c096_1579071_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Freire2023_hu607ffb6b7b8d3832e4c4abdd43f7c096_1579071_72bd301b3ef90bf013071be9ddf286c2.webp"
+width="760"
+height="218"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Starting from a 3D mesh our method automatically generates design files to produce an on-surface display composed of individually addressable RGB LEDs. The circuit board is manufactured through standard PCB production services, including component soldering. The user then folds the fabricated board back onto a 3D printed support. The final model becomes a curved display, onto which intricate light patterns can be programmed in a shader-like manner.
+&lt;/figcaption>&lt;/figure>
+&lt;p>We propose a computational design approach for covering a surface with individually addressable RGB LEDs, effectively forming a low-resolution surface screen. To achieve a low-cost and scalable approach, we propose creating designs from flat PCB panels bent in-place along the surface of a 3D printed core. Working with standard rigid PCBs enables the use of established PCB manufacturing services, allowing the fabrication of designs with several hundred LEDs. Our approach optimizes the PCB geometry for folding, and then jointly optimizes the LED packing, circuit and routing, solving a challenging layout problem under strict manufacturing requirements. Unlike paper, PCBs cannot bend beyond a certain point without breaking. Therefore, we introduce parametric cut patterns acting as hinges, designed to allow bending while remaining compact. To tackle the joint optimization of placement, circuit and routing, we propose a specialized algorithm that splits the global problem into one sub-problem per triangle, which is then individually solved. Our technique generates PCB blueprints in a completely automated way. After being fabricated by a PCB manufacturing service, the boards are bent and glued by the user onto the 3D printed support. We demonstrate our technique on a range of physical models and virtual examples, creating intricate surface light patterns from hundreds of LEDs.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/nJspqdpyWq4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;a href="https://manas-avi.github.io/publications/2023/PCBend/FoldableElectronics-2023-camera-ready.pdf" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://visualcomputing.ist.ac.at/publications/2023/PLUY3SWFCB/" target="_blank" rel="noopener">&lt;em>Project page&lt;/em>&lt;/a>&lt;/p>
+&lt;h2 id="fast-gpu-based-two-way-continuous-collision-handling">Fast GPU-based Two-way Continuous Collision Handling&lt;/h2>
+&lt;p>&lt;em>Tianyu Wang (FaceUnity), Jiong Chen (Ecole Polytechnique), Dongping Li, Xiaowei Liu (FaceUnity), Huamin Wang (Style3D), Kun Zhou (Zhejiang University)&lt;/em>&lt;/p>
+&lt;figure id="figure-knotting-the-bow-knot-example-on-the-top-with-142k-triangles-and-the-reef-knot-example-on-the-bottom-with-71k-triangles-are-presented-in-this-work-we-develop-a-two-way-method-for-safe-and-fast-collision-handling-in-deformable-body-simulation-thanks-to-this-method-our-simulator-can-robustly-handle-complex-collision-contacts-in-these-two-examples-at-4-to-17-fps-and-10-to-21-fps-respectively">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Knotting. The bow knot example (on the top, with 142K triangles) and the reef knot example (on the bottom, with 71K triangles) are presented. In this work, we develop a two-way method for safe and fast collision handling in deformable body simulation. Thanks to this method, our simulator can robustly handle complex collision contacts in these two examples at 4 to 17 FPS and 10 to 21 FPS respectively." srcset="
+/post/23-07-31-siggraph2023/Wang2023_hu69823277c1dcb031b5bd621e1a13ecc8_528044_f396f3e5b544b8db768c92875f90fca7.webp 400w,
+/post/23-07-31-siggraph2023/Wang2023_hu69823277c1dcb031b5bd621e1a13ecc8_528044_6e919c3166ff63a6527f0b1c9454a3e8.webp 760w,
+/post/23-07-31-siggraph2023/Wang2023_hu69823277c1dcb031b5bd621e1a13ecc8_528044_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-07-31-siggraph2023/Wang2023_hu69823277c1dcb031b5bd621e1a13ecc8_528044_f396f3e5b544b8db768c92875f90fca7.webp"
+width="760"
+height="354"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Knotting. The bow knot example (on the top, with 142K triangles) and the reef knot example (on the bottom, with 71K triangles) are presented. In this work, we develop a two-way method for safe and fast collision handling in deformable body simulation. Thanks to this method, our simulator can robustly handle complex collision contacts in these two examples at 4 to 17 FPS and 10 to 21 FPS respectively.
+&lt;/figcaption>&lt;/figure>
+&lt;p>Step-and-project is a popular method to simulate non-penetrating deformable bodies in physically-based animation. The strategy is to first integrate the system in time without considering contacts and then resolve potential intersections, striking a good balance between plausibility and efficiency. However, existing methods can be defective and unsafe when using large time steps, taking risks of failure or demanding repetitive collision testing and resolving that severely degrade performance. In this paper, we propose a novel two-way method for fast and reliable continuous collision handling. Our method launches an optimization from both ends of the intermediate time-integrated state and the previous intersection-free state. It progressively generates a piecewise linear path and eventually obtains a feasible solution for the next time step. The algorithm efficiently alternates between a forward step and a backward step until the result is conditionally converged. Thanks to a set of unified volume-based contact constraints, our method offers flexible and reliable handling of various codimensional deformable bodies, including volumetric bodies, cloth, hair and sand. Experimental results demonstrate the safety, robustness, physical fidelity and numerical efficiency of our method, making it particularly suitable for scenarios involving large deformations or large time steps.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/6T52DU2iFu0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;a href="https://wanghmin.github.io/Wang-2023-FGB/Wang-2023-FGB.pdf" target="_blank" rel="noopener">&lt;em>Full paper&lt;/em>&lt;/a>&lt;/p></description></item><item><title>Retour sur les pleinières 2023</title><link>https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/</link><pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/</guid><description>&lt;h1 id="lancement">Lancement&lt;/h1>
+&lt;p>&lt;a href="https://gdr-igrv.fr/uploads/pl%c3%a9ni%c3%a8res2023_lancement.pdf"> Accéder à la présentation &lt;/a>&lt;/p>
+&lt;h1 id="session-ia-et-animation">Session &amp;ldquo;IA et Animation&amp;rdquo;&lt;/h1>
+&lt;h2 id="alexandre-meyer---ia-et-animation">Alexandre Meyer - IA et Animation&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-06-06-retour-pleinieres-2023/session_IA_hu9c8879c4c5db3e353099dc518ed8460d_132337_1c8d139b532166c6aad267c88e4667c1.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/session_IA_hu9c8879c4c5db3e353099dc518ed8460d_132337_0047e2b8bf705773fc13470a534e92a4.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/session_IA_hu9c8879c4c5db3e353099dc518ed8460d_132337_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/session_IA_hu9c8879c4c5db3e353099dc518ed8460d_132337_1c8d139b532166c6aad267c88e4667c1.webp"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>Alexandre Meyer est Maître de conférences (HDR) au département d&amp;rsquo;informatique de l&amp;rsquo;Université Lyon 1 depuis 2004. Il mène ses recherches dans le groupe SAARA du laboratoire LIRIS.
+Ses travaux de recherche se situent à l&amp;rsquo;interface entre l&amp;rsquo;infographie et la vision par ordinateur. Dans le domaine de la vision par ordinateur, ses travaux se concentrent sur la reconnaissance des expressions des visages et des mouvements du corps, en établissant souvent un lien avec l&amp;rsquo;animation ou la perception. Du côté de l&amp;rsquo;infographie, ses travaux vont de l&amp;rsquo;animation procédurale (zéro données) à l&amp;rsquo;animation basée sur l&amp;rsquo;apprentissage, avec un intérêt particulier pour l&amp;rsquo;édition ou la création de style dans les animations.&lt;/p>
+&lt;p>Il a donné une présentation sur l&amp;rsquo;utilisation de l&amp;rsquo;intelligence artificielle (IA) dans l&amp;rsquo;animation. Sa présentation a discuté des progrès réalisés grâce à l&amp;rsquo;apprentissage profond et a exploré différentes méthodes utilisées dans ce domaine. Différents types de réseaux de neurones ont été abordés, tels que les réseaux de convolution et les autoencodeurs. Des techniques d&amp;rsquo;amélioration de la qualité des animations ont été discutées, ainsi que l&amp;rsquo;utilisation des espaces latents pour la représentation des poses. Des exemples d&amp;rsquo;applications de l&amp;rsquo;IA dans l&amp;rsquo;animation ont été donnés, comme la génération d&amp;rsquo;avatars 3D à partir de textes. Enfin, la présentation a souligné les avancées réalisées et les défis à relever dans ce domaine.&lt;/p>
+&lt;p>&lt;a href="https://gdr-igrv.fr/uploads/2023_GDR_AMeyer.pdf"> Accéder à la présentation &lt;/a>&lt;/p>
+&lt;figure id="figure-alexandre-meyer-université-lyon1-liris---httpspersoliriscnrsframeyerpublic_htmlwww">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Alexandre Meyer (Université Lyon1, LIRIS) : https://perso.liris.cnrs.fr/ameyer/public_html/www/" srcset="
+/post/23-06-06-retour-pleinieres-2023/alexM_hua93c34035ab6236b9d4769d2cad09f7e_26557_b00db74b34e210594f2eac9c3173bb2e.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/alexM_hua93c34035ab6236b9d4769d2cad09f7e_26557_2958251a62cc56b99a62120650218d32.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/alexM_hua93c34035ab6236b9d4769d2cad09f7e_26557_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/alexM_hua93c34035ab6236b9d4769d2cad09f7e_26557_b00db74b34e210594f2eac9c3173bb2e.webp"
+width="118"
+height="119"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Alexandre Meyer (Université Lyon1, LIRIS) : &lt;a href="https://perso.liris.cnrs.fr/ameyer/public_html/www/" target="_blank" rel="noopener">https://perso.liris.cnrs.fr/ameyer/public_html/www/&lt;/a>
+&lt;/figcaption>&lt;/figure>
+&lt;h1 id="session-impact-environnemental--on-en-est-où">Session &amp;ldquo;Impact environnemental : on en est où&amp;rdquo;&lt;/h1>
+&lt;h2 id="peter-sturm">Peter Sturm&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-06-06-retour-pleinieres-2023/session_peter_hu9c8879c4c5db3e353099dc518ed8460d_130370_d43289433e96465a1ee6d1c90da1352e.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/session_peter_hu9c8879c4c5db3e353099dc518ed8460d_130370_7baf54c6edffaf28acc3d112b073ec04.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/session_peter_hu9c8879c4c5db3e353099dc518ed8460d_130370_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/session_peter_hu9c8879c4c5db3e353099dc518ed8460d_130370_d43289433e96465a1ee6d1c90da1352e.webp"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>Peter Sturm est adjoint au directeur scientifique, en charge du domaine &amp;ldquo;Perception, cognition, interaction&amp;rdquo; à Inria depuis le 9 avril 2015. Il mène ses recherches dans l&amp;rsquo;équipe STEEP à Inria Grenoble Rhône-Alpes.
+Ses sujets de recherche, centrés sur la vision par ordinateur, concernent surtout le calibrage de caméras, la reconstruction 3D et l’estimation de mouvement, que ce soit pour des caméras perspectives ou omnidirectionnelles. Depuis 2011, Peter contribue aux travaux de l&amp;rsquo;institut sur le développement durable et, plus particulièrement, sur des modèles intégrés d’usage des sols et de transport.&lt;/p>
+&lt;p>Il a donné une présentation abordant les thèmes des effets rebond, de l&amp;rsquo;efficience, de la sobriété et de la résilience. Au dela de la définition des ces notions, Peter a aussi sensibilisé l&amp;rsquo;audience à l&amp;rsquo;importance de se poser les bonnes questions (autour des impacts environnementaux mais pas seulement), de bien nommer les choses et d&amp;rsquo;avoir conscience des possibles impacts des technologies developpées dans les laboratoires.&lt;/p>
+&lt;p>&lt;a href="https://gdr-igrv.fr/uploads/2023_05_30_GdR_IG_RV_Peter_Sturm.pdf"> Accéder à la présentation &lt;/a>&lt;/p>
+&lt;figure id="figure-peter-sturm-inria-grenoble-ljk--httpssteepinriafrmembres-de-lequipepeter-sturm">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Peter Sturm (INRIA Grenoble, LJK) : https://steep.inria.fr/membres-de-lequipe/peter-sturm/" srcset="
+/post/23-06-06-retour-pleinieres-2023/peterS_hudbec3e859f1c8a7103c10d23fa8ef1d6_69529_aad061517f32190af7b33bafdef3d111.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/peterS_hudbec3e859f1c8a7103c10d23fa8ef1d6_69529_a80a7e0004cc92dd366970a130259e55.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/peterS_hudbec3e859f1c8a7103c10d23fa8ef1d6_69529_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/peterS_hudbec3e859f1c8a7103c10d23fa8ef1d6_69529_aad061517f32190af7b33bafdef3d111.webp"
+width="265"
+height="195"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Peter Sturm (INRIA Grenoble, LJK) : &lt;a href="https://steep.inria.fr/membres-de-lequipe/peter-sturm/" target="_blank" rel="noopener">https://steep.inria.fr/membres-de-lequipe/peter-sturm/&lt;/a>
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="laurent-lefevre">Laurent Lefevre&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-06-06-retour-pleinieres-2023/session_laurent_hu9c8879c4c5db3e353099dc518ed8460d_124772_1ca442ff78a80f2ada1c4653908c7690.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/session_laurent_hu9c8879c4c5db3e353099dc518ed8460d_124772_74a19166b28154bacbbd73a1e39cdf94.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/session_laurent_hu9c8879c4c5db3e353099dc518ed8460d_124772_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/session_laurent_hu9c8879c4c5db3e353099dc518ed8460d_124772_1ca442ff78a80f2ada1c4653908c7690.webp"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>Laurent Lefèvre est un chercheur permanent en informatique à Inria. Il travaille au sein de l&amp;rsquo;équipe AVALON (Algorithmes et Architectures Logicielles pour les Plates-formes Orientées Service) d&amp;rsquo;Inria et du Laboratoire LIP à l&amp;rsquo;École Normale Supérieure de Lyon.
+Ses domaines de recherche comprennent l&amp;rsquo;informatique distribuée et les réseaux, l&amp;rsquo;informatique et les réseaux écoénergétiques, le Green IT, la durabilité en informatique, les réseaux définis par logiciel, les réseaux autonomes, les protocoles et services de réseaux à haute performance, les réseaux actifs et programmables, les réseaux tolérants aux perturbations, le calcul en grappes, les systèmes de mémoire partagée distribuée et la cohérence des données, ainsi que la tolérance aux pannes.&lt;/p>
+&lt;p>Il a présenté l&amp;rsquo;impact du numérique, à la fois de son usage (consommation d&amp;rsquo;énergie) mais aussi de son cycle de vie (extraction des ressources et recyclage), sur l&amp;rsquo;environnement, dans un monde où les usages du numériques sont de plus en plus nombreux.
+Il a ensuite présenté quelques pistes pour prendre en compte ces enjeux.&lt;/p>
+&lt;p>&lt;a href="https://gdr-igrv.fr/uploads/GDR-IG-RV_2023_Laurent_Lefevre_diffuse.pdf"> Accéder à la présentation &lt;/a>&lt;/p>
+&lt;figure id="figure-laurent-lefevre-inria-lip--httpspersoens-lyonfrlaurentlefevre">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Laurent Lefevre (INRIA, LIP) : https://perso.ens-lyon.fr/laurent.lefevre/" srcset="
+/post/23-06-06-retour-pleinieres-2023/laurentL_huf81403ad945414b1df24ec670126f56e_20248_0adc25409d2129bd67674b33f826a080.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/laurentL_huf81403ad945414b1df24ec670126f56e_20248_a1c8aad6b11c2337c207786b562e8e1b.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/laurentL_huf81403ad945414b1df24ec670126f56e_20248_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/laurentL_huf81403ad945414b1df24ec670126f56e_20248_0adc25409d2129bd67674b33f826a080.webp"
+width="320"
+height="240"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Laurent Lefevre (INRIA, LIP) : &lt;a href="https://perso.ens-lyon.fr/laurent.lefevre/" target="_blank" rel="noopener">https://perso.ens-lyon.fr/laurent.lefevre/&lt;/a>
+&lt;/figcaption>&lt;/figure>
+&lt;h1 id="session-ig-rv-et-jo-2024">Session &amp;ldquo;IG-RV et JO 2024&amp;rdquo;&lt;/h1>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-06-06-retour-pleinieres-2023/session_JO_hu9c8879c4c5db3e353099dc518ed8460d_125334_f743bb1567cfcfb9f4decc50c0561225.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/session_JO_hu9c8879c4c5db3e353099dc518ed8460d_125334_bb2b6d949688661643884d2e7772c01c.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/session_JO_hu9c8879c4c5db3e353099dc518ed8460d_125334_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/session_JO_hu9c8879c4c5db3e353099dc518ed8460d_125334_f743bb1567cfcfb9f4decc50c0561225.webp"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;h2 id="lije-yao">Lije Yao&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-06-06-retour-pleinieres-2023/session_lijie_hu7fef5788bd28ca160c0fe5ce76757543_128964_cfc4f4d5497828abaed767f20bf576bc.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/session_lijie_hu7fef5788bd28ca160c0fe5ce76757543_128964_004bdbcd6e6acf97cf222bd90e491a12.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/session_lijie_hu7fef5788bd28ca160c0fe5ce76757543_128964_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/session_lijie_hu7fef5788bd28ca160c0fe5ce76757543_128964_cfc4f4d5497828abaed767f20bf576bc.webp"
+width="760"
+height="506"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>Lije Yao prépare actuellement un doctorat à Inria dans l&amp;rsquo;équipe Aviz (Analyse et visualisation) et l&amp;rsquo;Université Paris-Saclay. Ses principaux sujets de recherche comprennent la visualisation de l&amp;rsquo;information et l&amp;rsquo;analyse visuelle, avec un accent sur la visualisation en mouvement.&lt;/p>
+&lt;p>Elle a présenté ses recherches sur la visualisation située et en temps réel des informations liées aux compétitions de natations.&lt;/p>
+&lt;figure id="figure-lije-yao-inria-saclay">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Lije Yao (INRIA Saclay)" srcset="
+/post/23-06-06-retour-pleinieres-2023/LijieYao_huf9d1f7593529e1e0866263f2b932ecbb_38534_3142174961f8f80cd2c848390dfaa53a.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/LijieYao_huf9d1f7593529e1e0866263f2b932ecbb_38534_05d1f13daf041649d06456f7c385015a.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/LijieYao_huf9d1f7593529e1e0866263f2b932ecbb_38534_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/LijieYao_huf9d1f7593529e1e0866263f2b932ecbb_38534_3142174961f8f80cd2c848390dfaa53a.webp"
+width="247"
+height="300"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Lije Yao (INRIA Saclay)
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="franck-multon">Franck Multon&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-06-06-retour-pleinieres-2023/session_franck_hu9c8879c4c5db3e353099dc518ed8460d_119594_f2596967dcf14a4be4fafa7342c5b45f.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/session_franck_hu9c8879c4c5db3e353099dc518ed8460d_119594_7b160cf11d15b0908808c2ce95176a78.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/session_franck_hu9c8879c4c5db3e353099dc518ed8460d_119594_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/session_franck_hu9c8879c4c5db3e353099dc518ed8460d_119594_f2596967dcf14a4be4fafa7342c5b45f.webp"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>Franck Multon est directeur de recherche à Inria et reponsable de l&amp;rsquo;équipe MimeTIC (Analysis-Synthesis Approach for Virtual Human Simulation). Depuis septembre 2018, il s&amp;rsquo;occupe d&amp;rsquo;une mission nationale de coordination des actions du centre dans le domaine du numérique pour le sport, en lien avec les JOP Paris 2024.&lt;/p>
+&lt;p>Il a présenté plusieurs travaux autour de l&amp;rsquo;utilisation du numérique et de la réalité virtuelle pour l&amp;rsquo;entrainement des sportifs de haut niveau (autour du rugby ou du football notamment).&lt;/p>
+&lt;figure id="figure-franck-multon-univ-rennes-inria--httpspersouniv-rennes2frfranckmulton">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Franck Multon (Univ Rennes, INRIA) : https://perso.univ-rennes2.fr/franck.multon" srcset="
+/post/23-06-06-retour-pleinieres-2023/franckM_huc3e2e9df64bacb078d5e2e5db6bde03e_4816_48fea43ec0c6d47c00e1ce0d9cab8d36.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/franckM_huc3e2e9df64bacb078d5e2e5db6bde03e_4816_b8c9e7f5c4d8fc276de2d330c4db9007.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/franckM_huc3e2e9df64bacb078d5e2e5db6bde03e_4816_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/franckM_huc3e2e9df64bacb078d5e2e5db6bde03e_4816_48fea43ec0c6d47c00e1ce0d9cab8d36.webp"
+width="150"
+height="150"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Franck Multon (Univ Rennes, INRIA) : &lt;a href="https://perso.univ-rennes2.fr/franck.multon" target="_blank" rel="noopener">https://perso.univ-rennes2.fr/franck.multon&lt;/a>
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="thibaut-le-naour-startup-motion-up">Thibaut Le Naour (Startup Motion-Up)&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-06-06-retour-pleinieres-2023/session_motionUp_hu9c8879c4c5db3e353099dc518ed8460d_127687_2f477a174ce30435881c9dc9c4b0067e.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/session_motionUp_hu9c8879c4c5db3e353099dc518ed8460d_127687_f70b05916290e2a4bd0c3dc125a819c9.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/session_motionUp_hu9c8879c4c5db3e353099dc518ed8460d_127687_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/session_motionUp_hu9c8879c4c5db3e353099dc518ed8460d_127687_2f477a174ce30435881c9dc9c4b0067e.webp"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>MotionUp est une entreprise spécialisée dans les services informatiques, axée sur la capture de mouvement et la production de solutions numériques. Elle propose des services de capture de mouvement précis et efficaces, permettant la numérisation des mouvements avec une grande précision et rapidité. En plus de la capture de mouvement, MotionUp propose des solutions numériques personnalisées, de la conception à l&amp;rsquo;hebergement.&lt;/p>
+&lt;p>Thibat Le Naour, le fondateur de Motion-Up a discuté des différentes technologies de motion capture et a présenté plusieurs cas d&amp;rsquo;usage des technologies de motion capture pour l&amp;rsquo;apprentissage des gestes.&lt;/p>
+&lt;figure id="figure-thibaut-le-naour--httpmotion-upcompersotlenaour">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Thibaut Le Naour : http://motion-up.com/perso/tlenaour/" srcset="
+/post/23-06-06-retour-pleinieres-2023/thibautLN_hu2d95b4841be49ae575605f2168e6f15c_35820_612e6cf504afee9bbe9b6c80db0b7a92.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/thibautLN_hu2d95b4841be49ae575605f2168e6f15c_35820_a8f800fef2c41b6c84e23aa9677d0b03.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/thibautLN_hu2d95b4841be49ae575605f2168e6f15c_35820_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/thibautLN_hu2d95b4841be49ae575605f2168e6f15c_35820_612e6cf504afee9bbe9b6c80db0b7a92.webp"
+width="195"
+height="195"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Thibaut Le Naour : &lt;a href="http://motion-up.com/perso/tlenaour/" target="_blank" rel="noopener">http://motion-up.com/perso/tlenaour/&lt;/a>
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-startup-motion-up--httpswwwmotion-upcom">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Startup Motion-Up : https://www.motion-up.com/" srcset="
+/post/23-06-06-retour-pleinieres-2023/motionUp_hu6cd07605589ec653d3a05196a8ac57c6_16926_2a6cee6b9458c3261094b9ea25ae6393.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/motionUp_hu6cd07605589ec653d3a05196a8ac57c6_16926_7eca80373bf10bdf049b5cddffa7c16c.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/motionUp_hu6cd07605589ec653d3a05196a8ac57c6_16926_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/motionUp_hu6cd07605589ec653d3a05196a8ac57c6_16926_2a6cee6b9458c3261094b9ea25ae6393.webp"
+width="300"
+height="129"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Startup Motion-Up : &lt;a href="https://www.motion-up.com/" target="_blank" rel="noopener">https://www.motion-up.com/&lt;/a>
+&lt;/figcaption>&lt;/figure>
+&lt;h1 id="session-art-et-science">Session &amp;ldquo;Art et Science&amp;rdquo;&lt;/h1>
+&lt;h2 id="benoit-arbelot-théoriz-">Benoit Arbelot (Théoriz) :&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-06-06-retour-pleinieres-2023/session_theoriz_hu7fef5788bd28ca160c0fe5ce76757543_136186_1a2edc89d3b1ce1f2ec674448f76465b.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/session_theoriz_hu7fef5788bd28ca160c0fe5ce76757543_136186_44ae3d3d5442529e9be9600d36aa15f7.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/session_theoriz_hu7fef5788bd28ca160c0fe5ce76757543_136186_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/session_theoriz_hu7fef5788bd28ca160c0fe5ce76757543_136186_1a2edc89d3b1ce1f2ec674448f76465b.webp"
+width="760"
+height="506"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>Theoriz est un studio de création artistique et technologique spécialisé dans la conception d&amp;rsquo;installations immersives et de spectacles audiovisuels innovants. Composé d&amp;rsquo;une équipe d&amp;rsquo;ingénieurs, d&amp;rsquo;artistes et de développeurs créatifs, Theoriz combine recherche artistique et scientifique pour créer de nouvelles expériences uniques. Du mélange entre le réel, le virtuel et la poésie, leurs installations artistiques sont exposées à travers le monde.&lt;/p>
+&lt;p>Benoît Arbelot, ingénieur à Theoriz, a présenté différents projets menés par le studio et les technologies developpées pour ces projets.&lt;/p>
+&lt;p>&lt;a href="https://gdr-igrv.fr/uploads/Presentation%20THEORIZ%20IG-RV%202023-05-30.pdf"> Accéder à la présentation &lt;/a>&lt;/p>
+&lt;p>
+&lt;figure id="figure-benoit-arbelot">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Benoit Arbelot" srcset="
+/post/23-06-06-retour-pleinieres-2023/benoitA_hu08263980ec618ada007391c65888356b_19067_f1075cea404a52fdb6f860460d515b47.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/benoitA_hu08263980ec618ada007391c65888356b_19067_d5e0351ea34d52a2725611f1831a6c16.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/benoitA_hu08263980ec618ada007391c65888356b_19067_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/benoitA_hu08263980ec618ada007391c65888356b_19067_f1075cea404a52fdb6f860460d515b47.webp"
+width="192"
+height="218"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Benoit Arbelot
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-théoriz">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Théoriz" srcset="
+/post/23-06-06-retour-pleinieres-2023/theoriz_hu080ec4554bb77cb9791d92479736430b_15181_6da81c871544d422287596d0a8140e6d.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/theoriz_hu080ec4554bb77cb9791d92479736430b_15181_b3ec9acd9042766eea34f53660aac7bd.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/theoriz_hu080ec4554bb77cb9791d92479736430b_15181_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/theoriz_hu080ec4554bb77cb9791d92479736430b_15181_6da81c871544d422287596d0a8140e6d.webp"
+width="300"
+height="132"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Théoriz
+&lt;/figcaption>&lt;/figure>&lt;/p>
+&lt;h1 id="session-métavers-enjeux-scientifiques-et-impacts">Session &amp;ldquo;Métavers: enjeux scientifiques et impacts&amp;rdquo;&lt;/h1>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-06-06-retour-pleinieres-2023/session_metavers2_hu9c8879c4c5db3e353099dc518ed8460d_140385_5df032450ebc378a0eb3762453586a42.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/session_metavers2_hu9c8879c4c5db3e353099dc518ed8460d_140385_60f216673a916922b3f389952b8e2470.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/session_metavers2_hu9c8879c4c5db3e353099dc518ed8460d_140385_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/session_metavers2_hu9c8879c4c5db3e353099dc518ed8460d_140385_5df032450ebc378a0eb3762453586a42.webp"
+width="760"
+height="506"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-06-06-retour-pleinieres-2023/session_metavers_hu5acd42242b1b5ce0f9b4a3a2fbdf55e9_152481_e50d15bc8cd9cb038d0211e847475a89.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/session_metavers_hu5acd42242b1b5ce0f9b4a3a2fbdf55e9_152481_4cccbde10a5f65303548d991beb3e9d2.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/session_metavers_hu5acd42242b1b5ce0f9b4a3a2fbdf55e9_152481_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/session_metavers_hu5acd42242b1b5ce0f9b4a3a2fbdf55e9_152481_e50d15bc8cd9cb038d0211e847475a89.webp"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;h2 id="pascal-guitton">Pascal Guitton&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-06-06-retour-pleinieres-2023/session_pascal_hu9c8879c4c5db3e353099dc518ed8460d_118090_83595e6df257e15a36320cc603113e32.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/session_pascal_hu9c8879c4c5db3e353099dc518ed8460d_118090_45842762334c733ecd70d84fcbf6132e.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/session_pascal_hu9c8879c4c5db3e353099dc518ed8460d_118090_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/session_pascal_hu9c8879c4c5db3e353099dc518ed8460d_118090_83595e6df257e15a36320cc603113e32.webp"
+width="760"
+height="506"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>Pascal Guitton est professeur émérite à l’université de Bordeaux. Ses domaines de recherche sont la réalité virtuelle et l&amp;rsquo;interaction, notamment dans les systèmes numériques d&amp;rsquo;enseignement.&lt;/p>
+&lt;p>Cette présentation a abordé divers questionnements relatifs aux métavers, en mettant en évidence leur origine dans des avancées scientifiques, technologiques et culturelles antérieures, ainsi que les implications spécifiques liées à la réalité virtuelle, aux réseaux sociaux, aux jeux vidéo et les blockchains. Elle a soulevé des préoccupations telles que la protection des données personnelles, les vols et détournements, les potentielles addictions et manipulations, les problèmes de harcèlement, ainsi que les impacts environnementaux. En conclusion, la présentation a recommandé de ne pas être passif face aux métavers, mais d&amp;rsquo;engager des réflexions, des recherches et des développements appliqués accompagnés de questionnements éthiques, et de considérer la régulation de leur mise en ligne tout en réfléchissant à leur utilité réelle.&lt;/p>
+&lt;p>&lt;a href="https://gdr-igrv.fr/uploads/2023%20M%c3%a9tavers%20GDR%20IGRV.pdf"> Accéder à la présentation &lt;/a>&lt;/p>
+&lt;figure id="figure-pascal-guitton-université-de-bordeaux">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Pascal Guitton (Université de Bordeaux)" srcset="
+/post/23-06-06-retour-pleinieres-2023/pascalG_hu257b6b91973c7f1feb28ff8993791d90_20319_6b0de9e233947ca3e01e17031ac37e95.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/pascalG_hu257b6b91973c7f1feb28ff8993791d90_20319_99c1fc8b985f618b0f4e3645eebe21ec.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/pascalG_hu257b6b91973c7f1feb28ff8993791d90_20319_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/pascalG_hu257b6b91973c7f1feb28ff8993791d90_20319_6b0de9e233947ca3e01e17031ac37e95.webp"
+width="200"
+height="200"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Pascal Guitton (Université de Bordeaux)
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="jean-marie-burkhardt">Jean-Marie Burkhardt&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-06-06-retour-pleinieres-2023/session_jmb_hu9c8879c4c5db3e353099dc518ed8460d_144447_d78ae8d6b23979c471398ef1cce62823.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/session_jmb_hu9c8879c4c5db3e353099dc518ed8460d_144447_45d21e91ff7e640805656ee3a15f48b3.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/session_jmb_hu9c8879c4c5db3e353099dc518ed8460d_144447_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/session_jmb_hu9c8879c4c5db3e353099dc518ed8460d_144447_d78ae8d6b23979c471398ef1cce62823.webp"
+width="760"
+height="507"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>Jean-Marie Burkhardt est directeur de recherche à l&amp;rsquo;Univ. Gustave Eiffel au laboratoire de psychologie et d&amp;rsquo;ergonomie appliquées (LaPEA). Il développe des recherches en ergonomie et psychologie sur deux axes : d&amp;rsquo;une part des études sur les activités, les facteurs de risques et la prévention d&amp;rsquo;accidents dans le domaine des mobilités et, d&amp;rsquo;autre part, sur la conception-centrée utilité des technologies émergentes telles que la réalité virtuelle, augmentée et mixte.&lt;/p>
+&lt;p>Il a présenté la méthodologie ainsi qu&amp;rsquo;un résumé du rapport de l&amp;rsquo;ANSES sur l&amp;rsquo;exposition aux technologies de réalité virtuelle et/ou augmentée.&lt;/p>
+&lt;p>&lt;a href="https://gdr-igrv.fr/uploads/BurkhardtVR&amp;amp;ARHealthEffectsGDRIGRV2023.pdf"> Accéder à la présentation &lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.anses.fr/fr/system/files/AP2017SA0076Ra.pdf" target="_blank" rel="noopener">Lien vers le rapport ANSES&lt;/a>&lt;/p>
+&lt;figure id="figure-jean-marie-burkhardt-université-gustave-eiffel--httpswwwifsttarfrmenu-hautannuairefiche-personnellepersonneburkhardt-jean-marie">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Jean-Marie Burkhardt (Université Gustave Eiffel) : https://www.ifsttar.fr/menu-haut/annuaire/fiche-personnelle/personne/burkhardt-jean-marie/" srcset="
+/post/23-06-06-retour-pleinieres-2023/jeanMarieB_hucfca0eb1b5c0afb5dbb0ceab0dda51c7_113984_e3f4ef1a3a3c9fc8846650baa5a5c851.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/jeanMarieB_hucfca0eb1b5c0afb5dbb0ceab0dda51c7_113984_a975f74ef6c1ab3348dc9e833b86f0b0.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/jeanMarieB_hucfca0eb1b5c0afb5dbb0ceab0dda51c7_113984_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/jeanMarieB_hucfca0eb1b5c0afb5dbb0ceab0dda51c7_113984_e3f4ef1a3a3c9fc8846650baa5a5c851.webp"
+width="203"
+height="203"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Jean-Marie Burkhardt (Université Gustave Eiffel) : &lt;a href="https://www.ifsttar.fr/menu-haut/annuaire/fiche-personnelle/personne/burkhardt-jean-marie/" target="_blank" rel="noopener">https://www.ifsttar.fr/menu-haut/annuaire/fiche-personnelle/personne/burkhardt-jean-marie/&lt;/a>
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="rémi-ronfard">Rémi Ronfard&lt;/h2>
+&lt;p>Rémi Ronfard est directeur de recherche à Inria, et dirige l&amp;rsquo;équipe Anima d&amp;rsquo;Inria Grenoble Rhone Alpes. Sa recherche porte sur les modèles informatiques de la narration visuelle et de la réalisation de films, et plus précisement sur le développement d&amp;rsquo;outils informatiques pour la réalisation de films d&amp;rsquo;animation et de jeux interactifs, utilisant des décors virtuels, des acteurs, des caméras et des lumières.&lt;/p>
+&lt;p>Il a présenté les résultats d&amp;rsquo;une mission exploratoire sur les métavers, en définissant tout d&amp;rsquo;abord les différents types de metavers puis les principaux axes de reflexion autour d&amp;rsquo;une stratégie metaversique, des questions de socitété soulevées par le metavers aux besoins de régulation.&lt;/p>
+&lt;p>&lt;a href="https://gdr-igrv.fr/uploads/Metavers%20-%20Mai%202023_R%c3%a9mi%20Ronfard.pdf"> Accéder à la présentation &lt;/a>&lt;/p>
+&lt;figure id="figure-rémi-ronfard-inria--httpsteaminriafranimaremi-ronfard">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Rémi Ronfard (INRIA) : https://team.inria.fr/anima/remi-ronfard/" srcset="
+/post/23-06-06-retour-pleinieres-2023/remiR_hu9c16a90acf421e3d00babe2090f04297_44442_637b1b551e835c60df9a41c0ad8baf04.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/remiR_hu9c16a90acf421e3d00babe2090f04297_44442_dfb8f655f6e48cd75f46215658a2d5a2.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/remiR_hu9c16a90acf421e3d00babe2090f04297_44442_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/remiR_hu9c16a90acf421e3d00babe2090f04297_44442_637b1b551e835c60df9a41c0ad8baf04.webp"
+width="234"
+height="300"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Rémi Ronfard (INRIA) : &lt;a href="https://team.inria.fr/anima/remi-ronfard/" target="_blank" rel="noopener">https://team.inria.fr/anima/remi-ronfard/&lt;/a>
+&lt;/figcaption>&lt;/figure>
+&lt;h1 id="session-futur-du">Session &amp;ldquo;futur du&amp;hellip;&amp;rdquo;&lt;/h1>
+&lt;h2 id="george-drettakis">George Drettakis&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-06-06-retour-pleinieres-2023/session_george_hu9c8879c4c5db3e353099dc518ed8460d_136296_f587f6a54c6f00212b1e3c549478a415.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/session_george_hu9c8879c4c5db3e353099dc518ed8460d_136296_0b2ce6c6efb040ede3efba0b81eb1efd.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/session_george_hu9c8879c4c5db3e353099dc518ed8460d_136296_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/session_george_hu9c8879c4c5db3e353099dc518ed8460d_136296_f587f6a54c6f00212b1e3c549478a415.webp"
+width="760"
+height="506"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>George Drettakis est Directeur de recherche à Inria et dirige l&amp;rsquo;équipe GraphDeco d&amp;rsquo;Inria Sophia Antipolis Mediterranée. Ses recherches portent sur le rendu et les textures à base d&amp;rsquo;images, l&amp;rsquo;illumination interactive, les ombres, le rééclairage et le rendu interactif en général.&lt;/p>
+&lt;p>Il a présenté une perspective personnelle de l&amp;rsquo;évolution du rendu graphique, remontant dans le temps pour retracer l&amp;rsquo;histoire du rendu graphique, en mettant en évidence les problèmes ouverts et les avancées majeures, et abordant également les récentes avancées dans le domaine du rendu neuronal, ainsi que les opportunités identifiées pour l&amp;rsquo;avenir du rendu.&lt;/p>
+&lt;p>&lt;a href="https://gdr-igrv.fr/uploads/The%20Future%20of%20RenderingNoVideos.pdf"> Accéder à la présentation (pdf sans vidéo)&lt;/a>&lt;/p>
+&lt;figure id="figure-george-drettakis-inria-sophia-antipolis---httpwww-sopinriafrmembersgeorgedrettakis">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="George Drettakis (INRIA, Sophia-Antipolis) : http://www-sop.inria.fr/members/George.Drettakis/" srcset="
+/post/23-06-06-retour-pleinieres-2023/georgeG_hu72bbbbec7c0329f3a5c49a314d1884d9_17120_35b59389f50208e366425b87190f0fdb.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/georgeG_hu72bbbbec7c0329f3a5c49a314d1884d9_17120_fde72d84b2a811cfc1e06cb35cc069e0.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/georgeG_hu72bbbbec7c0329f3a5c49a314d1884d9_17120_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/georgeG_hu72bbbbec7c0329f3a5c49a314d1884d9_17120_35b59389f50208e366425b87190f0fdb.webp"
+width="224"
+height="300"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+George Drettakis (INRIA, Sophia-Antipolis) : &lt;a href="http://www-sop.inria.fr/members/George.Drettakis/" target="_blank" rel="noopener">http://www-sop.inria.fr/members/George.Drettakis/&lt;/a>
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="tamy-boubekeur">Tamy Boubekeur&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/23-06-06-retour-pleinieres-2023/session_tamy_hu9c8879c4c5db3e353099dc518ed8460d_138717_116cf2393d099063aa08a3a187d3b539.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/session_tamy_hu9c8879c4c5db3e353099dc518ed8460d_138717_744ff97b0bc97286aed654d48608148b.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/session_tamy_hu9c8879c4c5db3e353099dc518ed8460d_138717_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/session_tamy_hu9c8879c4c5db3e353099dc518ed8460d_138717_116cf2393d099063aa08a3a187d3b539.webp"
+width="760"
+height="506"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>Tamy Boubekeur est actuellement directeur de laboratoire et chercheur chez Adobe Research, ainsi que professeur au département d&amp;rsquo;informatique de l&amp;rsquo;Ecole Polytechnique, Institut Polytechnique de Paris. Ses domaines de recherche personnels se concentrent sur l&amp;rsquo;infographie 3D, avec un intérêt particulier pour la modélisation, le rendu et l&amp;rsquo;apprentissage efficace des données 3D.&lt;/p>
+&lt;p>Il a présenté différents projets autour d&amp;rsquo;outils d&amp;rsquo;édition et de création de contenu 3D (textures, géométrie&amp;hellip;), en insistant sur l&amp;rsquo;aspect multi-scalaire de ces différentes solutions.&lt;/p>
+&lt;figure id="figure-tamy-boubekeur-adobe-research-httpsresearchadobecompersontamy-boubekeur">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Tamy Boubekeur (Adobe Research) https://research.adobe.com/person/tamy-boubekeur/" srcset="
+/post/23-06-06-retour-pleinieres-2023/tamyB_hub3758cf5bb13ac6ae63ed1850f9b1d9b_30430_9aa187625280cf41b3045cc80a76d935.webp 400w,
+/post/23-06-06-retour-pleinieres-2023/tamyB_hub3758cf5bb13ac6ae63ed1850f9b1d9b_30430_8231019291c6feeeaf9e67a1a617b73e.webp 760w,
+/post/23-06-06-retour-pleinieres-2023/tamyB_hub3758cf5bb13ac6ae63ed1850f9b1d9b_30430_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://gdr-igrv.fr/post/23-06-06-retour-pleinieres-2023/tamyB_hub3758cf5bb13ac6ae63ed1850f9b1d9b_30430_9aa187625280cf41b3045cc80a76d935.webp"
+width="300"
+height="300"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Tamy Boubekeur (Adobe Research) &lt;a href="https://research.adobe.com/person/tamy-boubekeur/" target="_blank" rel="noopener">https://research.adobe.com/person/tamy-boubekeur/&lt;/a>
+&lt;/figcaption>&lt;/figure></description></item><item><title>Retour mobilités inter-laboratoires 2022</title><link>https://gdr-igrv.fr/post/23-04-28-retours-mobilites/</link><pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/post/23-04-28-retours-mobilites/</guid><description>&lt;p>&lt;em>L&amp;rsquo;action de mobilité entre laboratoires français via le financement de court séjour d&amp;rsquo;un doctorant ou d&amp;rsquo;un enseignant-chercheur/chercheur du GdR a permis la réalisation de 5 mobilités en 2022.&lt;/em>&lt;/p>
+&lt;h3 id="myriam-servieres--aau-nantes--lab-sticc-brest--8-9-décembre-2022">Myriam Servieres – AAU (Nantes) / Lab-STICC (Brest) – 8-9 décembre 2022&lt;/h3>
+&lt;figure id="figure-exemple-de-reprojection-en-réalité-augmentée-dune-maquette-urbaine-25d-sur-site">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Exemple de reprojection en Réalité Augmentée d&amp;#39;une maquette urbaine 2,5D sur site" srcset="
+/post/23-04-28-retours-mobilites/myriam1_hu05c4f0a142292c4bbb2ef93a53ddbc36_1023014_24892c166e53527f877492c285508548.webp 400w,
+/post/23-04-28-retours-mobilites/myriam1_hu05c4f0a142292c4bbb2ef93a53ddbc36_1023014_ab6706a7ba6d8e31ffe55cd1a74ae705.webp 760w,
+/post/23-04-28-retours-mobilites/myriam1_hu05c4f0a142292c4bbb2ef93a53ddbc36_1023014_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-04-28-retours-mobilites/myriam1_hu05c4f0a142292c4bbb2ef93a53ddbc36_1023014_24892c166e53527f877492c285508548.webp"
+width="760"
+height="528"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Exemple de reprojection en Réalité Augmentée d&amp;rsquo;une maquette urbaine 2,5D sur site
+&lt;/figcaption>&lt;/figure>
+&lt;p>La visite du jeudi 8 au vendredi 9 décembre sur le site de l’IMT Atlantique de Myriam Servières a permis de renforcer les collaborations entre les équipes AAU - Crénau et Lab-STICC - INUIT. Le groupe de recherche 3V d&amp;rsquo;AAU se concentre sur le triptyque vision-visibilité-visualisation qui articule l&amp;rsquo;utilisation de données urbaines 3D spatiales et temporelles avec la primauté de l&amp;rsquo;aspect visuel et l&amp;rsquo;instrumentation numérique. L&amp;rsquo;équipe INUIT se focalise sur des solutions technologiques immersives et leur évaluation pour améliorer leur naturalité et se concentre sur la proposition ou l’amélioration de ces dispositifs d’interactions. Lors de cette visite, des collaborations portant sur la perception des visibilités et des affordances dans un contexte urbain (perception d&amp;rsquo;ambiances lumineuses, perception des vulnérabilités pour une ville inclusive) ont notamment été initiées.&lt;/p>
+&lt;h3 id="charline-grenier--icube-strasbourg--liris-lyon--novembre-2022">Charline Grenier – ICube (Strasbourg) / LIRIS (Lyon) – novembre 2022&lt;/h3>
+&lt;p>
+&lt;figure id="figure-représentation-dun-terrain-à-deux-étapes-dédition-par-un-artiste">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Représentation d&amp;#39;un terrain à deux étapes d&amp;#39;édition par un artiste" srcset="
+/post/23-04-28-retours-mobilites/charline1_hu1843963492ea4dd6523f38cabcb0fb96_1759404_af661668f8333339c78518dc05c31fc1.webp 400w,
+/post/23-04-28-retours-mobilites/charline1_hu1843963492ea4dd6523f38cabcb0fb96_1759404_d851018ecd14b8ff16caea81ce902b99.webp 760w,
+/post/23-04-28-retours-mobilites/charline1_hu1843963492ea4dd6523f38cabcb0fb96_1759404_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-04-28-retours-mobilites/charline1_hu1843963492ea4dd6523f38cabcb0fb96_1759404_af661668f8333339c78518dc05c31fc1.webp"
+width="760"
+height="285"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Représentation d&amp;rsquo;un terrain à deux étapes d&amp;rsquo;édition par un artiste
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-exemples-de-motifs-procéduraux-structurés">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Exemples de motifs procéduraux structurés" srcset="
+/post/23-04-28-retours-mobilites/charline2_hu18774e19196f82bf9be7504bf3df1f71_387996_028f5d24e713430d68f36dff028f9d76.webp 400w,
+/post/23-04-28-retours-mobilites/charline2_hu18774e19196f82bf9be7504bf3df1f71_387996_b1f651ae26d93a04a9800c973df1dbf6.webp 760w,
+/post/23-04-28-retours-mobilites/charline2_hu18774e19196f82bf9be7504bf3df1f71_387996_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-04-28-retours-mobilites/charline2_hu18774e19196f82bf9be7504bf3df1f71_387996_028f5d24e713430d68f36dff028f9d76.webp"
+width="760"
+height="214"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Exemples de motifs procéduraux structurés
+&lt;/figcaption>&lt;/figure>&lt;/p>
+&lt;p>Dans le cadre d&amp;rsquo;une thèse menée au laboratoire ICube portant sur la génération et le rendu de textures procédurales, en particulier la synthèse de motifs structurés, une collaboration avec l&amp;rsquo;équipe Origami du LIRIS a été initiée à Lyon. Eric Guérin y travaille sur la création, l&amp;rsquo;édition et le rendu de terrains virtuels. Il a été constaté que des détails structurés présents dans les paysages réels sont difficiles à générer et à contrôler en utilisant les méthodes spécifiques à la génération de terrains. Ainsi, les méthodes de génération de textures structurées ont été explorées en vue de leur utilisation pour la génération de terrains, les algorithmes de synthèse de textures permettant une génération procédurale, à la volée et offrant un bon contrôle du résultat final.&lt;/p>
+&lt;h3 id="boris-bordeaux--lib-dijon--imag-montpellier--12-16-décembre-2022">Boris Bordeaux – LIB (Dijon) / IMAG (Montpellier) – 12-16 décembre 2022&lt;/h3>
+&lt;figure id="figure-illustration-du-lien-entre-les-empilements-de-sphères-et-le-modèle-bc-ifs-gauche-et-centre-exemple-3d-dempilements-de-sphères-droite">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Illustration du lien entre les empilements de sphères et le modèle BC-IFS (gauche et centre), Exemple 3D d&amp;#39;empilements de sphères (droite)" srcset="
+/post/23-04-28-retours-mobilites/boris12_hu036c17802d5fe26f48480c161d879ffc_840337_65ea3045e82dcbf5625ba2b5e7d2f9cb.webp 400w,
+/post/23-04-28-retours-mobilites/boris12_hu036c17802d5fe26f48480c161d879ffc_840337_6c685e8397d07f4b4acf1b1742629f9c.webp 760w,
+/post/23-04-28-retours-mobilites/boris12_hu036c17802d5fe26f48480c161d879ffc_840337_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-04-28-retours-mobilites/boris12_hu036c17802d5fe26f48480c161d879ffc_840337_65ea3045e82dcbf5625ba2b5e7d2f9cb.webp"
+width="760"
+height="232"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Illustration du lien entre les empilements de sphères et le modèle BC-IFS (gauche et centre), Exemple 3D d&amp;rsquo;empilements de sphères (droite)
+&lt;/figcaption>&lt;/figure>
+&lt;p>La mobilité s’inscrit dans le cadre d’un projet visant à concevoir des structures
+lacunaires fractales. Le LIB développe des modèles itératifs codant la topologie de structures
+fractales. Cependant la conception des structures 3D reste une démarche complexe et manuelle.
+D’autre part, l’IMAG développe des méthodes automatiques de construction d’empilements de
+sphères, produisant des structures fractales. La complémentarité des approches permet d’envisager
+de développer des méthodes de conceptions automatiques et paramétrables de structures lacunaires
+3D.&lt;/p>
+&lt;h3 id="manon-vialle--ljk-grenoble--ex-situ-paris-saclay--novembre-décembre-2022">Manon Vialle – LJK (Grenoble) / Ex-Situ (Paris-Saclay) – novembre-décembre 2022&lt;/h3>
+&lt;figure id="figure-danseur-professionnel-utilisant-le-système-gauche-exemple-de-visualisation-droite">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Danseur professionnel utilisant le système (gauche), Exemple de visualisation (droite)" srcset="
+/post/23-04-28-retours-mobilites/manon12_huab49302ee272980f5597d400c47ae82b_2148048_6dea2bdbd120a40ba61f3b250fa07198.webp 400w,
+/post/23-04-28-retours-mobilites/manon12_huab49302ee272980f5597d400c47ae82b_2148048_1bc2a56ec8df231b291ae567912482e7.webp 760w,
+/post/23-04-28-retours-mobilites/manon12_huab49302ee272980f5597d400c47ae82b_2148048_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-04-28-retours-mobilites/manon12_huab49302ee272980f5597d400c47ae82b_2148048_6dea2bdbd120a40ba61f3b250fa07198.webp"
+width="760"
+height="282"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Danseur professionnel utilisant le système (gauche), Exemple de visualisation (droite)
+&lt;/figcaption>&lt;/figure>
+&lt;p>Cette mobilité s&amp;rsquo;inscrit dans le cadre du projet Isadora, une archive vivante élaborée en collaboration avec les équipes Inria Anima et Ex-Situ, le Centre National de la Danse, la danseuse Elisabeth Schwartz et le mocaplab. Le travail de la thèse associée a consisté à élaborer des modèles abstraits du corps des danseurs pour transmettre des qualités intrinsèques de mouvement telles que la fluidité.
+Sa thèse a évolué vers un sujet beaucoup plus centré sur l&amp;rsquo;Interaction Humain Machine, notamment dans le cadre de son deuxième projet sur la spatialisation du mouvement. Pour répondre à ces nouveaux défis, cette mobilité de 6 semaines a permis une formation en profondeur dans ce domaine au sein du laboratoire Ex-situ pour profiter de leur expertise et suivre les formations proposées par les membres de l&amp;rsquo;équipe et la faculté de Paris Saclay, ainsi qu’un formation en danse avec la danseuse Elisabeth Schwartz. De plus, un prototype de spatialisation du mouvement en réalité augmentée a été mis au point, en se basant sur une collaboration étroite avec Elisabeth Schwarz et en suivant une méthode de co-design. Ce prototype a été testé et évalué lors d’un workshop avec des danseurs. Tous ces travaux ont mené à une publication à venir dans la conférence Creativity and Cognition 2023.&lt;/p>
+&lt;h3 id="florian-beguet--lis-marseille--lib-dijon--décembre-2022">Florian Beguet – LIS (Marseille) / LIB (Dijon) – décembre 2022&lt;/h3>
+&lt;figure id="figure-a-morceau-dune-brique-fragmentée-sur-lequel-est-plaqué-la-dimension-de-corrélation-b-graphe-de-reeb-correspondant-à-a-c-segmentation-de-la-brique-à-partir-dun-partitionnement-du-graphe">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="A. Morceau d’une brique fragmentée sur lequel est plaqué la dimension de corrélation. B. Graphe de Reeb correspondant à A. C. Segmentation de la brique à partir d’un partitionnement du graphe" srcset="
+/post/23-04-28-retours-mobilites/florian1_huf664376d31a2a3a4cd08d922419f6fe8_520290_624ebd8bb7cdbbe7698c102f4c792c4d.webp 400w,
+/post/23-04-28-retours-mobilites/florian1_huf664376d31a2a3a4cd08d922419f6fe8_520290_78fb2a621001e25e6fba4f87ac96a38a.webp 760w,
+/post/23-04-28-retours-mobilites/florian1_huf664376d31a2a3a4cd08d922419f6fe8_520290_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-04-28-retours-mobilites/florian1_huf664376d31a2a3a4cd08d922419f6fe8_520290_624ebd8bb7cdbbe7698c102f4c792c4d.webp"
+width="760"
+height="291"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+A. Morceau d’une brique fragmentée sur lequel est plaqué la dimension de corrélation. B. Graphe de Reeb correspondant à A. C. Segmentation de la brique à partir d’un partitionnement du graphe
+&lt;/figcaption>&lt;/figure>
+&lt;p>Cette mobilité se place dans le cadre du projet de recherche intitulé &amp;ldquo;Caractérisation de pièces archéologiques&amp;rdquo;, en collaboration entre le laboratoire LIB de l&amp;rsquo;Université de Bourgogne, le laboratoire ArteHis de Dijon et l&amp;rsquo;USTH de Hanoi (Vietnam). L&amp;rsquo;objectif de ce projet est de caractériser les zones de fracture sur des modèles archéologiques numérisés afin de les apparier et les reconstruire. Une méthode basée sur l&amp;rsquo;utilisation d&amp;rsquo;un graphe de Reeb, calculé sur une fonction d&amp;rsquo;indice de forme, a été développée pour extraire des caractéristiques autosimilaires avec des contraintes a priori sur une surface maillée. Cette mobilité a été effectuée dans l&amp;rsquo;optique de présenter ces travaux aux équipes impliquées dans le projet ainsi que les deux hypothèses suivantes. La première hypothèse est que cette approche pourrait être appliquée pour l&amp;rsquo;extraction de zones de fractures en modifiant la fonction d&amp;rsquo;indice de forme avec une fonction basée sur la géométrie mais plus adaptée. Des premiers résultats issus des discussions avec les équipes ont permis d’identifier une fonction de rugosité basée sur la dimension de corrélation. Le graphe de Reeb de cette fonction a ensuite permis d’isoler les régions rugueuses correspondantes aux zones fracturés. La seconde hypothèse abordée a été qu’une approche multi-résolution permettrait d&amp;rsquo;éviter l&amp;rsquo;influence du bruit pour la détection des fractures tout en conservant les informations importantes pour l&amp;rsquo;appariement.&lt;/p>
+&lt;h3 id="phuc-ngo--loria-nancy--greyc-caen--décembre-2022">Phuc Ngo – Loria (Nancy) / GREYC (Caen) – décembre 2022&lt;/h3>
+&lt;figure id="figure-exemples-de-courbes-tangentielles-adaptatives-sur-des-courbes-numériques-bruitées-en-2d-et-3d">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Exemples de courbes tangentielles adaptatives sur des courbes numériques bruitées en 2D et 3D" srcset="
+/post/23-04-28-retours-mobilites/phuc1_hu8213736187bcd5b0f03ce3d45078c0a8_44210_82d20a86fc609d268280bfbab56c07a7.webp 400w,
+/post/23-04-28-retours-mobilites/phuc1_hu8213736187bcd5b0f03ce3d45078c0a8_44210_7d75592d6e8c1c6ef2639595b7873694.webp 760w,
+/post/23-04-28-retours-mobilites/phuc1_hu8213736187bcd5b0f03ce3d45078c0a8_44210_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/post/23-04-28-retours-mobilites/phuc1_hu8213736187bcd5b0f03ce3d45078c0a8_44210_82d20a86fc609d268280bfbab56c07a7.webp"
+width="760"
+height="253"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Exemples de courbes tangentielles adaptatives sur des courbes numériques bruitées en 2D et 3D
+&lt;/figcaption>&lt;/figure>
+&lt;p>Pendant son séjour, Phuc Ngo a été accueillie par Mme Kenmochi ainsi que les membres de l&amp;rsquo;équipe Image. Les travaux de recherche ont été présentés devant l&amp;rsquo;équipe, se concentrant notamment sur le thème de l&amp;rsquo;&amp;ldquo;Étude géométrique des courbes discrètes bruitées&amp;rdquo;. Des discussions enrichissantes ont eu lieu sur ce sujet, avec des propositions de collaboration pour l&amp;rsquo;exploration d&amp;rsquo;applications liées aux Line-arts.&lt;/p></description></item><item><title>De nouveaux rédacteurs scientifiques rejoignent l'équipe de rédaction du site</title><link>https://gdr-igrv.fr/post/21-09-30-new-redactors/</link><pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/post/21-09-30-new-redactors/</guid><description>&lt;p>&lt;a href="https://gdr-igrv.fr/author/johanna-delanoy/">Johanna&lt;/a>, &lt;a href="https://gdr-igrv.fr/author/rebecca-fribourg/">Rebecca&lt;/a> et &lt;a href="https://gdr-igrv.fr/author/etienne-corman/">Étienne&lt;/a> rejoignent l&amp;rsquo;équipe de rédaction du site web du GdR. Ils participeront à la rédaction des articles et brèves du site et à la communication du GdR. Merci à eux !&lt;/p></description></item></channel></rss>
