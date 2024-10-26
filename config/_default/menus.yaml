@@ -88,6 +88,10 @@ main:
     url: actions/plenieres
     weight: 1
   - parent: action
+    name: Écoles de recherche
+    url: actions/ecoles
+    weight: 1
+  - parent: action
     name: Financement de missions pour journées du GdR
     url: actions/missions
     weight: 2

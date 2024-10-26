@@ -3,7 +3,7 @@ widget: blank
 headless: false
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Prix de Thèse du GdR
+title: Prix de thèse du GdR
 subtitle:
 weight: 1  # section position on page
 design:

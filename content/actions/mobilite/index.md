@@ -32,6 +32,12 @@ Une décision très rapide devrait arriver dans la foulée pour la mise en place
 
 ## Mobilités passées
 
+
+### En 2023 :
+
+ * [Retour sur les mobilités 2023](https://gdr-igrv.fr/post/24-06-24-retours-mobilites/)
+
+
 ### En 2022 :
 
  * [Retour sur les mobilités 2022](https://gdr-igrv.fr/post/23-04-28-retours-mobilites/)

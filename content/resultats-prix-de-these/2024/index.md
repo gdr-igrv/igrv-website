@@ -13,6 +13,7 @@ authors:
 {{< video src="https://projet.liris.cnrs.fr/gdr-igrv-data/Videos-PrixThese/2024/emilie-yu-phd-video.mp4" controls="yes" >}}
 
 
+
 [Thèse](https://theses.hal.science/tel-04484971)
 
 ## Accessits
@@ -22,11 +23,13 @@ authors:
 {{< video src="https://projet.liris.cnrs.fr/gdr-igrv-data/Videos-PrixThese/2024/LoannGio_igrv_jfig_v3.mp4" controls="yes" >}}
 
 
+
 [Thèse](https://theses.hal.science/tel-04312123)
 
 **Axel Paris** (Université de Lyon) pour sa thèse intitulée « *Modeling and simulating virtual terrains* » effectuée sous la direction de Eric Galin et Eric Guérin.
 
 {{< video src="https://projet.liris.cnrs.fr/gdr-igrv-data/Videos-PrixThese/2024/AxelParisJFIGVideo.mp4" controls="yes" >}}
+
 
 
 [Thèse](https://theses.hal.science/tel-04502530v1)
