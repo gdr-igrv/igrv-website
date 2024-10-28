@@ -21,11 +21,11 @@ Mis en place en janvier 2022, le comité de direction s'organise autour de réf�
 
 Le conseil scientifique se compose du comité de direction ainsi que des responsables de groupe de travail :
   - GT Animation et Simulation  ({{% mention "caroline-larboulette" %}} —Univ Bretagne sud—, {{% mention "nicolas-castagne" %}} —Grenoble INP— )
-  - GT Géométrie discrète & morphologie mathématique ({{% mention "isabelle-sivignon" %}}—CNRS, Gipsa Lab— , {{% mention "nicolas-passat" %}} —Univ Reims—)
+  - GT Géométrie discrète & morphologie mathématique ({{% mention "isabelle-sivignon" %}}—CNRS, Gipsa Lab— , {{% mention "jean-cousty" %}} —LIGM, ESIEE Paris—)
   - GT Modélisation Géométrique ({{% mention "Julie Digne" %}} —CNRS, LIRIS—,  {{% mention "Romain Raffin" %}} —Univ Bourgogne—)
   - GT Rendu ({{% mention "george-drettakis" %}} —INRIA CRISAM—, {{% mention "romain-vergne" %}} — Univ Grenoble Alpes—)
-  - GT Réalités virtuelles ({{% mention "laure-leroy" %}} —Univ Paris 8— , {{% mention "jean-marie-normand" %}} —École Centrale de Nantes— )
-  - GT Visualisation ({{% mention "julien-tierny" %}} —CNRS, LIP6— , {{% mention "romain-vuillemot" %}} —École Centrale de Lyon—)
+  - GT Réalités virtuelles ({{% mention "cedric-fleury" %}} —IMT Atlantique— , {{% mention "jean-marie-normand" %}} —École Centrale de Nantes— )
+  - GT Visualisation ({{% mention "jonathan-sarton" %}} —Université de Strasbourg, ICube— , {{% mention "romain-vuillemot" %}} —École Centrale de Lyon—)
 
 Un groupe de rédacteurs scientifiques a été mis en place pour la diffusion de brèves scientifiques au sein des communautés du GdR et pour le grand public :  {{% mention "johanna-delanoy"%}} (INSA Lyon), {{% mention "rebecca-fribourg" %}} (École Centrale de Nantes) et {{% mention "etienne-corman" %}} (CNRS, LORIA)
 
