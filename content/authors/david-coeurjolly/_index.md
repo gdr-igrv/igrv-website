@@ -11,7 +11,7 @@ role: Directeur
 # Organizations/Affiliations
 organizations:
 - name: CNRS, LIRIS
-  url: ""
+  url: "http://liris.cnrs.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
