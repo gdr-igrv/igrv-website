@@ -8,7 +8,7 @@ date: 2021-06-21
 
 <img src="photo gtrv.png" height="300">
 
-* **Responsables** : Cédric Fleury (IMT Atlantiqyue; INUIT), Jean-Marie Normand (AAU/Hybrid, École Centrale de Nantes).
+* **Responsables** : Cédric Fleury (IMT Atlantique; INUIT), Jean-Marie Normand (AAU/Hybrid, École Centrale de Nantes).
 * **Mots-clés** : réalité virtuelle, réalité augmentée, interaction 3D, métaphores, interfaces, multi-modalité,
 perception, cognition, motricité, comportement, immersion, présence, usages, acceptabilité.
 
