@@ -38,7 +38,7 @@ main:
     url: laboratoires
     weight: 13
 
-  - name: Communication
+  - name: Inscriptions/Communication
     identifier: communication
     weight: 47
   - parent: communication
