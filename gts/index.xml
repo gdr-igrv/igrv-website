@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Groupes de travail | GdR IG-RV</title><link>https://gdr-igrv.fr/gts/</link><atom:link href="https://gdr-igrv.fr/gts/index.xml" rel="self" type="application/rss+xml"/><description>Groupes de travail</description><generator>Wowchemy (https://wowchemy.com)</generator><language>fr-fr</language><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate><image><url>https://gdr-igrv.fr/media/icon_hu6ab350bd9da14bf3d770a252e9dc8f37_21017_512x512_fill_lanczos_center_3.png</url><title>Groupes de travail</title><link>https://gdr-igrv.fr/gts/</link></image><item><title>Groupe de travail "Géométrie discrète &amp; morphologie mathématique" (GT-GDMM)</title><link>https://gdr-igrv.fr/gts/gt-gdmm/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/gts/gt-gdmm/</guid><description>&lt;img src="segmentation_regularisation.png" height="300">
+&lt;ul>
+&lt;li>&lt;strong>Site&lt;/strong> : &lt;a href="http://gt-gdmm.u-bordeaux.fr" target="_blank" rel="noopener">http://gt-gdmm.u-bordeaux.fr&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Responsables&lt;/strong> : Isabelle Sivignon (GIPSA-Lab, Grenoble) et Jean Cousty (LIGM, Marne-la-Vallée)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : Géométrie discrète, morphologie mathématique, topologies discrète et digitale, imagerie discrète, graphes.&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Description&lt;/strong> : Par définition, le barycentre du GT GDMM est
+constitué par la Morphologie mathématique et de la Géométrie
+discrète, deux domaines dans lesquels la recherche française tient
+historiquement une place prépondérante. Néanmoins, les champs
+d’investigation du GT GDMM se sont largement ouverts au cours des
+dernières années, et la géométrie discrète comme la morphologie
+mathématique se développent désormais fortement à leurs interfaces,
+et notamment en lien avec les domaines suivants :&lt;/p>
+&lt;ul>
+&lt;li>Traitement de la géométrie ou Geometry processing, géométrie algorithmique, analyse numérique pour la géométrie digitale ;&lt;/li>
+&lt;li>Optimisation discrète, théorie des graphes, traitement du signal, machine learning pour la morphologie mathématique.&lt;/li>
+&lt;/ul>
+&lt;p>Ainsi, en sus des travaux intrinsèquement liés au GT GDMM, ces
+développements permettent d’établir des ponts avec plusieurs autres
+grands domaines relevant du GdR IGRV. On peut souligner par exemple des
+liens avec des problématiques de rendu (e.g. le développement
+d’opérateurs différentiels robustes pour l’application de textures sur
+des données discrètes) ; de la modélisation géométrique (e.g. modéli-
+sation par croquis via une forme digitale, modélisation de formes
+digitales par union de convexes) ; ou encore de la visualisation
+(e.g. visualisation de données de grandes dimensions par l’utilisation
+de modèles hiérarchiques de structures combinatoires).&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Groupe de travail "modélisation géométrique" (GT-MG)</title><link>https://gdr-igrv.fr/gts/gt-mg/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/gts/gt-mg/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/gts/gt-mg/logo-gt-mg_hu139f885b965f96c31b2cc6f06b8fdd6d_117244_18a4737f75546f570aab50faed897156.webp 400w,
+/gts/gt-mg/logo-gt-mg_hu139f885b965f96c31b2cc6f06b8fdd6d_117244_b73d33b021d9b9bf679ab01a4ed7a585.webp 760w,
+/gts/gt-mg/logo-gt-mg_hu139f885b965f96c31b2cc6f06b8fdd6d_117244_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://gdr-igrv.fr/gts/gt-mg/logo-gt-mg_hu139f885b965f96c31b2cc6f06b8fdd6d_117244_18a4737f75546f570aab50faed897156.webp"
+width="641"
+height="259"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Site&lt;/strong> : &lt;a href="http://gtmg.u-bourgogne.fr/" target="_blank" rel="noopener">http://gtmg.u-bourgogne.fr/&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Responsables&lt;/strong> : Julie Digne (CNRS, LIRIS, Lyon) et Romain Raffin (LIB, Dijon)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : Courbes, surfaces, maillages, modèles 3D, nuages de points, reconstruction, contraintes, déformation, multirésolution, paramétrisation, apprentissage, géométrie différentielle, algorithmes de subdivision, topologie, axe médian, squelette.&lt;/li>
+&lt;/ul>
+&lt;p>La modélisation géométrique est un domaine de recherche commun à l&amp;rsquo;informatique et aux mathématiques appliquées qui s&amp;rsquo;intéresse à des méthodes numériques et algorithmiques de création, représentation, modélisation, analyse et acquisition de formes géométriques 3D (courbes et surfaces, maillages, nuages de points et volumes, domaines discret, continu et semi-continu, analyse de formes, descripteurs).&lt;/p>
+&lt;p>Ce domaine de recherche combine théorie et applications de plusieurs disciplines :&lt;/p>
+&lt;ul>
+&lt;li>Informatique (algorithmes, structures de données, calcul numérique et symbolique, informatique graphique, géométrie algorithmique, traitement de données géométriques),&lt;/li>
+&lt;li>Mathématiques (géométrie différentielle, géométrie algébrique, approximation, optimisation, topologie calculatoire),&lt;/li>
+&lt;li>Ingénierie (génération de maillages, éléments finis, conception, prototypage virtuel).&lt;/li>
+&lt;/ul>
+&lt;p>Une des spécificités de la modélisation géométrique est de considérer de façon transverse ces 3 domaines. La modélisation sous contraintes utilise un ensemble de règles (géométrique, physique) et une résolution formelle ; des critères sémantiques ou esthétiques sont parfois considérés. La génération des maillages pour les méthodes à éléments finis en 2D ou 3D proposent des modèles hybrides (hexaédriques, tétraédriques ou plus généraux) ; les modèles volumiques gagnent en importance dans le contexte de la fabrication additive. Le &lt;em>geometry processing&lt;/em>, qui extrait des modèles géométriques à partir de données 3D larges et non-structurées, se base sur des théories mathématiques reconnues (optimisation robuste, transport optimal, méthodes &lt;em>a contrario&lt;/em>).&lt;/p>
+&lt;p>Traditionnellement les domaines applicatifs sont ceux de la CAO, la mécanique, le &lt;em>design&lt;/em> ou le jeu vidéo. De plus en plus, grâce à la démocratisation des moyens de numérisation, les contenus 3D sont largement présents dans tous les domaines industriels et à l&amp;rsquo;interface de nombreuses disciplines (multimedia, médecine, patrimoine&amp;hellip;). La demande de manipulation, de compréhension et d&amp;rsquo;analyse de modèles géométriques est donc plus pregnante, allant de la numérisation à l&amp;rsquo;impression de prototypes (grâce à la fabrication additive) en passant par les méthodes d&amp;rsquo;apprentissage (en particulier apprentissage profond).&lt;/p>
+&lt;p>Le GT MG fait également partie des GT du GDR Informatique Mathématique &lt;a href="https://www.gdr-im.fr/" target="_blank" rel="noopener">GDR IM&lt;/a>.&lt;/p></description></item><item><title>Groupe de travail "Réalités virtuelles" (GT-RV)</title><link>https://gdr-igrv.fr/gts/gt-rv/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/gts/gt-rv/</guid><description>&lt;img src="photo gtrv.png" height="300">
+&lt;ul>
+&lt;li>&lt;strong>Responsables&lt;/strong> : Cédric Fleury (IMT Atlantique; INUIT), Jean-Marie Normand (AAU/Hybrid, École Centrale de Nantes).&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : réalité virtuelle, réalité augmentée, interaction 3D, métaphores, interfaces, multi-modalité,
+perception, cognition, motricité, comportement, immersion, présence, usages, acceptabilité.&lt;/li>
+&lt;/ul>
+&lt;p>Le thème générique des modèles et techniques d’interaction en environnement virtuel, que ce soit
+dans un contexte de réalité virtuelle ou dans un contexte de réalité augmentée est central pour ce
+groupe de travail. La problématique de l’immersion et de l’interaction est abordée à la fois sous un
+angle technologique, essentiellement informatique, et d’un point de vue humano-centré. Malgré les
+très nombreux travaux scientifiques et les améliorations constantes des dispositifs techniques,
+l’interaction en environnement 3D reste un sujet d’actualité qui est très loin d’être clos, car il reste
+encore aujourd’hui difficile pour un sujet humain d’interagir avec un tel environnement. Le cœur
+scientifique de ce groupe de travail est la prise en compte les situations d&amp;rsquo;interaction d&amp;rsquo;un sujet humain
+avec un environnement de synthèse dans lequel il se trouve immergé, que ce soit dans un contexte de
+réalité virtuelle ou dans un contexte de réalité augmentée. L&amp;rsquo;objet d&amp;rsquo;étude est le couplage perceptivo-
+moteur et cognitif entre l&amp;rsquo;utilisateur et l&amp;rsquo;environnement. La question est donc abordée selon le
+triptyque : (1) tâche (action à réaliser dans l’environnement), (2) dispositif, à la fois logiciel (mise en
+évidence d’une métaphore d’interaction) et matériel (dispositif d’interaction) et (3) expérience vécue
+par le sujet humain.&lt;/p>
+&lt;p>Les nouvelles générations de dispositifs immersifs, visiocasques, lunettes de réalité augmentée, ou
+l’extension de leurs usages, soulèvent des questions sur leur acceptabilité, la nécessité d’une
+conception spécifique des environnements virtuels et des interfaces 3D, ou les limites des capacités
+d’adaptation des sujets humains à leur utilisation. Ces questions sont d’autant plus pertinentes que la
+réalité virtuelle ou augmentée est peut-être en passe de sortir d’un usage limité dans le temps, la
+nature des tâches et le profil des utilisateurs, pour investir des usages destinés à un public plus vaste
+(enfants, adultes, personnes âgées), pour des usages variés (ludiques, éducatifs, médicaux, etc.). Ce
+nouveau contexte motive que la communauté scientifique dresse un état des connaissances sur le
+36domaine et s’interroge sur les nouvelles études à mener. Par exemple, on peut s’interroger sur l’impact
+du type de dispositif sur la perception des distances, du mouvement, la précision des gestes, la
+locomotion, la perception de soi… Est-ce que les avancées technologiques font que les dispositifs ont
+des caractéristiques techniques garantissant une immersion de qualité (selon quels critères) ? Est-ce
+que les valeurs critiques des différents critères d’acceptabilité sont les mêmes ? Que sait-on de
+l’impact de leurs caractéristiques sur les processus physiologiques et cognitifs ? Existe-t-il des risques
+connus, potentiels, en matière de santé publique ? Est-il envisageable de définir des guides de
+conception des environnements virtuels adaptés à ces nouveaux contextes ?&lt;/p></description></item><item><title>Groupe de travail "Rendu" (GT-rendu)</title><link>https://gdr-igrv.fr/gts/gt-rendu/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/gts/gt-rendu/</guid><description>&lt;img src="rep-img-gt-rendu.jpg" height="300" >
+&lt;ul>
+&lt;li>&lt;strong>Site&lt;/strong> : &lt;a href="http://gtrendu.blogspot.fr/" target="_blank" rel="noopener">http://gtrendu.blogspot.fr/&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Responsable&lt;/strong> : Romain Vergne (LJK, Grenoble), George Drettakis (INRIA, Sophia-Antipolis)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : rendu photo réaliste, simulation de l&amp;rsquo;éclairage et d&amp;rsquo;effets lumineux, rendu inverse, rendu expressif, rendu artistique, réalité augmentée, rendu temps réel, rendu basé image.&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Description&lt;/strong> : Les objectifs du GT Rendu peuvent se résumer comme suit :&lt;/p>
+&lt;ul>
+&lt;li>Comprendre et prendre en compte la plupart des phénomènes lumineux pour créer des images réalistes, en maîtrisant les erreurs engendrées entre les modèles utilisés et la réalité.&lt;/li>
+&lt;li>Comprendre, modéliser et mettre en évidence les informations pertinentes pour obtenir des images adaptées à la communication et à l&amp;rsquo;expression visuelle.&lt;/li>
+&lt;/ul>
+&lt;p>Les modèles de rendu, réaliste ou non, deviennent de plus en plus complexes et conduisent donc à des temps de calcul de plus en plus grands. L&amp;rsquo;un des enjeux de la synthèse d&amp;rsquo;images reste le développement d&amp;rsquo;algorithmes plus performants en terme de vitesse de calcul. Un problème scientifique fondamental concerne la manipulation temps réel de grands volumes de données. Des problèmes algorithmiques difficiles restent à explorer et rejoignent les problèmes algorithmiques précédemment cités si l&amp;rsquo;on veut bénéficier de techniques de visualisation temps réel et dynamique des données.
+Les travaux récents des équipes françaises d&amp;rsquo;informatique graphique ont permis des avancées significatives dans la plupart des thématiques liées au rendu :&lt;/p>
+&lt;ul>
+&lt;li>L&amp;rsquo;acquisition et la représentation de matériaux qui constituent des problèmes complexes pour obtenir des images réalistes de manière efficace.&lt;/li>
+&lt;li>L&amp;rsquo;intelligence artificielle, et notamment sur l&amp;rsquo;apprentissage profond, qui nécessite un grand nombre d&amp;rsquo;images et de données en entrée qui sont souvent impossible à obtenir. La synthèse est une des clés permettant de générer ces données.&lt;/li>
+&lt;li>L&amp;rsquo;échantillonnage des données sur chaque pixel qui constitue un aspect primordial pour générer des images de qualité rapidement lors de la résolution de l&amp;rsquo;équation du rendu. Même si le problème n&amp;rsquo;est pas récent, il est toujours traité activement par la communauté.&lt;/li>
+&lt;li>Le rendu expressif, dont l&amp;rsquo;objectif est de produire des images stylisées ou plausibles en s&amp;rsquo;appuyant sur des schémas d&amp;rsquo;approximation du transport de la lumière ainsi que sur des analyses et expériences perceptuelles.&lt;/li>
+&lt;li>La génération de textures (par l&amp;rsquo;exemple ou procéduralement) qui constitue également un domaine de recherche actif pour obtenir des solutions en temps réel en contrôlant précisément les aspects de l&amp;rsquo;apparence finale des surfaces.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Groupe de travail "Visualisation" (GT-Visu)</title><link>https://gdr-igrv.fr/gts/gt-visu/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/gts/gt-visu/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Responsables&lt;/strong> : Jonathan Sarton (ICube, Université de Strasbourg), Romain Vuillemot (LIRIS, Lyon) et Florent Cabric (LISN, Paris Saclay)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : Visualisation scientifique, visualisation d’informations, Visual Analytics, Visual Data Mining, visualisation in-situ, High Performance Visualization, interactions visuelles, visualisation d&amp;rsquo;informations incertaines.&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://gdr-igrv.fr/gts/gt-as/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/gts/gt-as/</guid><description/></item></channel></rss>
