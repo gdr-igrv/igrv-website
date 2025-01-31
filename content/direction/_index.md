@@ -21,7 +21,7 @@ Mis en place en janvier 2022, le comité de direction s'organise autour de réf�
 
 Le conseil scientifique se compose du comité de direction ainsi que des responsables de groupe de travail :
   - GT Animation et Simulation  ({{% mention "caroline-larboulette" %}} —Univ Bretagne sud—, {{% mention "nicolas-castagne" %}} —Grenoble INP— )
-  - GT Géométrie discrète & morphologie mathématique ({{% mention "isabelle-sivignon" %}}—CNRS, Gipsa Lab— , {{% mention "jean-cousty" %}} —LIGM, ESIEE Paris—)
+  - GT Géométrie discrète & morphologie mathématique ({{% mention "phuc-ngo" %}}—Univ Lorraine, LORIA— , {{% mention "jean-cousty" %}} —LIGM, ESIEE Paris—)
   - GT Modélisation Géométrique ({{% mention "Julie Digne" %}} —CNRS, LIRIS—,  {{% mention "Romain Raffin" %}} —Univ Bourgogne—)
   - GT Rendu ({{% mention "george-drettakis" %}} —INRIA CRISAM—, {{% mention "romain-vergne" %}} — Univ Grenoble Alpes—)
   - GT Réalités virtuelles ({{% mention "cedric-fleury" %}} —IMT Atlantique— , {{% mention "jean-marie-normand" %}} —École Centrale de Nantes— )

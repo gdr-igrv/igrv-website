@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Isabelle Sivignon
+title: Phuc  Ngo
 
 # Is this the primary user of the site?
 superuser: false
@@ -8,13 +8,10 @@ superuser: false
 # Role/position
 role: "Co-responsable GT GDMM"
 
-draft: true
-
-
 # Organizations/Affiliations
 organizations:
-- name: CNRS, GIPSA-Lab
-  url: "http://www.gipsa-lab.grenoble-inp.fr/"
+- name: Université de Lorraine, LORIA
+  url: "https://members.loria.fr/HDPNgo/"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
