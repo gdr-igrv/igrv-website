@@ -31,7 +31,11 @@ Un groupe de rédacteurs scientifiques a été mis en place pour la diffusion de
 
 
 
-**Anciens membres (2022-...)**
+**Anciens responsables (2022-...)**
+
+* Laure Leroy
+* Nicolas Castagné
+* Isabelle Sivignon
 * Loïc Barthe
 * Géraldine Morin
 * Dmitry Sokolov
