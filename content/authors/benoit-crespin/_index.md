@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Nicolas Castagné
+title: Benoit Crespin
 
 # Is this the primary user of the site?
 superuser: false
-draft: true
+
 # Role/position
 role:
 
 # Organizations/Affiliations
 organizations:
-- name:  INP Grenoble
-  url: "https://www.grenoble-inp.fr"
-- name:  
-  url: ""
+- name: Université de Limoges
+  url: "https://www.unilim.fr"
+- name:   XLIM UMR CNRS 7252
+  url: "https://www.xlim.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
