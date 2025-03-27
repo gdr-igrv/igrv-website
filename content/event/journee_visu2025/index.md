@@ -1,13 +1,13 @@
 ---
 draft: false
-title: "Journée Visu 2025"
+title: "Journées Visu 2025"
 
 event: Visu2025
 event_url: https://visu-25.sciencesconf.org/
 
 location: "Amphithéâtre 2 du bâtiment C - sur le campus Moulin de la Housse"
 
-summary: "Journée Visu 2025"
+summary: "Journées Visu 2025"
 abstract: ""
 
 # Talk start and end times.
