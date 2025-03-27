@@ -5,7 +5,7 @@ title: "Journées Visu 2025"
 event: Visu2025
 event_url: https://visu-25.sciencesconf.org/
 
-location: "Amphithéâtre 2 du bâtiment C - sur le campus Moulin de la Housse"
+location: "Amphithéâtre 2 du bâtiment C - sur le campus Moulin de la Housse, IUT de Reims"
 
 summary: "Journées Visu 2025"
 abstract: ""
