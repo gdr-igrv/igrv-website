@@ -64,10 +64,11 @@ L'objectif n'est pas de faire de la sélection mais bien de permettre à chacun,
 
 DATES IMPORTANTES
 
-19 mars 2025 : Ouverture du site et des inscriptions
-12 mai 2025 : Date limite de soumission des articles
-30 mai 2025 : Notifications d'acceptation
-16 et 17 juin 2025 : Journée Visu à Reims (IUT de Reims)
+* 19 mars 2025 : Ouverture du site et des inscriptions
+* 12 mai 2025 : Date limite de soumission des articles
+* 30 mai 2025 : Notifications d'acceptation
+* 16 et 17 juin 2025 : Journée Visu à Reims (IUT de Reims)
+
 INSCRIPTIONS
 
 La journée Visu 2025 est gratuite et ouverte à toutes et tous dans la limite des capacités d'accueil. Les inscriptions sont cependant obligatoires.
@@ -97,10 +98,11 @@ The aim is not to be selective, but to give everyone the opportunity to present 
 
 IMPORTANT DATES
 
-March 19, 2025: Opening of the website and registration
-May 12, 2025: Deadline for submission of articles
-May 30, 2025: Notification of acceptance
-June 16 and 17, 2025: Vis'Day in Reims (IUT de Reims)
+* March 19, 2025: Opening of the website and registration
+* May 12, 2025: Deadline for submission of articles
+* May 30, 2025: Notification of acceptance
+* June 16 and 17, 2025: Vis'Day in Reims (IUT de Reims)
+
 REGISTRATION
 
 Vis'Day 2025 is free and open to all, subject to capacity. However, registration is compulsory.
