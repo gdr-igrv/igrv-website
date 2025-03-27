@@ -5,11 +5,10 @@ title: "Journée Visu 2025"
 event: Visu2025
 event_url: https://visu-25.sciencesconf.org/
 
-location: "Amphithéâtre Gaston Berger, Campus de La Doua, Lyon"
+location: "Amphithéâtre 2 du bâtiment C - sur le campus Moulin de la Housse"
 
 summary: "Journée Visu 2025"
-abstract: "La prochaine journée du groupe de travail Visualisation du GdR IG-RV se déroulera cette année encore sur deux demi-journées : l’après-midi du 16 juin et le matin du 17 juin 2025.
-Les équipes du LICIIS avec le soutien du CEA vous accueilleront dans les locaux de l'IUT de Reims - amphithéâtre 2 du bâtiment C - sur le campus Moulin de la Housse."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
