@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Journées du GT GDMM 2025
 
 event: GT GDMM 2025 Chambéry
