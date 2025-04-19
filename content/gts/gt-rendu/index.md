@@ -1,7 +1,7 @@
 ---
 title: Groupe de travail "Rendu" (GT-rendu)
 
-authors: ["Romain Vergne","George Drettakis"]
+authors: ["Romain Vergne","George Drettakis","Romain Pacanowski"]
 
 date: 2021-06-21
 ---
@@ -9,7 +9,7 @@ date: 2021-06-21
 <img src="rep-img-gt-rendu.jpg" height="300" >
 
 * **Site** : http://gtrendu.blogspot.fr/
-* **Responsable** : Romain Vergne (LJK, Grenoble), George Drettakis (INRIA, Sophia-Antipolis)
+* **Responsable** : Romain Vergne (LJK, Grenoble), George Drettakis (INRIA, Sophia-Antipolis), Romain Pacanowski (INRIA, Bordeaux)
 * **Mots-clés** : rendu photo réaliste, simulation de l'éclairage et d'effets lumineux, rendu inverse, rendu expressif, rendu artistique, réalité augmentée, rendu temps réel, rendu basé image.
 
 <br>
