@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Romain Vergne
+title: Romain Pacanowski
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,10 +10,8 @@ role: "Co-responsable GT Rendu"
 
 # Organizations/Affiliations
 organizations:
-- name:  Université Grenoble Alpes
-  url: "https://www.univ-grenoble-alpes.fr"
-- name: Laboratoire Jean  Kuntzmann, INRIA
-  url: "https://www-ljk.imag.fr/#header"
+- name:  INRIA Bordeaux Sud-Ouest
+  url: "https://www.inria.fr/"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
