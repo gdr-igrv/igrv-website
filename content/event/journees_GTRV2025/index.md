@@ -17,7 +17,7 @@ date_end: "2025-07-04T14:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2025-04-16"
+publishDate: "2025-04-28"
 
 authors:
   - Cédric Fleury
@@ -59,6 +59,8 @@ Les journées du GT-RV auront donc lieu les **3 juillet après-midi et 4 juillet
 - Les inscriptions aux journées du GT-RV sont gratuites, mais vous devez vous inscrire avant le 17 juin 2025 via ce lien d’inscription : https://evento.renater.fr/survey/participation-au-gt-rv-a-la-suite-des-journees-de-lancement-du-gdr-ihm-lrc0uty5
 
 - Pour la soirée du 3 juillet, nous nous proposons d’essayer d’organiser un dîner, où chacun devra régler sa part, afin de pouvoir nous retrouver ensemble. Vous pourrez nous indiquer si vous souhaitez participer à ce dîner, là aussi jusqu’au 17 juin via le même lien ci-dessus.
+
+- Pour la journée du 3 juillet, si vous souhaitez participer à toute la journée de lancement du GDR IHM (déjeuner et pauses inclus), il vous faudra vous inscrire séparément à cet événement (inscription payante).
 
 # Planning prévisionnel
 
