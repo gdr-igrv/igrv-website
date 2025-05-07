@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: jcgeo25 Jeunes Chercheuses et Chercheurs en Géométrie
 
 event: Journée Jeunes Chercheuses et Chercheurs en Géométrie
