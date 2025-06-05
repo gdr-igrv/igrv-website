@@ -22,7 +22,7 @@ date_end: "2025-09-15T16:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2024-03-17"
+publishDate: "2025-06-05"
 
 authors:
   - Romain Pacanowski
