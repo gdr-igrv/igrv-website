@@ -34,4 +34,4 @@ authors:
 
 [Thèse](https://theses.hal.science/tel-04502530v1)
 
-*Le jury 2023 a été animé par Georges-Pierre Bonneau et Guillaume Cordonnier. Il était composé de Yvonne Jansen, Jean-Michel Dischler, Bruno Levy, Damien Rohmer, Eric Galin, Daniel Mestre.*
+*Le jury 2024 a été animé par Georges-Pierre Bonneau et Guillaume Cordonnier. Il était composé de Yvonne Jansen, Jean-Michel Dischler, Bruno Levy, Damien Rohmer, Eric Galin, Daniel Mestre.*
