@@ -26,7 +26,9 @@ Chaque année le jury du prix de thèse du GdR propose un(e) lauréat(e) et d'é
 # Modalités
 
 Les modalités pratiques sont précisées ci-dessous et rappelées par mail sur la liste du GdR IG-RV.
-Pour les candidats ayant soutenu leur thèse durant l'année civile précédent l'année de tenue du jury du prix de thèse IGRV, les pièces suivantes seront demandées :
+Peuvent candidater les personnes ayant soutenu leur thèse au cours de l'année civile précédant l'année de tenue du jury du prix et dont la thèse est accessible publiquement. Une tolérance est prévue pour les thèses sujettes à confidentialité, à condition que la thèse soit rendue publique au plus tard un an après la date de soutenance. Dans ce cas, la candidature au prix de thèse est possible l'année civile suivant la date de levée de la confidentialité.
+
+Les pièces suivantes seront demandées :
 * un CV (2 pages maximum) ;
 * une liste de publications ;
 * le manuscrit de thèse ;
