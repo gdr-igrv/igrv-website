@@ -34,9 +34,17 @@ Les 27èmes Journées du GTAS, GT Animation et Simulation du GDR IG-RV du CNRS, 
 
 Merci à Pascal Guehl, Mathieu Desbrun et l'équipe du LIX de l'École Polytechnique de nous accueillir cette année.
 
+Pour vous inscrire, c'est ici / Register here : https://gtas2025.sciencesconf.org/
+
+L'inscription est gratuite mais obligatoire. Registration is free but mandatory
+
 ## Programme provisoire
 
 ### Lundi 7 juillet 2025
+
+- **10h - 12h30** : Atelier SOFA 
+
+- **12h30 - 13h55** : Pause repas 
 
 - **13h55 – 14h00** : Ouverture du GTAS  
 - **14h00 – 15h00** : **Keynote**  
@@ -73,7 +81,9 @@ Merci à Pascal Guehl, Mathieu Desbrun et l'équipe du LIX de l'École Polytechn
 - **10h30 – 10h45** : Pause café
 
 - **10h45 – 11h35** : **Session 4**
-  - *10h45 – 11h05* : Présentation à confirmer  
+
+  - *10h45 – 11h05* : MoCoSys: Human Motion Correction based on Deep Learning Coupled with 3D+t Laplacian Motion Representation, Mansour Tchenegnon, Expression IRISA
+
   - *11h10 – 11h25* : **Pipeline pour la capture et l’annotation à grande échelle de mouvements humains 3D à partir de vidéos collectées automatiquement**, Nathan Salazar (LIRIS)
 
 - **11h35 – 12h30** : Discussions prospectives
