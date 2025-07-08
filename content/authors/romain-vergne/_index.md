@@ -6,7 +6,7 @@ title: Romain Vergne
 superuser: false
 
 # Role/position
-role:
+role: "Co-responsable GT Rendu"
 
 # Organizations/Affiliations
 organizations:

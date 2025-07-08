@@ -15,10 +15,8 @@ authentifier sur groupes.renater.fr et ensuite à vous abonner aux listes par GT
 
   - [GT-AS]({{< relref "gts/gt-as" >}}) : https://groupes.renater.fr/sympa/info/igrv-gt-as
   - [GT-Rendu]({{< relref "gts/gt-rendu" >}}) : https://groupes.renater.fr/sympa/info/igrv-gt-rendu
-  - [GT-RV]({{< relref "gts/gt-rv" >}}) : https://groupes.renater.fr/sympa/info/igrv-gt-rv
-  - [GT-Visu]({{< relref "gts/gt-visu" >}}) : https://groupes.renater.fr/sympa/info/igrv-gt-visu
-  - Pour les [GT-MG]({{< relref "gts/gt-mg" >}}) et [GT-GDMM]({{< relref "gts/gt-gdmm" >}}), l'inscription sur les listes est automatique depuis myGdR.
-
+  - Pour les [GT-RV]({{< relref "gts/gt-rv" >}}), [GT-Visu]({{< relref "gts/gt-visu" >}}), [GT-MG]({{< relref "gts/gt-mg" >}}) et [GT-GDMM]({{< relref "gts/gt-gdmm" >}}), l'inscription sur les listes est automatique depuis myGdR.
+  
 Pour vérifier votre inscription sur les listes renater : [**mes listes**](https://groupes.renater.fr/sympa/my).
 
 

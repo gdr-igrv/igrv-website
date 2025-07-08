@@ -8,6 +8,9 @@ superuser: false
 # Role/position
 role: "Co-responsable GT GDMM"
 
+draft: true
+
+
 # Organizations/Affiliations
 organizations:
 - name: CNRS, GIPSA-Lab

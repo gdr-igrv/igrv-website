@@ -10,8 +10,6 @@ Un club des partenaires industriels selon un modèle ouvert complète l’ensemb
 
 **Contacts**:  {{% mention "guillaume-moreau" %}} (IMT Atlantique)
 
-# Membres du Club industriel
-[{{< figure src="img/Logo-hapticmedia.png" width="50%" lightbox="false">}}](https://hapticmedia.com/) 
 
 
 # Pourquoi rejoindre le club des partenaires du GdR IG-RV ?

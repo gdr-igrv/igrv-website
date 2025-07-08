@@ -24,5 +24,5 @@ lorsqu’il s’agit d’objets “mous” par exemple, ou d’objets articulés
 comme des personnages, et leurs transformations au cours du temps
 (rupture, fracture, recombinaison...).
 
-* **Responsables**:  {{% mention "caroline-larboulette" %}} (IRISA, Univ. Bretagne Sud) et {{% mention "nicolas-castagne" %}} (ICA, Grenoble)
+* **Responsables**:  {{% mention "caroline-larboulette" %}} (IRISA, Univ. Bretagne Sud) et {{% mention "benoit-crespin" %}} (XLIM, Limoges)
 * **Mots-clés** : Animation, simulation, image et temps, synthèse et capture du mouvement, modèles comportementaux, modèles physiques ...
