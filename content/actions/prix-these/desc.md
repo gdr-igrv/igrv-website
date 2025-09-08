@@ -11,8 +11,15 @@ design:
   columns: '1'
 ---
 
-Depuis 2017, le GdR IG-RV organise un prix de thèse IGRV avec le soutien des associations [AFIG](https://www.asso-afig.fr/site/) et [EGFR](https://projet.liris.cnrs.fr/egfr/). 
-<table><tr><td><a href="https://www.asso-afig.fr/site/"><img src="img/logoAFIG.jpg" width="100%"></a></td> <td><a href="https://projet.liris.cnrs.fr/egfr/"><img src="img/logoEGFR.png" width="30%"></a></td></tr></table>
+Depuis 2017, le GdR IG-RV organise un prix de thèse IGRV avec le soutien des associations [AFIG](https://www.asso-afig.fr/site/), [EGFR](https://projet.liris.cnrs.fr/egfr/) et [AFXR](https://www.afxr.org) (depuis 2026).
+
+<table>
+<tr>
+  <td><a href="https://www.asso-afig.fr/site/"><img src="img/logoAFIG.jpg" width="1000"></a></td>
+  <td><a href="https://projet.liris.cnrs.fr/egfr/"><img src="img/logoEGFR.png" width="100%"></a></td>
+  <td><a href="https://www.afxr.org"><img src="img/Logo AFXR 1k.png" ></a></td>
+ </tr>
+ </table>
 
 
 L’objectif de ce prix de thèse est de récompenser chaque année une excellente thèse issue de la communauté du GdR IG-RV.
