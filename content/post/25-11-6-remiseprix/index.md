@@ -11,10 +11,12 @@ authors:
  **Cyprien Plateau-Holleville** (XLIM, Université de Limoges)  pour sa thèse intitulée « Construction efficace de géométrie pour l’analyse structurelle de grands systèmes moléculaires ».
  
 Le prix a été remis par les organisateurs du Prix de thèse  {{% mention "georges-pierre-bonneau" %}},  ainsi que les présidents de l'AFIG, **
-Maxime Maria** et du Chapitre Français d'Eurographics (EGFR), **??????**.
+Maxime Maria** et du Chapitre Français d'Eurographics (EGFR).
+
+Les remises des prix aux accessits 2025 seront effectués ultérieurement. 
 
 
-*(photos Adrien Peytavie)*
+*(photos Christophe Renaud)*
 ![](20251106_112827.jpg)
 ![](20251106_113102.jpg)
 ![](20251106_113339.jpg)
