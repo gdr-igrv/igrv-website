@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://gdr-igrv.fr/sitemap.xml
