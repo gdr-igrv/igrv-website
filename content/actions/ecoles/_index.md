@@ -1,7 +1,7 @@
 ---
 title: Écoles de recherche du GdR
 date: 2021-06-21
-weight: 2
+weight: 11
 
 authors: 
   - Adrien Peytavie

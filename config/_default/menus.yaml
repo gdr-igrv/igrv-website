@@ -107,6 +107,10 @@ main:
     name: Prix de thèse
     url: actions/prix-these
     weight: 5
+  - parent: action
+    name: Code de conduite
+    url: actions/codeofconduct
+    weight: 6
 
   - name: Club  industriel
     url: club-industriel
