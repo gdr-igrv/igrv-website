@@ -1,19 +1,21 @@
 ---
 # Display name
-title: Romain Vergne
+title: Samuel Peltier
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Co-responsable GT Rendu"
-draft: true
+role:
+role: "Co-responsable GT MG"
+
+
 # Organizations/Affiliations
 organizations:
-- name:  Université Grenoble Alpes
-  url: "https://www.univ-grenoble-alpes.fr"
-- name: Laboratoire Jean  Kuntzmann, INRIA
-  url: "https://www-ljk.imag.fr/#header"
+- name:  Université de Poitiers
+  url: "https://www.univ-poitiers.fr"
+- name: XLIM
+  url: "https://www.xlim.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
