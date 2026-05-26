@@ -32,7 +32,7 @@ Un groupe de rédacteurs scientifiques a été mis en place pour la diffusion de
 
 
 **Anciens responsables (2022-...)**
-
+* Romain Vergne
 * Romain Raffin
 * Laure Leroy
 * Nicolas Castagné
