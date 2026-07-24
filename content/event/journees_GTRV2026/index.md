@@ -102,7 +102,7 @@ Des présentations de douze minutes maximum (hors questions) sont prévues.
 
 Pour proposer une présentation, merci de soumettre un résumé avant le 30 septembre 2026, indiquant clairement les auteurs, leurs affiliations, le titre, le type de présentation et un court résumé du contenu.
 Le résumé est à soumettre au format "pdf" sur le site suivant, en choisissant "Résumé (journée GT-RV seulement, 14 octobre)" comme type de soumission et "Session scientifique" comme thématique :  
-https://jfxr-2026.sciencesconf.org/submission/submit
+https://jfxr-2026.sciencesconf.org/user/submit
 
 
 # Informations pratiques
