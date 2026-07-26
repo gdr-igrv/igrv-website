@@ -11,7 +11,10 @@ role: "Co-responsable GT-RV"
 # Organizations/Affiliations
 organizations:
 - name:  IMT Atlantique
-  url: "https://www.imt-atlantique.fr/en"
+  url: "https://www.imt-atlantique.fr/"
+- name:  Lab-STICC
+  url: "https://labsticc.fr/"
+
 
 
 # Highlight the author in author lists? (true/false)
