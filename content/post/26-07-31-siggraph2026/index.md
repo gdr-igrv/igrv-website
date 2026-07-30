@@ -16,9 +16,6 @@ Enfin, l'article **Convolutional Wasserstein Distances: Efficient Optimal Transp
 
 N’hésitez pas à nous signaler tout oubli dans cette liste.
 
-
-{{% toc %}}
-
 ## [Efficient Multiscale Lanczos Eigenpair Extraction](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1117&sess=sess127)
 
 **Authors:**
