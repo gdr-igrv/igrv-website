@@ -7,7 +7,7 @@ authors:
 ---
 
 
-La conférence [SIGGRAPH 2026](https://s2026.siggraph.org) a permis une mise en valeur de certaines contributions des laboratoires français. Sur la partie "Technical Papers" du programme, nous reprenons ces articles présentés à la conférence.
+La conférence [SIGGRAPH 2026](https://s2026.siggraph.org) a permis une mise en valeur de certaines contributions des laboratoires français. Sur la partie "Technical Papers" du programme, nous reprenons la liste des articles présentés à Los Angeles.
 
 Notons également que deux articles : **Uncertainty-aware geometry processing on Gaussian Process Implicit Surfaces** (Baptiste Genest, David Coeurjolly) et **Implicit Minimal Surfaces for Bijective Correspondences** (Etienne Corman, Yousuf Soliman, Robin Magnet, Mark Gillespie) ont reçu un prix "Best Paper Award (Honorable Mention) lors de l'événement.
 
