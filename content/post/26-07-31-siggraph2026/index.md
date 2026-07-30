@@ -1,6 +1,6 @@
 ---
 title: Des contributions françaises à SIGGRAPH 2026
-date: 2026-07-31
+date: 2026-07-30
 draft: false
 authors:
   - David Coeurjolly
