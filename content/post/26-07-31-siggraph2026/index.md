@@ -33,7 +33,7 @@ N’hésitez pas à nous signaler tout oubli dans cette liste.
 13. [Exact predicates, exact constructions and combinatorics for mesh CSG](#exact-predicates-exact-constructions-and-combinatorics-for-mesh-csg)
 14. [Implicit Minimal Surfaces for Bijective Correspondences](#implicit-minimal-surfaces-for-bijective-correspondences)
 
-## [Efficient Multiscale Lanczos Eigenpair Extraction](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1117&sess=sess127)
+## <a id="efficient-multiscale-lanczos-eigenpair-extraction"></a>[Efficient Multiscale Lanczos Eigenpair Extraction](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1117&sess=sess127)
 
 **Authors:**
 
@@ -45,7 +45,7 @@ N’hésitez pas à nous signaler tout oubli dans cette liste.
 
 ![Image teaser](https://s2026.conference-schedule.org/wp-content/linklings_snippets/representative_images/HqigTfKxdnzyUkPG.jpg)
 
-## [Uncertainty-aware geometry processing on Gaussian Process Implicit Surfaces](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_140&sess=sess149)
+## <a id="uncertainty-aware-geometry-processing-on-gaussian-process-implicit-surfaces"></a>[Uncertainty-aware geometry processing on Gaussian Process Implicit Surfaces](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_140&sess=sess149)
 
 **Authors:**
 
@@ -56,7 +56,7 @@ N’hésitez pas à nous signaler tout oubli dans cette liste.
 
 ![Image teaser](https://s2026.conference-schedule.org/wp-content/linklings_snippets/representative_images/6R9MsJbeKDzuS8JA.jpg)
 
-## [AtomSlicer: Constant-Thickness Field-Aligned Non-Planar Slicing and Continuous Toolpaths for FFF](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1058&sess=sess118)
+## <a id="atomslicer-constant-thickness-field-aligned-non-planar-slicing-and-continuous-toolpaths-for-fff"></a>[AtomSlicer: Constant-Thickness Field-Aligned Non-Planar Slicing and Continuous Toolpaths for FFF](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1058&sess=sess118)
 
 **Authors:**
 
@@ -70,7 +70,7 @@ N’hésitez pas à nous signaler tout oubli dans cette liste.
 
 ![Image teaser](https://s2026.conference-schedule.org/wp-content/linklings_snippets/representative_images/cU8Y4vKv6iVRmb5W.jpg)
 
-## [SuperSDF:Sparse SDF Super-Resolution for Surface Extraction](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1060&sess=sess146)
+## <a id="supersdfsparse-sdf-super-resolution-for-surface-extraction"></a>[SuperSDF:Sparse SDF Super-Resolution for Surface Extraction](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1060&sess=sess146)
 
 **Authors:**
 
@@ -84,7 +84,7 @@ N’hésitez pas à nous signaler tout oubli dans cette liste.
 
 ![Image teaser](https://s2026.conference-schedule.org/wp-content/linklings_snippets/representative_images/kxm1mQ96RgUmpGep.jpg)
 
-## [Mechanical Cloaking of Halftoned Imagery](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1573&sess=sess118)
+## <a id="mechanical-cloaking-of-halftoned-imagery"></a>[Mechanical Cloaking of Halftoned Imagery](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1573&sess=sess118)
 
 **Authors:**
 
@@ -99,7 +99,7 @@ N’hésitez pas à nous signaler tout oubli dans cette liste.
 
 ![Image teaser](https://s2026.conference-schedule.org/wp-content/linklings_snippets/representative_images/e91Kw9HZQejBbFdT.jpg)
 
-## [The PhaseTree: Multiphase Signed Distance Fields](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1372&sess=sess146)
+## <a id="the-phasetree-multiphase-signed-distance-fields"></a>[The PhaseTree: Multiphase Signed Distance Fields](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1372&sess=sess146)
 
 **Authors:**
 
@@ -114,7 +114,7 @@ N’hésitez pas à nous signaler tout oubli dans cette liste.
 
 ![Image teaser](https://s2026.conference-schedule.org/wp-content/linklings_snippets/representative_images/65Fcp3ukLiwfMR7p.jpg)
 
-## [Volume-Preserving LBM-MPM Coupling for Air-Water-Sand Mixtures](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_297&sess=sess108)
+## <a id="volume-preserving-lbm-mpm-coupling-for-air-water-sand-mixtures"></a>[Volume-Preserving LBM-MPM Coupling for Air-Water-Sand Mixtures](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_297&sess=sess108)
 
 **Authors:**
 
@@ -128,7 +128,7 @@ N’hésitez pas à nous signaler tout oubli dans cette liste.
 
 ![Image teaser](https://s2026.conference-schedule.org/wp-content/linklings_snippets/representative_images/qmpJUVSehSsq1WHX.jpg)
 
-## [Fast and Accurate Gaussian Process Modelling of Real-World Materials](https://s2026.conference-schedule.org/?post_type=page&p=15&id=paperstog_128&sess=sess130)
+## <a id="fast-and-accurate-gaussian-process-modelling-of-real-world-materials"></a>[Fast and Accurate Gaussian Process Modelling of Real-World Materials](https://s2026.conference-schedule.org/?post_type=page&p=15&id=paperstog_128&sess=sess130)
 
 **Authors:**
 
@@ -142,7 +142,7 @@ N’hésitez pas à nous signaler tout oubli dans cette liste.
 
 ![Image teaser](https://s2026.conference-schedule.org/wp-content/linklings_snippets/representative_images/aodNT6g7pP8GoyXk.jpg)
 
-## [Stochastic geomorphological transport for terrain erosion simulation](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_735&sess=sess108)
+## <a id="stochastic-geomorphological-transport-for-terrain-erosion-simulation"></a>[Stochastic geomorphological transport for terrain erosion simulation](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_735&sess=sess108)
 
 **Authors:**
 
@@ -153,7 +153,7 @@ N’hésitez pas à nous signaler tout oubli dans cette liste.
 
 ![Image teaser](https://s2026.conference-schedule.org/wp-content/linklings_snippets/representative_images/Qu3m7PqQNB7tikxh.jpg)
 
-## [NILE: Nested Interleaving of Low-Dimensional Elements](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_154&sess=sess124)
+## <a id="nile-nested-interleaving-of-low-dimensional-elements"></a>[NILE: Nested Interleaving of Low-Dimensional Elements](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_154&sess=sess124)
 
 **Authors:**
 
@@ -166,7 +166,7 @@ N’hésitez pas à nous signaler tout oubli dans cette liste.
 
 ![Image teaser](https://s2026.conference-schedule.org/wp-content/linklings_snippets/representative_images/n2z4idWwG6w33tin.jpg)
 
-## [NeuralSketch2Surf: Fast Neural Surfacing of Unoriented 3D Sketches](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1671&sess=sess116)
+## <a id="neuralsketch2surf-fast-neural-surfacing-of-unoriented-3d-sketches"></a>[NeuralSketch2Surf: Fast Neural Surfacing of Unoriented 3D Sketches](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1671&sess=sess116)
 
 **Authors:**
 
@@ -182,7 +182,7 @@ N’hésitez pas à nous signaler tout oubli dans cette liste.
 
 ![Image teaser](https://s2026.conference-schedule.org/wp-content/linklings_snippets/representative_images/j4s93GRoj4x5KPo8.jpg)
 
-## [Explicit flows for implicit surfaces](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_681&sess=sess184)
+## <a id="explicit-flows-for-implicit-surfaces"></a>[Explicit flows for implicit surfaces](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_681&sess=sess184)
 
 **Authors:**
 
@@ -194,7 +194,7 @@ N’hésitez pas à nous signaler tout oubli dans cette liste.
 
 ![Image teaser](https://s2026.conference-schedule.org/wp-content/linklings_snippets/representative_images/u19Rs7aNRjZByDuD.jpg)
 
-## [Exact predicates, exact constructions and combinatorics for mesh CSG](https://s2026.conference-schedule.org/?post_type=page&p=15&id=paperstog_115&sess=sess122)
+## <a id="exact-predicates-exact-constructions-and-combinatorics-for-mesh-csg"></a>[Exact predicates, exact constructions and combinatorics for mesh CSG](https://s2026.conference-schedule.org/?post_type=page&p=15&id=paperstog_115&sess=sess122)
 
 **Authors:**
 
@@ -204,7 +204,7 @@ N’hésitez pas à nous signaler tout oubli dans cette liste.
 
 ![Image teaser](https://s2026.conference-schedule.org/wp-content/linklings_snippets/representative_images/wJWN9sLcfDMWzTxA.jpg)
 
-## [Implicit Minimal Surfaces for Bijective Correspondences](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1122&sess=sess129)
+## <a id="implicit-minimal-surfaces-for-bijective-correspondences"></a>[Implicit Minimal Surfaces for Bijective Correspondences](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1122&sess=sess129)
 
 **Authors:**
 
