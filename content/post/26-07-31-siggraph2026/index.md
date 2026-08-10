@@ -16,6 +16,23 @@ Enfin, l'article **Convolutional Wasserstein Distances: Efficient Optimal Transp
 
 N’hésitez pas à nous signaler tout oubli dans cette liste.
 
+**Sommaire**
+
+1. [Efficient Multiscale Lanczos Eigenpair Extraction](#efficient-multiscale-lanczos-eigenpair-extraction)
+2. [Uncertainty-aware geometry processing on Gaussian Process Implicit Surfaces](#uncertainty-aware-geometry-processing-on-gaussian-process-implicit-surfaces)
+3. [AtomSlicer: Constant-Thickness Field-Aligned Non-Planar Slicing and Continuous Toolpaths for FFF](#atomslicer-constant-thickness-field-aligned-non-planar-slicing-and-continuous-toolpaths-for-fff)
+4. [SuperSDF:Sparse SDF Super-Resolution for Surface Extraction](#supersdfsparse-sdf-super-resolution-for-surface-extraction)
+5. [Mechanical Cloaking of Halftoned Imagery](#mechanical-cloaking-of-halftoned-imagery)
+6. [The PhaseTree: Multiphase Signed Distance Fields](#the-phasetree-multiphase-signed-distance-fields)
+7. [Volume-Preserving LBM-MPM Coupling for Air-Water-Sand Mixtures](#volume-preserving-lbm-mpm-coupling-for-air-water-sand-mixtures)
+8. [Fast and Accurate Gaussian Process Modelling of Real-World Materials](#fast-and-accurate-gaussian-process-modelling-of-real-world-materials)
+9. [Stochastic geomorphological transport for terrain erosion simulation](#stochastic-geomorphological-transport-for-terrain-erosion-simulation)
+10. [NILE: Nested Interleaving of Low-Dimensional Elements](#nile-nested-interleaving-of-low-dimensional-elements)
+11. [NeuralSketch2Surf: Fast Neural Surfacing of Unoriented 3D Sketches](#neuralsketch2surf-fast-neural-surfacing-of-unoriented-3d-sketches)
+12. [Explicit flows for implicit surfaces](#explicit-flows-for-implicit-surfaces)
+13. [Exact predicates, exact constructions and combinatorics for mesh CSG](#exact-predicates-exact-constructions-and-combinatorics-for-mesh-csg)
+14. [Implicit Minimal Surfaces for Bijective Correspondences](#implicit-minimal-surfaces-for-bijective-correspondences)
+
 ## [Efficient Multiscale Lanczos Eigenpair Extraction](https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_1117&sess=sess127)
 
 **Authors:**
