@@ -12,8 +12,8 @@ address:
   postcode: '75647'
   country: France
 
-summary: "Journée GT Rendu 2025"
-abstract: "La prochaine journée du Groupe de Travail Rendu du GDR IGRV aura lieu dans les locaux d'Inria Paris le 15 septembre 2025."
+summary: "Journée GT Rendu 2026"
+abstract: "La prochaine journée du Groupe de Travail Rendu du GDR IGRV aura lieu dans les locaux d'Inria Paris le 14 septembre 2026."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
