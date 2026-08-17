@@ -65,20 +65,20 @@ Venez faire vivre ces journées en contribuant ou simplement pour rencontrer et 
   - travaux d'une équipe de recherche sur les dernières années
   - etc.
 
- ** INSCRIPTIONS **
+ **INSCRIPTIONS**
  Pour assister aux présentations, merci d'ajouter votre prénom/nom/organisme dans ce framapad :
 
 https://mypads2.framapad.org/p/pad-gt-rendu-2026-hdx2e957
 
 La liste des participants sera transmise à Inria 3 jours avant le début du GT et une pièce d'identité vous sera demandée à l'entrée.
 
-** CONTRIBUTIONS **
+**CONTRIBUTIONS**
  Pour présenter, envoyez un email à Romain P., George et moi-même contenant [GT Rendu] dans le sujet, avec les informations suivantes :
  - Prénom, nom, organisme de l'orateur
  - Titre de la présentation
  - Éventuellement, un lien vers une page web s'il s'agit d'un travail déjà publié ou diffusé.
 
- ** ADRESSE **
+ **ADRESSE**
  Centre de Recherche Inria de Paris
 48 Rue Barrault  CS 61534
 75 647 Paris Cedex - France
