@@ -32,6 +32,23 @@ Une décision très rapide devrait arriver dans la foulée pour la mise en place
 
 ## Mobilités passées
 
+### En 2026 (premier appel) :
+
+* Mae Mavromatis (IRISA Rennes → LIG Grenoble)
+* Gabriel Gournay (IRIT Toulouse → XLIM Poitiers)
+
+### En 2025 :
+
+* Thierry BAY (CEREMATH Valenciennes → XLIM Poitiers)
+* Kewei XU (XLIM Poitiers→ INRIA Manao Bordeaux)
+* Loic Drieu La Rochelle (XLIM Poitiers → Loria Nancy)
+* Ibrahim Diarra (LIB Dijon → IRAA Aix-en-Provence)
+* Sophie Villenave (LIRIS Lyon → LS2N Nantes).
+
+### En 2024 :
+
+* Aymeric Erades (LIRIS Lyon →Inria MimeTIC à Rennes)
+* Ivan RAskin (LIB Dijon → IMAG Montpellier)
 
 ### En 2023 :
 
