@@ -3,7 +3,7 @@ title: Code de conduite des journées scientifiques GdR IG-RV
 #subtitle: 'GdR IG-RV organise un prix de thèse IGRV avec le soutien des associations AFIG, AFRV et EGFR. L’objectif de ce prix de thèse est de récompenser chaque année une excellente thèse issue de la communauté du GdR IG-RV.'
 
 featured: featured.png
-author: ["David Coeurjolly", "Maud Marchal"]
+authors: ["David Coeurjolly","Maud Marchal"]
 weight: 10
 date: 2026-02-02
 ---
