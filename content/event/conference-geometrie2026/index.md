@@ -3,7 +3,7 @@ draft: false
 title: "Conférence « Geometry & Computing »"
 
 event: GeomComp2026
-event_url:  
+event_url:  https://geocomp2026.sciencesconf.org
 
 location: "CIRM, Marseille (France)"
 
@@ -50,5 +50,4 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
-TBA
+More information: https://geocomp2026.sciencesconf.org
