@@ -14,9 +14,9 @@ Following the large success of the first (2019) and second (2022) editions of Gr
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2026-11-95T09:00:00Z"
+date: "2026-11-09T09:00:00Z"
 date_end: "2026-11-13T16:00:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2026-08-27"
