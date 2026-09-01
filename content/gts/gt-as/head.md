@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: false
-
+authors: ["Caroline Larboulette", "Benoit Crespin"]
 # ... Put Your Section Options Here (title etc.) ...
 title: Groupe de travail "Animation & Simulation" (GT-AS)
 subtitle:

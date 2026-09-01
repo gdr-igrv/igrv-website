@@ -1,19 +1,21 @@
 ---
 # Display name
-title: Romain Vergne
+title: Cédric Fleury
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Co-responsable GT Rendu"
-draft: true
+role: "Co-responsable GT-RV"
+
 # Organizations/Affiliations
 organizations:
-- name:  Université Grenoble Alpes
-  url: "https://www.univ-grenoble-alpes.fr"
-- name: Laboratoire Jean  Kuntzmann, INRIA
-  url: "https://www-ljk.imag.fr/#header"
+- name:  IMT Atlantique
+  url: "https://www.imt-atlantique.fr/"
+- name:  Lab-STICC
+  url: "https://labsticc.fr/"
+
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

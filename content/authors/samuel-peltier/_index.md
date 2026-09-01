@@ -1,18 +1,21 @@
 ---
 # Display name
-title: Cédric Fleury
+title: Samuel Peltier
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Co-responsable GT-RV"
+role:
+role: "Co-responsable GT MG"
+
 
 # Organizations/Affiliations
 organizations:
-- name:  IMT Atlantique
-  url: "https://www.imt-atlantique.fr/en"
-
+- name:  Université de Poitiers
+  url: "https://www.univ-poitiers.fr"
+- name: XLIM
+  url: "https://www.xlim.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

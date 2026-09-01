@@ -7,7 +7,7 @@ superuser: false
 
 # Role/position
 role: "Co-responsable GT MG"
-
+draft: true
 # Organizations/Affiliations
 organizations:
 - name: Université de Bourgogne

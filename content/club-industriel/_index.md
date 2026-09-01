@@ -17,7 +17,7 @@ Un club des partenaires industriels selon un modèle ouvert complète l’ensemb
 {{% callout note %}}
 En bref :
 * participation à la vie scientifique de la communauté GdR via le financement de ses actions ;
-* soutien du prix de thèse du GdR et des associations AFIG et EGFR ;
+* soutien du prix de thèse du GdR et des associations AFIG, EGFR et AFXR ;
 * visibilité lors des événements nationaux (plénières, écoles de recherche...) ;
 * canal de communication privilégié vers les laboratoires et chercheurs.
 {{% /callout %}}

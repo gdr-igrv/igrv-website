@@ -1,19 +1,21 @@
 ---
 # Display name
-title: Romain Vergne
+title: Thibault Tricard
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
+role:
 role: "Co-responsable GT Rendu"
-draft: true
+
+
 # Organizations/Affiliations
 organizations:
-- name:  Université Grenoble Alpes
-  url: "https://www.univ-grenoble-alpes.fr"
-- name: Laboratoire Jean  Kuntzmann, INRIA
-  url: "https://www-ljk.imag.fr/#header"
+- name:  Ensimag
+  url: "https://ensimag.grenoble-inp.fr"
+- name: Maverick INRIA
+  url: "https://maverick.inria.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

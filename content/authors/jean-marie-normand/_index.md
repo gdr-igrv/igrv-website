@@ -10,7 +10,7 @@ role: "Co-responsable GT-RV"
 
 # Organizations/Affiliations
 organizations:
-- name: Ecole Centrale de Nantes, AAU
+- name: Ecole Centrale de Nantes, LS2N
   url: ""
 
 # Highlight the author in author lists? (true/false)

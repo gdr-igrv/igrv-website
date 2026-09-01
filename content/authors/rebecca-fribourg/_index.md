@@ -12,8 +12,8 @@ role: Groupe des rédacteurs scientifiques
 organizations:
 - name:  Ecole Centrale de Nantes
   url: "https://www.ec-nantes.fr/"
-- name:  Laboratoire AAU, équipe CRENAU
-  url: "https://aau.archi.fr/"
+- name:  Laboratoire LS2N
+#  url: "https://aau.archi.fr/"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
