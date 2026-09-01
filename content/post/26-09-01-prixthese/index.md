@@ -1,5 +1,5 @@
 ---
-title: Résultats du prix de thèse du GdR et des associations AFIG et EGFR 2025
+title: Résultats du prix de thèse du GdR et des associations AFIG et EGFR 2026
 date: 2026-09-01
 draft: false
 authors:
