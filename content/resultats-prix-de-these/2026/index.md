@@ -13,7 +13,7 @@ authors:
 
 **Jeanne Hecquard** (IRISA, Université de Rennes) pour sa thèse intitulée « *Modulation of social perception during virtual interactions with affective haptic devices* » effectuée sous la direction de Marc Macé et Anatole Lécuyer
 
-<!--{{< video src="https://projet.liris.cnrs.fr/gdr-igrv-data/Videos-PrixThese/2026/TO_BE_DONE.mp4" controls="yes" >}}-->
+{{< video src="https://projet.liris.cnrs.fr/gdr-igrv-data/Videos-PrixThese/2026/videoHecquard.mp4" controls="yes" >}}
 
 [Thèse](https://theses.hal.science/tel-05509426)
 
