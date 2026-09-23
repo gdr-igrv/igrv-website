@@ -2,6 +2,9 @@
 
 [https://gdr-igrv.fr/](https://gdr-igrv.fr/)
 
+
+**ATTENTION**: il faut un Hugo 0.122 pour compiler le site (c'est celui qu'utilise le github worklow).
+
 ## HowTo
 
 * Ajouter un évènement : dupliquer repertoire `event/example`, editer/completer `index.md` (+ image `featured.png`)
