@@ -6,4 +6,4 @@ authors:
     - Etienne Peillard
 ---
 
-[Johanna]({{<ref johanna-delanoy>}}), [Rebecca]({{<ref rebecca-fribourg>}}) et [Étienne]({{<ref etienne-corman>}}) rejoignent l'équipe de rédaction du site web du GdR. Ils participeront à la rédaction des articles et brèves du site et à la communication du GdR. Merci à eux !
+[Johanna]({{<ref johanna-delanoy>}}), [Rebecca]({{<ref rebecca-fribourg>}}) et [Étienne Corman]() rejoignent l'équipe de rédaction du site web du GdR. Ils participeront à la rédaction des articles et brèves du site et à la communication du GdR. Merci à eux !
