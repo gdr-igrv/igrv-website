@@ -21,7 +21,7 @@ authors:
 
 **Eve Le Guillou** (LIP6, Sorbonne Université) pour sa thèse intitulée « *Distributed Topological Analysis* » effectuée sous la direction de Julien Tierny et Pierre Fortin
 
-<!-- {{< video src="https://projet.liris.cnrs.fr/gdr-igrv-data/Videos-PrixThese/2026/TO_BE_DONE.mp4" controls="yes" >}} -->
+{{< video src="https://projet.liris.cnrs.fr/gdr-igrv-data/Videos-PrixThese/2026/videoAccessitLeGuillou.mp4" controls="yes" >}}
 
 [Thèse](https://theses.hal.science/tel-05354031)
 
