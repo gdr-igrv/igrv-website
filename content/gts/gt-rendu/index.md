@@ -9,7 +9,7 @@ date: 2021-06-21
 <img src="rep-img-gt-rendu.jpg" height="300" >
 
 * **Site** : http://gtrendu.blogspot.fr/
-* **Responsable** : George Drettakis (INRIA, Sophia-Antipolis), Romain Pacanowski (INRIA, Bordeaux), Thibault Tricard (Ensimag, Grenoble)
+* **Responsable** : Romain Pacanowski (INRIA, Bordeaux), Thibault Tricard (Ensimag, Grenoble)
 * **Mots-clés** : rendu photo réaliste, simulation de l'éclairage et d'effets lumineux, rendu inverse, rendu expressif, rendu artistique, réalité augmentée, rendu temps réel, rendu basé image.
 
 <br>
