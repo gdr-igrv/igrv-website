@@ -13,6 +13,7 @@ organizations:
 - name: Ecole Centrale de Lyon, CNRS, LIRIS
   url: ""
 
+draft: true
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 

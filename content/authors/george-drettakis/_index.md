@@ -7,6 +7,7 @@ superuser: false
 
 # Role/position
 role: "Co-responsable GT-Rendu"
+draft: true
 
 # Organizations/Affiliations
 organizations:
